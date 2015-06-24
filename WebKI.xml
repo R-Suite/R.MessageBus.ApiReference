@@ -1,45 +1,63 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
+  <HelpKINode Title="AcceptablePolicyErrors property">
+    <HelpKINode Title="ITransportSettings.AcceptablePolicyErrors Property " Url="html/ea109229-9fa6-4595-1d95-058019ffce22.htm" />
+    <HelpKINode Title="TransportSettings.AcceptablePolicyErrors Property " Url="html/2f58d0e2-41e8-1962-17c9-ce61c6c0722b.htm" />
+  </HelpKINode>
   <HelpKINode Title="AddBus method">
+    <HelpKINode Title="DefaultBusContainer.AddBus Method " Url="html/6ed73203-97ad-cff0-103d-5dc3decb63e0.htm" />
     <HelpKINode Title="IBusContainer.AddBus Method " Url="html/46203271-3c13-c3cf-b1d3-f8ad5a152e8e.htm" />
-    <HelpKINode Title="StructuremapContainer.AddBus Method " Url="html/8e67d99a-9f68-2a71-3dd8-97a35de1fd86.htm" />
+    <HelpKINode Title="NinjectContainer.AddBus Method " Url="html/cfdcdbc5-b7e7-06d2-b404-334af92ddfec.htm" />
+    <HelpKINode Title="StructureMapContainer.AddBus Method " Url="html/f4504f00-4d4d-240a-2c97-c542850bdfc0.htm" />
   </HelpKINode>
   <HelpKINode Title="AddBusToContainer property">
     <HelpKINode Title="Configuration.AddBusToContainer Property " Url="html/c07c6be6-755d-38ce-aa7a-f9f2b298c475.htm" />
     <HelpKINode Title="IConfiguration.AddBusToContainer Property " Url="html/caab911d-8832-40ba-b237-ff92ded5739d.htm" />
   </HelpKINode>
+  <HelpKINode Title="AddConsumer method">
+    <HelpKINode Title="ConsumerPool.AddConsumer Method " Url="html/df4096e2-eafb-5506-114c-1bbc1079a2de.htm" />
+    <HelpKINode Title="IConsumerPool.AddConsumer Method " Url="html/72fce2a6-5da9-465e-e2ed-3b350b8e6153.htm" />
+  </HelpKINode>
   <HelpKINode Title="AddHandler(Of T) method">
+    <HelpKINode Title="DefaultBusContainer.AddHandler(T) Method " Url="html/e9e415b9-3fa9-523c-90af-dd87e938cd45.htm" />
     <HelpKINode Title="IBusContainer.AddHandler(T) Method " Url="html/7688b77e-d08f-3cd8-f0b5-32e0833a3add.htm" />
-    <HelpKINode Title="StructuremapContainer.AddHandler(T) Method " Url="html/7b81a1ca-7bf4-2094-11a3-6897f91cd02e.htm" />
+    <HelpKINode Title="NinjectContainer.AddHandler(T) Method " Url="html/cafb58d1-0ebe-8c00-608e-24b965223a23.htm" />
+    <HelpKINode Title="StructureMapContainer.AddHandler(T) Method " Url="html/d4d52e85-78cf-376b-c04c-a41fd1f4a319.htm" />
   </HelpKINode>
   <HelpKINode Title="AddHandler&lt;T&gt; method">
+    <HelpKINode Title="DefaultBusContainer.AddHandler(T) Method " Url="html/e9e415b9-3fa9-523c-90af-dd87e938cd45.htm" />
     <HelpKINode Title="IBusContainer.AddHandler(T) Method " Url="html/7688b77e-d08f-3cd8-f0b5-32e0833a3add.htm" />
-    <HelpKINode Title="StructuremapContainer.AddHandler(T) Method " Url="html/7b81a1ca-7bf4-2094-11a3-6897f91cd02e.htm" />
+    <HelpKINode Title="NinjectContainer.AddHandler(T) Method " Url="html/cafb58d1-0ebe-8c00-608e-24b965223a23.htm" />
+    <HelpKINode Title="StructureMapContainer.AddHandler(T) Method " Url="html/d4d52e85-78cf-376b-c04c-a41fd1f4a319.htm" />
   </HelpKINode>
   <HelpKINode Title="AddQueueMapping method">
     <HelpKINode Title="Configuration.AddQueueMapping Method " Url="html/971260b0-2dcb-a3a2-eaec-014e3d1f7420.htm" />
     <HelpKINode Title="IConfiguration.AddQueueMapping Method " Url="html/9100d3a4-3d2c-46c4-8a79-2a89a16c11d9.htm" />
   </HelpKINode>
+  <HelpKINode Title="AfterConsumingFilters property">
+    <HelpKINode Title="Configuration.AfterConsumingFilters Property " Url="html/f3787452-897f-6203-dac3-0ebbc6f6e3c3.htm" />
+    <HelpKINode Title="IConfiguration.AfterConsumingFilters Property " Url="html/965cb6cc-d38f-4405-8901-d28e22981875.htm" />
+  </HelpKINode>
   <HelpKINode Title="Aggregator(Of T) class">
-    <HelpKINode Title="Aggregator(T) Class" Url="html/1cfd0895-cdaa-c2cd-3990-814a4e02721b.htm" />
-    <HelpKINode Title="about Aggregator(Of T) class" Url="html/1cfd0895-cdaa-c2cd-3990-814a4e02721b.htm" />
-    <HelpKINode Title="constructor" Url="html/93005416-0c9c-96be-bcf2-96ba6dbfd2e5.htm" />
-    <HelpKINode Title="methods" Url="html/fdb19cc3-9605-b980-ae74-e3e6ea56bc7f.htm" />
+    <HelpKINode Title="Aggregator(T) Class" Url="html/2127f704-45f1-cb72-ab52-92efca07f45c.htm" />
+    <HelpKINode Title="about Aggregator(Of T) class" Url="html/2127f704-45f1-cb72-ab52-92efca07f45c.htm" />
+    <HelpKINode Title="constructor" Url="html/98b60f29-c8d5-5d67-9c16-a0e78e5a21c6.htm" />
+    <HelpKINode Title="methods" Url="html/f83c71b1-de89-b56e-cc4c-569ca138ed24.htm" />
   </HelpKINode>
-  <HelpKINode Title="Aggregator(Of T).Aggregator constructor" Url="html/93005416-0c9c-96be-bcf2-96ba6dbfd2e5.htm" />
-  <HelpKINode Title="Aggregator(Of T).BatchSize method" Url="html/7e8bb062-99b4-db15-a38f-aa013205528e.htm" />
-  <HelpKINode Title="Aggregator(Of T).Execute method" Url="html/bc649ba2-dd3a-da38-1ba3-7399062b33f0.htm" />
-  <HelpKINode Title="Aggregator(Of T).Timeout method" Url="html/3cf2f2a1-0ebd-444f-7ae2-4bf2a8b7252c.htm" />
+  <HelpKINode Title="Aggregator(Of T).Aggregator constructor" Url="html/98b60f29-c8d5-5d67-9c16-a0e78e5a21c6.htm" />
+  <HelpKINode Title="Aggregator(Of T).BatchSize method" Url="html/6b015018-4970-fac0-249b-3bdb884e3035.htm" />
+  <HelpKINode Title="Aggregator(Of T).Execute method" Url="html/6912be42-599a-ee7a-b7d4-f3b40c1570e6.htm" />
+  <HelpKINode Title="Aggregator(Of T).Timeout method" Url="html/d5f6adb3-ac40-699a-ac60-16d65f2c1252.htm" />
   <HelpKINode Title="Aggregator&lt;T&gt; class">
-    <HelpKINode Title="Aggregator(T) Class" Url="html/1cfd0895-cdaa-c2cd-3990-814a4e02721b.htm" />
-    <HelpKINode Title="about Aggregator&lt;T&gt; class" Url="html/1cfd0895-cdaa-c2cd-3990-814a4e02721b.htm" />
-    <HelpKINode Title="constructor" Url="html/93005416-0c9c-96be-bcf2-96ba6dbfd2e5.htm" />
-    <HelpKINode Title="methods" Url="html/fdb19cc3-9605-b980-ae74-e3e6ea56bc7f.htm" />
+    <HelpKINode Title="Aggregator(T) Class" Url="html/2127f704-45f1-cb72-ab52-92efca07f45c.htm" />
+    <HelpKINode Title="about Aggregator&lt;T&gt; class" Url="html/2127f704-45f1-cb72-ab52-92efca07f45c.htm" />
+    <HelpKINode Title="constructor" Url="html/98b60f29-c8d5-5d67-9c16-a0e78e5a21c6.htm" />
+    <HelpKINode Title="methods" Url="html/f83c71b1-de89-b56e-cc4c-569ca138ed24.htm" />
   </HelpKINode>
-  <HelpKINode Title="Aggregator&lt;T&gt;.Aggregator constructor" Url="html/93005416-0c9c-96be-bcf2-96ba6dbfd2e5.htm" />
-  <HelpKINode Title="Aggregator&lt;T&gt;.BatchSize method" Url="html/7e8bb062-99b4-db15-a38f-aa013205528e.htm" />
-  <HelpKINode Title="Aggregator&lt;T&gt;.Execute method" Url="html/bc649ba2-dd3a-da38-1ba3-7399062b33f0.htm" />
-  <HelpKINode Title="Aggregator&lt;T&gt;.Timeout method" Url="html/3cf2f2a1-0ebd-444f-7ae2-4bf2a8b7252c.htm" />
+  <HelpKINode Title="Aggregator&lt;T&gt;.Aggregator constructor" Url="html/98b60f29-c8d5-5d67-9c16-a0e78e5a21c6.htm" />
+  <HelpKINode Title="Aggregator&lt;T&gt;.BatchSize method" Url="html/6b015018-4970-fac0-249b-3bdb884e3035.htm" />
+  <HelpKINode Title="Aggregator&lt;T&gt;.Execute method" Url="html/6912be42-599a-ee7a-b7d4-f3b40c1570e6.htm" />
+  <HelpKINode Title="Aggregator&lt;T&gt;.Timeout method" Url="html/d5f6adb3-ac40-699a-ac60-16d65f2c1252.htm" />
   <HelpKINode Title="AggregatorPersistor property">
     <HelpKINode Title="Configuration.AggregatorPersistor Property " Url="html/f095ea50-241b-1d06-9833-3e6ea5103dc3.htm" />
     <HelpKINode Title="IConfiguration.AggregatorPersistor Property " Url="html/73c6aa22-fbbb-c704-95a4-cad883a4237e.htm" />
@@ -47,39 +65,43 @@
   <HelpKINode Title="AggregatorProcessor class">
     <HelpKINode Title="AggregatorProcessor Class" Url="html/afe28a7f-a282-c70c-7628-b868b63a9f6c.htm" />
     <HelpKINode Title="about AggregatorProcessor class" Url="html/afe28a7f-a282-c70c-7628-b868b63a9f6c.htm" />
-    <HelpKINode Title="constructor" Url="html/69ad544d-cc29-2ff9-50c2-caa4a0fbb04c.htm" />
+    <HelpKINode Title="constructor" Url="html/af4eca61-ad9f-f484-bf12-eea48da348a2.htm" />
     <HelpKINode Title="methods" Url="html/65907cfd-4a04-92e2-fffa-12d655732887.htm" />
   </HelpKINode>
-  <HelpKINode Title="AggregatorProcessor.AggregatorProcessor constructor" Url="html/69ad544d-cc29-2ff9-50c2-caa4a0fbb04c.htm" />
+  <HelpKINode Title="AggregatorProcessor property">
+    <HelpKINode Title="Configuration.AggregatorProcessor Property " Url="html/8f0293b1-401c-4530-2363-b3f4f46a5ca7.htm" />
+    <HelpKINode Title="IConfiguration.AggregatorProcessor Property " Url="html/f2a91501-6e37-c431-9678-2453785e9263.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AggregatorProcessor.AggregatorProcessor constructor" Url="html/af4eca61-ad9f-f484-bf12-eea48da348a2.htm" />
+  <HelpKINode Title="AggregatorProcessor.Dispose method" Url="html/aee5396f-551b-6828-595c-6474cc9e829b.htm" />
   <HelpKINode Title="AggregatorProcessor.ProcessMessage(Of T) method" Url="html/22ec16f1-a84d-3558-a5df-953f7901a0b2.htm" />
   <HelpKINode Title="AggregatorProcessor.ProcessMessage&lt;T&gt; method" Url="html/22ec16f1-a84d-3558-a5df-953f7901a0b2.htm" />
-  <HelpKINode Title="AggregatorTimer class">
-    <HelpKINode Title="AggregatorTimer Class" Url="html/4fea4bd5-3ab2-7f0b-92b0-3a67b7205cf4.htm" />
-    <HelpKINode Title="about AggregatorTimer class" Url="html/4fea4bd5-3ab2-7f0b-92b0-3a67b7205cf4.htm" />
-    <HelpKINode Title="constructor" Url="html/15e74190-3bb2-a8e5-cd9e-55f3f7c759e6.htm" />
-    <HelpKINode Title="methods" Url="html/6d374aaa-00d2-c0bd-a007-a55ada8a84a4.htm" />
-  </HelpKINode>
-  <HelpKINode Title="AggregatorTimer property">
-    <HelpKINode Title="Configuration.AggregatorTimer Property " Url="html/dcd267cd-33b9-33e5-60de-c26eef0e1109.htm" />
-    <HelpKINode Title="IConfiguration.AggregatorTimer Property " Url="html/6b7261d6-bea4-6504-1dc4-af6d9aecc1c3.htm" />
-  </HelpKINode>
-  <HelpKINode Title="AggregatorTimer.AggregatorTimer constructor" Url="html/15e74190-3bb2-a8e5-cd9e-55f3f7c759e6.htm" />
-  <HelpKINode Title="AggregatorTimer.Dispose method" Url="html/d799b2e6-7cf0-757b-a4f7-6d2722900b09.htm" />
-  <HelpKINode Title="AggregatorTimer.StartTimer(Of T) method" Url="html/e0e69e33-18ca-097b-f073-7f745b36f58c.htm" />
-  <HelpKINode Title="AggregatorTimer.StartTimer&lt;T&gt; method" Url="html/e0e69e33-18ca-097b-f073-7f745b36f58c.htm" />
+  <HelpKINode Title="AggregatorProcessor.ResetTimer method" Url="html/9942b6d5-9e9e-f61e-d25a-a0532130ae89.htm" />
+  <HelpKINode Title="AggregatorProcessor.StartTimer(Of T) method" Url="html/02b9563f-af69-2a4b-317c-21212e106802.htm" />
+  <HelpKINode Title="AggregatorProcessor.StartTimer&lt;T&gt; method" Url="html/02b9563f-af69-2a4b-317c-21212e106802.htm" />
+  <HelpKINode Title="AllInstances property" Url="html/8f7afda7-3c84-07e2-ecd7-88593ad69b89.htm" />
   <HelpKINode Title="AppSettings property">
     <HelpKINode Title="ConfigurationManagerWrapper.AppSettings Property " Url="html/f9854c26-7d54-0ea7-a5ba-cbc5d45de00b.htm" />
     <HelpKINode Title="IConfigurationManager.AppSettings Property " Url="html/e87a3706-cfd8-9f14-54b4-348433dfe0ce.htm" />
   </HelpKINode>
-  <HelpKINode Title="Arguments property" Url="html/a239f0e0-389f-2887-3227-401d2ce52ac9.htm" />
-  <HelpKINode Title="AuditingEnabled property" Url="html/34e4d641-3ee5-04ea-701b-9275bb5ceadb.htm" />
-  <HelpKINode Title="AuditQueueName property" Url="html/74a01251-358c-0b87-544c-4fe83c97abd8.htm" />
-  <HelpKINode Title="AutoDelete property" Url="html/41ccc284-7fea-d788-6bb5-8b2eab57af98.htm" />
+  <HelpKINode Title="AuditingEnabled property">
+    <HelpKINode Title="ITransportSettings.AuditingEnabled Property " Url="html/34e4d641-3ee5-04ea-701b-9275bb5ceadb.htm" />
+    <HelpKINode Title="TransportSettings.AuditingEnabled Property " Url="html/5c8be956-db58-efc6-ee2f-a34942c8119d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AuditQueueName property">
+    <HelpKINode Title="ITransportSettings.AuditQueueName Property " Url="html/74a01251-358c-0b87-544c-4fe83c97abd8.htm" />
+    <HelpKINode Title="TransportSettings.AuditQueueName Property " Url="html/3f42e7df-d4de-e024-2b23-b8c7380049d9.htm" />
+  </HelpKINode>
   <HelpKINode Title="AutoStartConsuming property">
     <HelpKINode Title="Configuration.AutoStartConsuming Property " Url="html/68c56abe-87bc-cecb-3780-ebeb2f4b62af.htm" />
     <HelpKINode Title="IConfiguration.AutoStartConsuming Property " Url="html/b0c454b2-884f-3c83-5da6-b583e56c9a30.htm" />
   </HelpKINode>
-  <HelpKINode Title="BatchSize method" Url="html/7e8bb062-99b4-db15-a38f-aa013205528e.htm" />
+  <HelpKINode Title="BatchSize method" Url="html/6b015018-4970-fac0-249b-3bdb884e3035.htm" />
+  <HelpKINode Title="BeforeConsumingFilters property">
+    <HelpKINode Title="Configuration.BeforeConsumingFilters Property " Url="html/044da701-f7ae-6d7c-0811-f7a667d9c7ad.htm" />
+    <HelpKINode Title="IConfiguration.BeforeConsumingFilters Property " Url="html/6d710138-2350-f1b6-628d-f1b27ab840b0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Body property" Url="html/c13a828b-8654-5429-a3f4-2fd21c6776b3.htm" />
   <HelpKINode Title="Bus class">
     <HelpKINode Title="Bus Class" Url="html/d7962baf-801c-1489-94e3-5220e1e0dd6c.htm" />
     <HelpKINode Title="about Bus class" Url="html/d7962baf-801c-1489-94e3-5220e1e0dd6c.htm" />
@@ -107,7 +129,30 @@
   <HelpKINode Title="Bus.SendRequest method" Url="html/0f7403de-3ec3-18e4-f6c6-01566756cc6f.htm" />
   <HelpKINode Title="Bus.StartConsuming method" Url="html/8b04a53b-2af3-98f9-2881-1939b2912471.htm" />
   <HelpKINode Title="Bus.StopConsuming method" Url="html/74c61802-cc43-fb3a-9dc2-6210a69219e7.htm" />
-  <HelpKINode Title="ClientSettings property" Url="html/5e742aee-2b79-259d-bdb4-fd5e416ed0d8.htm" />
+  <HelpKINode Title="CertificateSelectionCallback property">
+    <HelpKINode Title="ITransportSettings.CertificateSelectionCallback Property " Url="html/dc6996d6-d13b-5d1d-d623-b73e69bb49ac.htm" />
+    <HelpKINode Title="TransportSettings.CertificateSelectionCallback Property " Url="html/c31d755d-294f-dff4-63e8-1c367597b3e8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CertificateValidationCallback property">
+    <HelpKINode Title="ITransportSettings.CertificateValidationCallback Property " Url="html/49f44e28-60f2-c2dc-a942-1c6cab99a3a2.htm" />
+    <HelpKINode Title="TransportSettings.CertificateValidationCallback Property " Url="html/2b88266e-42ef-d0d9-ee77-cf0297313b98.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CertPassphrase property">
+    <HelpKINode Title="ITransportSettings.CertPassphrase Property " Url="html/9d4dea13-bbfa-39f9-3bc9-d5dca8dbbabf.htm" />
+    <HelpKINode Title="TransportSettings.CertPassphrase Property " Url="html/e37ae370-0d30-fea3-0ac7-3ed1ca69e281.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CertPath property">
+    <HelpKINode Title="ITransportSettings.CertPath Property " Url="html/5f76bc34-b465-6ef2-eb16-efb90f6fde0c.htm" />
+    <HelpKINode Title="TransportSettings.CertPath Property " Url="html/a8210af5-8db1-00e9-dbbc-d8db4bb226a7.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Certs property">
+    <HelpKINode Title="ITransportSettings.Certs Property " Url="html/8ea671f9-4259-4ee5-73c8-4a782fdae2aa.htm" />
+    <HelpKINode Title="TransportSettings.Certs Property " Url="html/ee8f797b-2803-c85c-249f-cd06f8ff8543.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ClientSettings property">
+    <HelpKINode Title="ITransportSettings.ClientSettings Property " Url="html/5e742aee-2b79-259d-bdb4-fd5e416ed0d8.htm" />
+    <HelpKINode Title="TransportSettings.ClientSettings Property " Url="html/baee54f8-8283-85b9-38d3-953a8a73272d.htm" />
+  </HelpKINode>
   <HelpKINode Title="Close method">
     <HelpKINode Title="IMessageBusWriteStream.Close Method " Url="html/8d694b08-5c3f-3495-0b50-6fbf3579a2d7.htm" />
     <HelpKINode Title="MessageBusWriteStream.Close Method " Url="html/affeb9f9-b671-0e69-4d4b-348c897dc011.htm" />
@@ -130,28 +175,32 @@
   </HelpKINode>
   <HelpKINode Title="Configuration.AddBusToContainer property" Url="html/c07c6be6-755d-38ce-aa7a-f9f2b298c475.htm" />
   <HelpKINode Title="Configuration.AddQueueMapping method" Url="html/971260b0-2dcb-a3a2-eaec-014e3d1f7420.htm" />
+  <HelpKINode Title="Configuration.AfterConsumingFilters property" Url="html/f3787452-897f-6203-dac3-0ebbc6f6e3c3.htm" />
   <HelpKINode Title="Configuration.AggregatorPersistor property" Url="html/f095ea50-241b-1d06-9833-3e6ea5103dc3.htm" />
-  <HelpKINode Title="Configuration.AggregatorTimer property" Url="html/dcd267cd-33b9-33e5-60de-c26eef0e1109.htm" />
+  <HelpKINode Title="Configuration.AggregatorProcessor property" Url="html/8f0293b1-401c-4530-2363-b3f4f46a5ca7.htm" />
   <HelpKINode Title="Configuration.AutoStartConsuming property" Url="html/68c56abe-87bc-cecb-3780-ebeb2f4b62af.htm" />
+  <HelpKINode Title="Configuration.BeforeConsumingFilters property" Url="html/044da701-f7ae-6d7c-0811-f7a667d9c7ad.htm" />
   <HelpKINode Title="Configuration.Configuration constructor" Url="html/27d8c728-2d6d-39e2-05ab-988f6e181f5e.htm" />
+  <HelpKINode Title="Configuration.ConsumerPool property" Url="html/5d802e4d-ac3f-68da-52f4-c1f498f743b4.htm" />
+  <HelpKINode Title="Configuration.ConsumerPoolType property" Url="html/6e8e715d-3bcd-af7f-f5bf-a4bf7103f066.htm" />
   <HelpKINode Title="Configuration.ConsumerType property" Url="html/0b9fb4e5-1a2e-30de-30ab-5a9869b903a3.htm" />
-  <HelpKINode Title="Configuration.Container property" Url="html/fad4c366-7e8a-a737-5e54-786c1913595a.htm" />
   <HelpKINode Title="Configuration.ExceptionHandler property" Url="html/d7165224-d78d-04aa-d07e-5eb0fa14635f.htm" />
   <HelpKINode Title="Configuration.GetAggregatorPersistor method" Url="html/9ef578c1-7f5e-1c66-c8dc-6fe77335e642.htm" />
-  <HelpKINode Title="Configuration.GetAggregatorTimer method" Url="html/095f182e-9c67-bc33-5c86-36a0ef2eae0f.htm" />
+  <HelpKINode Title="Configuration.GetAggregatorProcessor method" Url="html/8b39b5d1-4add-2050-92df-f836ea94f381.htm" />
   <HelpKINode Title="Configuration.GetAuditQueueName method" Url="html/4d745f54-f196-735a-6103-e869b6d4ded0.htm" />
   <HelpKINode Title="Configuration.GetConsumer method" Url="html/b1aa9737-04f7-b276-29da-7c558f06d40a.htm" />
+  <HelpKINode Title="Configuration.GetConsumerPool method" Url="html/e6aa5d0b-d0ac-ddac-4f40-1728a497f377.htm" />
   <HelpKINode Title="Configuration.GetContainer method" Url="html/0cd08850-70b4-658e-3463-0065aab6cc8a.htm" />
   <HelpKINode Title="Configuration.GetErrorQueueName method" Url="html/73fb0622-b64e-e4aa-3be0-05b4b134455c.htm" />
   <HelpKINode Title="Configuration.GetMessageBusReadStream method" Url="html/c556aaed-2589-3588-561f-c6bb46c07cbd.htm" />
-  <HelpKINode Title="Configuration.GetMessageBusWriteStream method" Url="html/d811b9c2-dbe6-6d13-7f83-728861b02dae.htm" />
+  <HelpKINode Title="Configuration.GetMessageBusWriteStream method" Url="html/fe5ec42e-60bf-5eb7-a46a-3b9988675e54.htm" />
   <HelpKINode Title="Configuration.GetProcessManagerFinder method" Url="html/cc84a53c-13e1-5c6b-eeda-fed12d930bd0.htm" />
   <HelpKINode Title="Configuration.GetProducer method" Url="html/90955b25-6964-0179-56c6-cde2ac1c3004.htm" />
   <HelpKINode Title="Configuration.GetQueueName method" Url="html/b961df7f-7ef7-69fa-d8ca-5b5ba3f6689a.htm" />
   <HelpKINode Title="Configuration.GetRequestConfiguration method" Url="html/ec7fe0e2-1f16-3527-6236-f04aacbc92f4.htm" />
-  <HelpKINode Title="Configuration.LoadSettings method" Url="html/2d3e625d-a8fd-8b4f-08bb-62c9d3afda79.htm" />
   <HelpKINode Title="Configuration.MessageBusReadStream property" Url="html/eda1f54c-6f7c-5909-b2be-fb2ee1414ca8.htm" />
   <HelpKINode Title="Configuration.MessageBusWriteStream property" Url="html/a29bdd4a-5e09-924d-4aec-96876ccca1e6.htm" />
+  <HelpKINode Title="Configuration.OutgoingFilters property" Url="html/721ba360-89c8-f532-634e-9fca3c5ca1b2.htm" />
   <HelpKINode Title="Configuration.PersistenceStoreConnectionString property" Url="html/e09d37c1-81bb-ce29-8cac-aa17abc960c4.htm" />
   <HelpKINode Title="Configuration.PersistenceStoreDatabaseName property" Url="html/6e9279c8-6fec-36d9-37eb-ec7382011f82.htm" />
   <HelpKINode Title="Configuration.ProcessManagerFinder property" Url="html/aea708ef-5bfc-ff47-beb0-34ed756575bd.htm" />
@@ -165,8 +214,9 @@
   <HelpKINode Title="Configuration.SetAuditQueueName method" Url="html/35e9bfb8-8b0b-ae6f-ece0-9bbe14a357ec.htm" />
   <HelpKINode Title="Configuration.SetConsumer(Of T) method" Url="html/936e4700-66a7-e517-edbf-07091f5346cf.htm" />
   <HelpKINode Title="Configuration.SetConsumer&lt;T&gt; method" Url="html/936e4700-66a7-e517-edbf-07091f5346cf.htm" />
-  <HelpKINode Title="Configuration.SetContainer(Of T) method" Url="html/ac14dfae-0e0a-122a-2934-c1f75f90d58b.htm" />
-  <HelpKINode Title="Configuration.SetContainer&lt;T&gt; method" Url="html/ac14dfae-0e0a-122a-2934-c1f75f90d58b.htm" />
+  <HelpKINode Title="Configuration.SetContainer method" Url="html/5a44a34c-c57c-502e-8f9a-c6227dbef559.htm" />
+  <HelpKINode Title="Configuration.SetContainerType(Of T) method" Url="html/5d9e68ca-c97b-6409-6590-f222b5758483.htm" />
+  <HelpKINode Title="Configuration.SetContainerType&lt;T&gt; method" Url="html/5d9e68ca-c97b-6409-6590-f222b5758483.htm" />
   <HelpKINode Title="Configuration.SetDisableErrors method" Url="html/283397ec-c53b-a456-6991-b943d79282e8.htm" />
   <HelpKINode Title="Configuration.SetErrorQueueName method" Url="html/c1e41daa-324a-a90b-5f42-9d91037ea40e.htm" />
   <HelpKINode Title="Configuration.SetExceptionHandler method" Url="html/070fe244-606f-bb88-cd3d-580af4dd18b3.htm" />
@@ -177,6 +227,8 @@
   <HelpKINode Title="Configuration.SetProducer(Of T) method" Url="html/287d8f0c-a9bf-32b0-dced-f6d7b26c91d4.htm" />
   <HelpKINode Title="Configuration.SetProducer&lt;T&gt; method" Url="html/287d8f0c-a9bf-32b0-dced-f6d7b26c91d4.htm" />
   <HelpKINode Title="Configuration.SetQueueName method" Url="html/be7f4d71-0a58-f2f3-2efa-81b5a06a42e7.htm" />
+  <HelpKINode Title="Configuration.SetThreads method" Url="html/e1667b50-f46e-19e2-6ba3-d6d069af5408.htm" />
+  <HelpKINode Title="Configuration.Threads property" Url="html/c4d60c02-1b29-4e5f-7d14-a10920e516eb.htm" />
   <HelpKINode Title="Configuration.TransportSettings property" Url="html/f35e2b8e-20bb-ecea-5f18-afb97153ec92.htm" />
   <HelpKINode Title="ConfigurationManagerWrapper class">
     <HelpKINode Title="ConfigurationManagerWrapper Class" Url="html/564c2cc9-a122-7842-e9cf-5a8195171080.htm" />
@@ -190,6 +242,11 @@
   <HelpKINode Title="ConfigurationManagerWrapper.ConnectionStrings method" Url="html/145cefff-51df-3b92-a9ad-0bd574a05a2c.htm" />
   <HelpKINode Title="ConfigurationManagerWrapper.GetSection(Of T) method" Url="html/1bbbc7cf-aea1-f1f6-5b7b-8fd717a46069.htm" />
   <HelpKINode Title="ConfigurationManagerWrapper.GetSection&lt;T&gt; method" Url="html/1bbbc7cf-aea1-f1f6-5b7b-8fd717a46069.htm" />
+  <HelpKINode Title="ConfigureContainer method">
+    <HelpKINode Title="DefaultBusContainerExtensions.ConfigureContainer Method " Url="html/67fb229f-644a-79d7-a8fd-2d2380163a77.htm" />
+    <HelpKINode Title="NinjectExtensions.ConfigureContainer Method " Url="html/0547b982-8977-327a-65a4-a3dcbe2f016a.htm" />
+    <HelpKINode Title="StructureMapExtensions.ConfigureContainer Method " Url="html/41b1f53b-2a5d-2bc7-dd70-e7063689793e.htm" />
+  </HelpKINode>
   <HelpKINode Title="ConfigureHowToFindProcessManager method" Url="html/8456ac39-3966-119d-b171-cc7bee9d8e78.htm" />
   <HelpKINode Title="ConfigureMapping(Of TProcessManagerData, TMessage) method">
     <HelpKINode Title="IProcessManagerPropertyMapper.ConfigureMapping(TProcessManagerData, TMessage) Method " Url="html/fe9331f4-b079-d717-b34a-870a9a35e1c8.htm" />
@@ -225,17 +282,56 @@
   <HelpKINode Title="ConsumeEventResult.ConsumeEventResult constructor" Url="html/67e3286c-6e05-b75b-aeeb-9d4b0b48d26d.htm" />
   <HelpKINode Title="ConsumeEventResult.Exception property" Url="html/d4934394-76aa-3df5-7630-99d0d77abf45.htm" />
   <HelpKINode Title="ConsumeEventResult.Success property" Url="html/d71dd919-92ae-450f-155e-a8326e731d6d.htm" />
-  <HelpKINode Title="ConsumeMessageType method" Url="html/66f4b1c0-5044-a26f-add0-557b0a0ad331.htm" />
+  <HelpKINode Title="ConsumeMessageType method">
+    <HelpKINode Title="Consumer.ConsumeMessageType Method " Url="html/fa466764-4b66-93f6-bcae-1d60df7bafff.htm" />
+    <HelpKINode Title="IConsumer.ConsumeMessageType Method " Url="html/66f4b1c0-5044-a26f-add0-557b0a0ad331.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Consumer class">
+    <HelpKINode Title="Consumer Class" Url="html/12225965-03bc-88e5-c090-5ece00588c6b.htm" />
+    <HelpKINode Title="about Consumer class" Url="html/12225965-03bc-88e5-c090-5ece00588c6b.htm" />
+    <HelpKINode Title="constructor" Url="html/732b441b-c0a5-b4b2-603b-0b1f9e7ca566.htm" />
+    <HelpKINode Title="methods" Url="html/758ce1a6-94bc-f2c8-2de9-9a4ff7a40fe9.htm" />
+    <HelpKINode Title="properties" Url="html/b349dc92-1dbc-700f-495c-5bc7661bb973.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Consumer.ConsumeMessageType method" Url="html/fa466764-4b66-93f6-bcae-1d60df7bafff.htm" />
+  <HelpKINode Title="Consumer.Consumer constructor" Url="html/732b441b-c0a5-b4b2-603b-0b1f9e7ca566.htm" />
+  <HelpKINode Title="Consumer.Dispose method" Url="html/cfb4db94-6f1f-9521-eef5-205c445ce23d.htm" />
+  <HelpKINode Title="Consumer.Event method" Url="html/6b415372-3612-23f1-1a80-75e20d3c5d0b.htm" />
+  <HelpKINode Title="Consumer.StartConsuming method" Url="html/bbb84445-997e-5129-08c8-a6968cfed1cc.htm" />
+  <HelpKINode Title="Consumer.StopConsuming method" Url="html/1613ecfc-5bd0-66af-f7e4-bcd9146571d3.htm" />
+  <HelpKINode Title="Consumer.Type property" Url="html/018e9e26-6463-1411-c426-fbdd360b5d91.htm" />
   <HelpKINode Title="ConsumerEventHandler delegate" Url="html/737d4c91-33ff-2025-8fb8-e37a8b134328.htm" />
+  <HelpKINode Title="ConsumerPool class">
+    <HelpKINode Title="ConsumerPool Class" Url="html/c82f4c4f-8c91-518a-0d1a-56b8d539cdd7.htm" />
+    <HelpKINode Title="about ConsumerPool class" Url="html/c82f4c4f-8c91-518a-0d1a-56b8d539cdd7.htm" />
+    <HelpKINode Title="constructor" Url="html/be813a41-862f-b462-3755-b3c8d8d483c8.htm" />
+    <HelpKINode Title="methods" Url="html/572b2bcd-4e82-7535-fcd6-9be01db0452d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConsumerPool property">
+    <HelpKINode Title="Configuration.ConsumerPool Property " Url="html/5d802e4d-ac3f-68da-52f4-c1f498f743b4.htm" />
+    <HelpKINode Title="IConfiguration.ConsumerPool Property " Url="html/0e095f2a-5917-e230-8086-220475e66fcc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ConsumerPool.AddConsumer method" Url="html/df4096e2-eafb-5506-114c-1bbc1079a2de.htm" />
+  <HelpKINode Title="ConsumerPool.ConsumerPool constructor" Url="html/be813a41-862f-b462-3755-b3c8d8d483c8.htm" />
+  <HelpKINode Title="ConsumerPool.Dispose method" Url="html/a5f88f02-813b-09d0-5103-fa529312f3c4.htm" />
+  <HelpKINode Title="ConsumerPoolType property" Url="html/6e8e715d-3bcd-af7f-f5bf-a4bf7103f066.htm" />
   <HelpKINode Title="ConsumerType property">
     <HelpKINode Title="Configuration.ConsumerType Property " Url="html/0b9fb4e5-1a2e-30de-30ab-5a9869b903a3.htm" />
     <HelpKINode Title="HeartbeatMessage.ConsumerType Property " Url="html/8ab8b21e-af32-e0dd-1c85-eb88d0b639cd.htm" />
     <HelpKINode Title="IConfiguration.ConsumerType Property " Url="html/832a6ccd-749d-2ee1-0977-f417faac12e8.htm" />
   </HelpKINode>
-  <HelpKINode Title="Container property">
-    <HelpKINode Title="Configuration.Container Property " Url="html/fad4c366-7e8a-a737-5e54-786c1913595a.htm" />
-    <HelpKINode Title="IConfiguration.Container Property " Url="html/2590b7b5-9d48-92ba-7748-27c72ad2a1a6.htm" />
+  <HelpKINode Title="Container class">
+    <HelpKINode Title="Container Class" Url="html/590cc3d7-a14d-a457-e2da-ef85f37613cf.htm" />
+    <HelpKINode Title="about Container class" Url="html/590cc3d7-a14d-a457-e2da-ef85f37613cf.htm" />
+    <HelpKINode Title="constructor" Url="html/3fb4b1f1-efe7-f0b3-bd59-2242c01f8509.htm" />
+    <HelpKINode Title="methods" Url="html/8a26c226-4940-9f4b-5d70-80bfaff1efbd.htm" />
+    <HelpKINode Title="properties" Url="html/108c9274-9457-5371-b232-7a632daa3f4c.htm" />
   </HelpKINode>
+  <HelpKINode Title="Container.AllInstances property" Url="html/8f7afda7-3c84-07e2-ecd7-88593ad69b89.htm" />
+  <HelpKINode Title="Container.Container constructor" Url="html/3fb4b1f1-efe7-f0b3-bd59-2242c01f8509.htm" />
+  <HelpKINode Title="Container.RegisterFor method" Url="html/29a8f3be-077f-9916-fa28-fd68e913ea66.htm" />
+  <HelpKINode Title="Container.RegisterForAll method" Url="html/3e48fee9-1b82-c88b-bfb2-f8d681464e7f.htm" />
+  <HelpKINode Title="Container.Resolve method" Url="html/e61832ff-4e89-3f02-e815-171914afef7c.htm" />
   <HelpKINode Title="Context property">
     <HelpKINode Title="IMessageHandler(TMessage).Context Property " Url="html/7f3f0ba5-522f-f9c0-43b9-4050e80f8c53.htm" />
     <HelpKINode Title="IStartProcessManager(TMessage).Context Property " Url="html/19018505-5610-7384-7bf5-bce138e5f6b4.htm" />
@@ -248,6 +344,7 @@
   <HelpKINode Title="Count method">
     <HelpKINode Title="IAggregatorPersistor.Count Method " Url="html/b1c7c654-986b-b957-a66d-95f2a82e43b1.htm" />
     <HelpKINode Title="InMemoryAggregatorPersistor.Count Method " Url="html/f00a97a5-dccf-fe4f-9f45-96014814d327.htm" />
+    <HelpKINode Title="MongoDBAggregatorPersistor.Count Method " Url="html/d14e0301-9c9a-6e22-2fde-02b442522c09.htm" />
   </HelpKINode>
   <HelpKINode Title="CpuCounter property" Url="html/fd9e992e-1265-f9e7-64d9-9629608ae8ee.htm" />
   <HelpKINode Title="CreateStream(Of T) method">
@@ -258,6 +355,15 @@
     <HelpKINode Title="Bus.CreateStream(T) Method " Url="html/1c5d1392-9cf2-a07d-6d47-8ab1663a9693.htm" />
     <HelpKINode Title="IBus.CreateStream(T) Method " Url="html/7c19ba85-30ca-2ae4-e4be-a1782c887a8d.htm" />
   </HelpKINode>
+  <HelpKINode Title="CustomBindingResolver class">
+    <HelpKINode Title="CustomBindingResolver Class" Url="html/10fdea10-b912-e779-b9ce-9901ded2b9d6.htm" />
+    <HelpKINode Title="about CustomBindingResolver class" Url="html/10fdea10-b912-e779-b9ce-9901ded2b9d6.htm" />
+    <HelpKINode Title="constructor" Url="html/4666f434-d055-3828-0932-18aba7083831.htm" />
+    <HelpKINode Title="methods" Url="html/45ed47b1-55c6-579a-5be0-5de1ea561aa8.htm" />
+    <HelpKINode Title="properties" Url="html/bafdb32e-1c60-166e-c6f5-02ada82cb1fb.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CustomBindingResolver.CustomBindingResolver constructor" Url="html/4666f434-d055-3828-0932-18aba7083831.htm" />
+  <HelpKINode Title="CustomBindingResolver.Resolve method" Url="html/91a17bd7-a61c-988a-7c9b-b528b2779ad8.htm" />
   <HelpKINode Title="Data property">
     <HelpKINode Title="IPersistanceData(T).Data Property " Url="html/f28061ee-188a-c167-422f-15a239e25056.htm" />
     <HelpKINode Title="MemoryData(T).Data Property " Url="html/792a676f-f855-2ce6-8b0d-1887e3f29db5.htm" />
@@ -265,6 +371,28 @@
     <HelpKINode Title="ProcessManager(T).Data Property " Url="html/afc3354d-0d9c-9607-da0e-2b70c16d3a71.htm" />
     <HelpKINode Title="SqlServerData(T).Data Property " Url="html/684ed680-a04b-90e5-28b4-cec3271b690d.htm" />
   </HelpKINode>
+  <HelpKINode Title="DefaultBusContainer class">
+    <HelpKINode Title="DefaultBusContainer Class" Url="html/51747063-1b3d-9dda-3aab-db9998fb45b7.htm" />
+    <HelpKINode Title="about DefaultBusContainer class" Url="html/51747063-1b3d-9dda-3aab-db9998fb45b7.htm" />
+    <HelpKINode Title="constructor" Url="html/0d18354b-deb0-82fe-4c8e-ffbb9ef91129.htm" />
+    <HelpKINode Title="methods" Url="html/a980e745-58be-e707-8aba-9d620eb7738f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultBusContainer.AddBus method" Url="html/6ed73203-97ad-cff0-103d-5dc3decb63e0.htm" />
+  <HelpKINode Title="DefaultBusContainer.AddHandler(Of T) method" Url="html/e9e415b9-3fa9-523c-90af-dd87e938cd45.htm" />
+  <HelpKINode Title="DefaultBusContainer.AddHandler&lt;T&gt; method" Url="html/e9e415b9-3fa9-523c-90af-dd87e938cd45.htm" />
+  <HelpKINode Title="DefaultBusContainer.DefaultBusContainer constructor" Url="html/0d18354b-deb0-82fe-4c8e-ffbb9ef91129.htm" />
+  <HelpKINode Title="DefaultBusContainer.GetContainer method" Url="html/20b7861a-83e5-2364-ca1a-d41493d55183.htm" />
+  <HelpKINode Title="DefaultBusContainer.GetHandlerTypes method" Url="html/fc3b9950-4c18-aac1-a9fc-6e0049c4cb76.htm" />
+  <HelpKINode Title="DefaultBusContainer.GetInstance method" Url="html/98c3dcab-6e51-be33-2ee5-6480e2f40362.htm" />
+  <HelpKINode Title="DefaultBusContainer.Initialize method" Url="html/99392d54-7efb-ae74-5577-e869201fe7af.htm" />
+  <HelpKINode Title="DefaultBusContainer.ScanForHandlers method" Url="html/739d3f65-57a7-f849-7433-6e384d7582c3.htm" />
+  <HelpKINode Title="DefaultBusContainerExtensions class">
+    <HelpKINode Title="DefaultBusContainerExtensions Class" Url="html/c2ae9d1a-535f-f88a-931c-462d1e6c4bda.htm" />
+    <HelpKINode Title="about DefaultBusContainerExtensions class" Url="html/c2ae9d1a-535f-f88a-931c-462d1e6c4bda.htm" />
+    <HelpKINode Title="methods" Url="html/e90ea415-2f88-c1ef-9037-3edacbad6d81.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultBusContainerExtensions.ConfigureContainer method" Url="html/67fb229f-644a-79d7-a8fd-2d2380163a77.htm" />
+  <HelpKINode Title="DefaultBusContainerExtensions.InitializeContainer method" Url="html/2ff4d65f-515c-baa7-f7db-76472f1adf70.htm" />
   <HelpKINode Title="DeleteData(Of T) method">
     <HelpKINode Title="InMemoryProcessManagerFinder.DeleteData(T) Method " Url="html/90a2d469-cf50-df35-9052-5eefc012a1d5.htm" />
     <HelpKINode Title="IProcessManagerFinder.DeleteData(T) Method " Url="html/eb68afbf-399b-b0cc-fc70-75f0fbd9f0fb.htm" />
@@ -277,27 +405,49 @@
     <HelpKINode Title="MongoDbProcessManagerFinder.DeleteData(T) Method " Url="html/2daf3d6c-95b4-f11c-99fb-eef0e2914e0d.htm" />
     <HelpKINode Title="SqlServerProcessManagerFinder.DeleteData(T) Method " Url="html/12fbccec-be36-9f80-db0a-1f77d78e9db9.htm" />
   </HelpKINode>
-  <HelpKINode Title="DisableErrors property" Url="html/2719a4ba-99bf-50c7-e54c-106510909a12.htm" />
-  <HelpKINode Title="Disconnect method" Url="html/dff485f8-8215-723c-8044-009ffb4df06a.htm" />
-  <HelpKINode Title="Dispose method">
-    <HelpKINode Title="AggregatorTimer.Dispose Method " Url="html/d799b2e6-7cf0-757b-a4f7-6d2722900b09.htm" />
-    <HelpKINode Title="Bus.Dispose Method " Url="html/31e8d572-8e7a-4e08-a89f-e6a10ccc4d0d.htm" />
-    <HelpKINode Title="MessageBusWriteStream.Dispose Method " Url="html/6a799795-8999-6bee-b521-9b277b513b1f.htm" />
+  <HelpKINode Title="DisableErrors property">
+    <HelpKINode Title="ITransportSettings.DisableErrors Property " Url="html/2719a4ba-99bf-50c7-e54c-106510909a12.htm" />
+    <HelpKINode Title="TransportSettings.DisableErrors Property " Url="html/62df18e7-b5b2-5bd2-02fb-a51aa6b67233.htm" />
   </HelpKINode>
-  <HelpKINode Title="Durable property" Url="html/e2484097-b8c9-dc24-bc39-c8cb87111fc6.htm" />
+  <HelpKINode Title="Disconnect method">
+    <HelpKINode Title="IProducer.Disconnect Method " Url="html/dff485f8-8215-723c-8044-009ffb4df06a.htm" />
+    <HelpKINode Title="Producer.Disconnect Method " Url="html/037d1f67-7cfc-3448-7ead-af3b8b3922dd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="AggregatorProcessor.Dispose Method " Url="html/aee5396f-551b-6828-595c-6474cc9e829b.htm" />
+    <HelpKINode Title="Bus.Dispose Method " Url="html/31e8d572-8e7a-4e08-a89f-e6a10ccc4d0d.htm" />
+    <HelpKINode Title="Consumer.Dispose Method " Url="html/cfb4db94-6f1f-9521-eef5-205c445ce23d.htm" />
+    <HelpKINode Title="ConsumerPool.Dispose Method " Url="html/a5f88f02-813b-09d0-5103-fa529312f3c4.htm" />
+    <HelpKINode Title="MessageBusWriteStream.Dispose Method " Url="html/6a799795-8999-6bee-b521-9b277b513b1f.htm" />
+    <HelpKINode Title="Producer.Dispose Method " Url="html/faf91d46-3fdf-848b-aa6a-b989b03f87a5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Do method" Url="html/af6f783d-be6f-79cd-6c71-c576b3d5b892.htm" />
   <HelpKINode Title="EndpointsCount property">
     <HelpKINode Title="IRequestConfiguration.EndpointsCount Property " Url="html/58f20c90-e6e8-c8d0-c194-7a1d8d76833c.htm" />
     <HelpKINode Title="RequestConfiguration.EndpointsCount Property " Url="html/c4f35d4c-08f0-6d91-fb97-9b1c7bf24c6a.htm" />
   </HelpKINode>
-  <HelpKINode Title="ErrorQueueName property" Url="html/16ea4c12-6a79-a4fb-587f-6b5dfccf950f.htm" />
+  <HelpKINode Title="Envelope class">
+    <HelpKINode Title="Envelope Class" Url="html/39ae1315-1e40-daa8-1c33-816fb2b0535f.htm" />
+    <HelpKINode Title="about Envelope class" Url="html/39ae1315-1e40-daa8-1c33-816fb2b0535f.htm" />
+    <HelpKINode Title="constructor" Url="html/46447ce8-58be-e625-ada0-bec126de6513.htm" />
+    <HelpKINode Title="methods" Url="html/a6e86810-81b7-018a-03a1-bb53547c1b58.htm" />
+    <HelpKINode Title="properties" Url="html/a5817574-4510-c9bb-d7dd-ff104604e027.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Envelope.Body property" Url="html/c13a828b-8654-5429-a3f4-2fd21c6776b3.htm" />
+  <HelpKINode Title="Envelope.Envelope constructor" Url="html/46447ce8-58be-e625-ada0-bec126de6513.htm" />
+  <HelpKINode Title="Envelope.Headers property" Url="html/426bbb4d-5493-b603-e0f5-c580d512c293.htm" />
+  <HelpKINode Title="ErrorQueueName property">
+    <HelpKINode Title="ITransportSettings.ErrorQueueName Property " Url="html/16ea4c12-6a79-a4fb-587f-6b5dfccf950f.htm" />
+    <HelpKINode Title="TransportSettings.ErrorQueueName Property " Url="html/c34abc6c-fb1f-f202-7e11-ac5c4853e839.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Event method" Url="html/6b415372-3612-23f1-1a80-75e20d3c5d0b.htm" />
   <HelpKINode Title="Exception property" Url="html/d4934394-76aa-3df5-7630-99d0d77abf45.htm" />
   <HelpKINode Title="ExceptionHandler property">
     <HelpKINode Title="Configuration.ExceptionHandler Property " Url="html/d7165224-d78d-04aa-d07e-5eb0fa14635f.htm" />
     <HelpKINode Title="IConfiguration.ExceptionHandler Property " Url="html/45169885-b081-1b13-a5c2-8622be60c5c2.htm" />
   </HelpKINode>
-  <HelpKINode Title="Exclusive property" Url="html/44ba11e9-433a-d305-c4a2-e95bdfd63fc5.htm" />
   <HelpKINode Title="Execute method">
-    <HelpKINode Title="Aggregator(T).Execute Method " Url="html/bc649ba2-dd3a-da38-1ba3-7399062b33f0.htm" />
+    <HelpKINode Title="Aggregator(T).Execute Method " Url="html/6912be42-599a-ee7a-b7d4-f3b40c1570e6.htm" />
     <HelpKINode Title="IMessageHandler(TMessage).Execute Method " Url="html/edbd33e8-feab-9fe6-0dd9-9862f9d3f569.htm" />
     <HelpKINode Title="IStartProcessManager(TMessage).Execute Method " Url="html/753b28d9-049b-59b2-583c-11bb301484a6.htm" />
     <HelpKINode Title="IStreamHandler(TMessage).Execute Method " Url="html/b2d7ea57-f058-a26e-ae92-1beeafb96ce3.htm" />
@@ -319,9 +469,9 @@
     <HelpKINode Title="Configuration.GetAggregatorPersistor Method " Url="html/9ef578c1-7f5e-1c66-c8dc-6fe77335e642.htm" />
     <HelpKINode Title="IConfiguration.GetAggregatorPersistor Method " Url="html/4b7dafd0-1c4b-64ea-724c-dcdc9e09cb61.htm" />
   </HelpKINode>
-  <HelpKINode Title="GetAggregatorTimer method">
-    <HelpKINode Title="Configuration.GetAggregatorTimer Method " Url="html/095f182e-9c67-bc33-5c86-36a0ef2eae0f.htm" />
-    <HelpKINode Title="IConfiguration.GetAggregatorTimer Method " Url="html/6668d970-4061-fc37-370e-105f6f59fc01.htm" />
+  <HelpKINode Title="GetAggregatorProcessor method">
+    <HelpKINode Title="Configuration.GetAggregatorProcessor Method " Url="html/8b39b5d1-4add-2050-92df-f836ea94f381.htm" />
+    <HelpKINode Title="IConfiguration.GetAggregatorProcessor Method " Url="html/79f2caa0-bf21-968c-5263-b5326b69e050.htm" />
   </HelpKINode>
   <HelpKINode Title="GetAuditQueueName method">
     <HelpKINode Title="Configuration.GetAuditQueueName Method " Url="html/4d745f54-f196-735a-6103-e869b6d4ded0.htm" />
@@ -331,33 +481,46 @@
     <HelpKINode Title="Configuration.GetConsumer Method " Url="html/b1aa9737-04f7-b276-29da-7c558f06d40a.htm" />
     <HelpKINode Title="IConfiguration.GetConsumer Method " Url="html/f02e6083-96f6-587f-631d-767e0b826ea4.htm" />
   </HelpKINode>
+  <HelpKINode Title="GetConsumerPool method">
+    <HelpKINode Title="Configuration.GetConsumerPool Method " Url="html/e6aa5d0b-d0ac-ddac-4f40-1728a497f377.htm" />
+    <HelpKINode Title="IConfiguration.GetConsumerPool Method " Url="html/aa77b2a3-1ef5-7a74-2ed6-1aafff2c1d69.htm" />
+  </HelpKINode>
   <HelpKINode Title="GetContainer method">
     <HelpKINode Title="Configuration.GetContainer Method " Url="html/0cd08850-70b4-658e-3463-0065aab6cc8a.htm" />
+    <HelpKINode Title="DefaultBusContainer.GetContainer Method " Url="html/20b7861a-83e5-2364-ca1a-d41493d55183.htm" />
+    <HelpKINode Title="IBusContainer.GetContainer Method " Url="html/1d64af90-6686-7d2f-67f7-c72fec073273.htm" />
     <HelpKINode Title="IConfiguration.GetContainer Method " Url="html/cb597708-9821-3d5c-f240-bc0d4eb7e493.htm" />
+    <HelpKINode Title="NinjectContainer.GetContainer Method " Url="html/55b9779f-fd8c-f7e6-52ba-9243bc04c699.htm" />
+    <HelpKINode Title="StructureMapContainer.GetContainer Method " Url="html/4c69f1c5-5676-6ea9-85b6-a73f813c9ff7.htm" />
   </HelpKINode>
   <HelpKINode Title="GetData method">
     <HelpKINode Title="IAggregatorPersistor.GetData Method " Url="html/887b2fcb-014c-6a7c-aaf7-5e769c96a757.htm" />
     <HelpKINode Title="InMemoryAggregatorPersistor.GetData Method " Url="html/fa4c2f82-cbb7-be1c-6eb0-7a786fdd89e2.htm" />
+    <HelpKINode Title="MongoDBAggregatorPersistor.GetData Method " Url="html/8ec3290b-041d-d9a8-0621-45b6804b7a20.htm" />
   </HelpKINode>
   <HelpKINode Title="GetErrorQueueName method">
     <HelpKINode Title="Configuration.GetErrorQueueName Method " Url="html/73fb0622-b64e-e4aa-3be0-05b4b134455c.htm" />
     <HelpKINode Title="IConfiguration.GetErrorQueueName Method " Url="html/c43b8dbe-0af7-94a1-5ea5-138529402219.htm" />
   </HelpKINode>
   <HelpKINode Title="GetHandlerTypes method">
+    <HelpKINode Title="DefaultBusContainer.GetHandlerTypes Method " Url="html/fc3b9950-4c18-aac1-a9fc-6e0049c4cb76.htm" />
     <HelpKINode Title="IBusContainer.GetHandlerTypes Method " Url="html/ca205c80-e360-3a9c-a9ec-61092a102966.htm" />
-    <HelpKINode Title="StructuremapContainer.GetHandlerTypes Method " Url="html/fc93e58f-235f-5f22-ebbc-ce9310777783.htm" />
+    <HelpKINode Title="NinjectContainer.GetHandlerTypes Method " Url="html/567ca8da-acc3-f0de-8263-4f00eab87070.htm" />
+    <HelpKINode Title="StructureMapContainer.GetHandlerTypes Method " Url="html/47ad9c94-86bd-8a33-b8ca-cf1ec39c6c2f.htm" />
   </HelpKINode>
   <HelpKINode Title="GetInstance method">
+    <HelpKINode Title="DefaultBusContainer.GetInstance Method " Url="html/98c3dcab-6e51-be33-2ee5-6480e2f40362.htm" />
     <HelpKINode Title="IBusContainer.GetInstance Method " Url="html/5092f90f-02b5-395d-ea0f-d2404daa8415.htm" />
-    <HelpKINode Title="StructuremapContainer.GetInstance Method " Url="html/b0b6da96-6059-3ec2-4384-773bc85a03d8.htm" />
+    <HelpKINode Title="NinjectContainer.GetInstance Method " Url="html/950a49cd-0788-b1d9-0b85-119c195cb2f1.htm" />
+    <HelpKINode Title="StructureMapContainer.GetInstance Method " Url="html/d148a492-67eb-5488-46d0-6dfa6aa517e5.htm" />
   </HelpKINode>
   <HelpKINode Title="GetMessageBusReadStream method">
     <HelpKINode Title="Configuration.GetMessageBusReadStream Method " Url="html/c556aaed-2589-3588-561f-c6bb46c07cbd.htm" />
     <HelpKINode Title="IConfiguration.GetMessageBusReadStream Method " Url="html/636a67a1-77bc-1682-e050-edd515e00ab9.htm" />
   </HelpKINode>
   <HelpKINode Title="GetMessageBusWriteStream method">
-    <HelpKINode Title="Configuration.GetMessageBusWriteStream Method " Url="html/d811b9c2-dbe6-6d13-7f83-728861b02dae.htm" />
-    <HelpKINode Title="IConfiguration.GetMessageBusWriteStream Method " Url="html/80c11a94-881c-a575-5f31-11b40b072dec.htm" />
+    <HelpKINode Title="Configuration.GetMessageBusWriteStream Method " Url="html/fe5ec42e-60bf-5eb7-a46a-3b9988675e54.htm" />
+    <HelpKINode Title="IConfiguration.GetMessageBusWriteStream Method " Url="html/60bd7cde-b60a-1289-8bb7-5467851901e6.htm" />
   </HelpKINode>
   <HelpKINode Title="GetProcessManagerFinder method">
     <HelpKINode Title="Configuration.GetProcessManagerFinder Method " Url="html/cc84a53c-13e1-5c6b-eeda-fed12d930bd0.htm" />
@@ -400,6 +563,7 @@
   <HelpKINode Title="HandlerType property" Url="html/0c4f744e-edf1-0d94-a3e5-ed54ebc69bf7.htm" />
   <HelpKINode Title="Headers property">
     <HelpKINode Title="ConsumeContext.Headers Property " Url="html/95f708a3-5a06-24c6-152d-18dd2e853abc.htm" />
+    <HelpKINode Title="Envelope.Headers Property " Url="html/426bbb4d-5493-b603-e0f5-c580d512c293.htm" />
     <HelpKINode Title="IConsumeContext.Headers Property " Url="html/5b9ef6ee-40d6-038b-c1d3-fa6c614304e0.htm" />
   </HelpKINode>
   <HelpKINode Title="HeartbeatMessage class">
@@ -417,7 +581,10 @@
   <HelpKINode Title="HeartbeatMessage.Location property" Url="html/1fab9c41-5620-0cef-7616-d128367ce762.htm" />
   <HelpKINode Title="HeartbeatMessage.Name property" Url="html/fa608257-a7eb-03f1-0a87-a655e9f43c8e.htm" />
   <HelpKINode Title="HeartbeatMessage.Timestamp property" Url="html/53a1d0bd-585f-5305-adbd-5c6316dba5d6.htm" />
-  <HelpKINode Title="HeartbeatQueueName property" Url="html/9d410af6-fa74-f1f8-52dd-a31dd11c2bb2.htm" />
+  <HelpKINode Title="HeartbeatQueueName property">
+    <HelpKINode Title="ITransportSettings.HeartbeatQueueName Property " Url="html/9d410af6-fa74-f1f8-52dd-a31dd11c2bb2.htm" />
+    <HelpKINode Title="TransportSettings.HeartbeatQueueName Property " Url="html/9e5e8ccc-b01f-ee84-2797-4692300454ab.htm" />
+  </HelpKINode>
   <HelpKINode Title="HeartbeatTimerState class">
     <HelpKINode Title="HeartbeatTimerState Class" Url="html/568e26c8-e0a5-c24c-8949-7196f5f973f1.htm" />
     <HelpKINode Title="about HeartbeatTimerState class" Url="html/568e26c8-e0a5-c24c-8949-7196f5f973f1.htm" />
@@ -428,7 +595,10 @@
   <HelpKINode Title="HeartbeatTimerState.CpuCounter property" Url="html/fd9e992e-1265-f9e7-64d9-9629608ae8ee.htm" />
   <HelpKINode Title="HeartbeatTimerState.HeartbeatTimerState constructor" Url="html/abbc6915-dc8c-e7f6-7585-7ee6d20c499f.htm" />
   <HelpKINode Title="HeartbeatTimerState.RamCounter property" Url="html/364b44b8-efe3-298b-5aab-e117de3010a8.htm" />
-  <HelpKINode Title="Host property" Url="html/ff6bdb7f-f668-a1cc-1b3b-ab4899d0d85d.htm" />
+  <HelpKINode Title="Host property">
+    <HelpKINode Title="ITransportSettings.Host Property " Url="html/ff6bdb7f-f668-a1cc-1b3b-ab4899d0d85d.htm" />
+    <HelpKINode Title="TransportSettings.Host Property " Url="html/01c7ebe0-b42f-d415-4ed7-b75335935e32.htm" />
+  </HelpKINode>
   <HelpKINode Title="IAggregatorPersistor interface">
     <HelpKINode Title="IAggregatorPersistor Interface" Url="html/8cabbff4-2381-b50f-8ac2-a11c04f5f1b2.htm" />
     <HelpKINode Title="about IAggregatorPersistor interface" Url="html/8cabbff4-2381-b50f-8ac2-a11c04f5f1b2.htm" />
@@ -437,7 +607,7 @@
   <HelpKINode Title="IAggregatorPersistor.Count method" Url="html/b1c7c654-986b-b957-a66d-95f2a82e43b1.htm" />
   <HelpKINode Title="IAggregatorPersistor.GetData method" Url="html/887b2fcb-014c-6a7c-aaf7-5e769c96a757.htm" />
   <HelpKINode Title="IAggregatorPersistor.InsertData method" Url="html/a254e677-f940-88c9-6cbd-3b034178a03a.htm" />
-  <HelpKINode Title="IAggregatorPersistor.RemoveAll method" Url="html/fc699007-194a-ed61-0c8e-16c48ac01648.htm" />
+  <HelpKINode Title="IAggregatorPersistor.RemoveData method" Url="html/77ecfca8-e800-c9fd-a6f1-359b9e168028.htm" />
   <HelpKINode Title="IAggregatorProcessor interface">
     <HelpKINode Title="IAggregatorProcessor Interface" Url="html/499c1be8-7fe0-4528-469e-93642a8feb24.htm" />
     <HelpKINode Title="about IAggregatorProcessor interface" Url="html/499c1be8-7fe0-4528-469e-93642a8feb24.htm" />
@@ -445,13 +615,9 @@
   </HelpKINode>
   <HelpKINode Title="IAggregatorProcessor.ProcessMessage(Of T) method" Url="html/68acbac8-e354-0d3a-c8b6-f8909b08310a.htm" />
   <HelpKINode Title="IAggregatorProcessor.ProcessMessage&lt;T&gt; method" Url="html/68acbac8-e354-0d3a-c8b6-f8909b08310a.htm" />
-  <HelpKINode Title="IAggregatorTimer interface">
-    <HelpKINode Title="IAggregatorTimer Interface" Url="html/39e86d46-a2a6-f7e8-cf41-ab65b8887316.htm" />
-    <HelpKINode Title="about IAggregatorTimer interface" Url="html/39e86d46-a2a6-f7e8-cf41-ab65b8887316.htm" />
-    <HelpKINode Title="methods" Url="html/d9146171-d25a-8495-a29f-f9b1a4587cd8.htm" />
-  </HelpKINode>
-  <HelpKINode Title="IAggregatorTimer.StartTimer(Of T) method" Url="html/19862fed-6c8a-1857-cf30-b702f66d9abe.htm" />
-  <HelpKINode Title="IAggregatorTimer.StartTimer&lt;T&gt; method" Url="html/19862fed-6c8a-1857-cf30-b702f66d9abe.htm" />
+  <HelpKINode Title="IAggregatorProcessor.ResetTimer method" Url="html/fdf8f917-f10c-0f65-f06b-d6b63935bf27.htm" />
+  <HelpKINode Title="IAggregatorProcessor.StartTimer(Of T) method" Url="html/1dced534-390b-82fb-bb9d-36e7015843b3.htm" />
+  <HelpKINode Title="IAggregatorProcessor.StartTimer&lt;T&gt; method" Url="html/1dced534-390b-82fb-bb9d-36e7015843b3.htm" />
   <HelpKINode Title="IBus interface">
     <HelpKINode Title="IBus Interface" Url="html/18606cd5-e930-644c-22a6-8aff488d5907.htm" />
     <HelpKINode Title="about IBus interface" Url="html/18606cd5-e930-644c-22a6-8aff488d5907.htm" />
@@ -479,9 +645,10 @@
   <HelpKINode Title="IBusContainer.AddBus method" Url="html/46203271-3c13-c3cf-b1d3-f8ad5a152e8e.htm" />
   <HelpKINode Title="IBusContainer.AddHandler(Of T) method" Url="html/7688b77e-d08f-3cd8-f0b5-32e0833a3add.htm" />
   <HelpKINode Title="IBusContainer.AddHandler&lt;T&gt; method" Url="html/7688b77e-d08f-3cd8-f0b5-32e0833a3add.htm" />
+  <HelpKINode Title="IBusContainer.GetContainer method" Url="html/1d64af90-6686-7d2f-67f7-c72fec073273.htm" />
   <HelpKINode Title="IBusContainer.GetHandlerTypes method" Url="html/ca205c80-e360-3a9c-a9ec-61092a102966.htm" />
   <HelpKINode Title="IBusContainer.GetInstance method" Url="html/5092f90f-02b5-395d-ea0f-d2404daa8415.htm" />
-  <HelpKINode Title="IBusContainer.Initialize method" Url="html/c5be84ec-99a3-24d3-1818-99cbd04ef9c1.htm" />
+  <HelpKINode Title="IBusContainer.Initialize method" Url="html/c5945cee-2554-9213-c48b-4a1b894355da.htm" />
   <HelpKINode Title="IBusContainer.ScanForHandlers method" Url="html/292cbf45-53cb-ff37-350e-d8c6b5d28552.htm" />
   <HelpKINode Title="IConfiguration interface">
     <HelpKINode Title="IConfiguration Interface" Url="html/f135edaa-5eed-dc29-efb5-b15775af6ad5.htm" />
@@ -491,27 +658,30 @@
   </HelpKINode>
   <HelpKINode Title="IConfiguration.AddBusToContainer property" Url="html/caab911d-8832-40ba-b237-ff92ded5739d.htm" />
   <HelpKINode Title="IConfiguration.AddQueueMapping method" Url="html/9100d3a4-3d2c-46c4-8a79-2a89a16c11d9.htm" />
+  <HelpKINode Title="IConfiguration.AfterConsumingFilters property" Url="html/965cb6cc-d38f-4405-8901-d28e22981875.htm" />
   <HelpKINode Title="IConfiguration.AggregatorPersistor property" Url="html/73c6aa22-fbbb-c704-95a4-cad883a4237e.htm" />
-  <HelpKINode Title="IConfiguration.AggregatorTimer property" Url="html/6b7261d6-bea4-6504-1dc4-af6d9aecc1c3.htm" />
+  <HelpKINode Title="IConfiguration.AggregatorProcessor property" Url="html/f2a91501-6e37-c431-9678-2453785e9263.htm" />
   <HelpKINode Title="IConfiguration.AutoStartConsuming property" Url="html/b0c454b2-884f-3c83-5da6-b583e56c9a30.htm" />
+  <HelpKINode Title="IConfiguration.BeforeConsumingFilters property" Url="html/6d710138-2350-f1b6-628d-f1b27ab840b0.htm" />
+  <HelpKINode Title="IConfiguration.ConsumerPool property" Url="html/0e095f2a-5917-e230-8086-220475e66fcc.htm" />
   <HelpKINode Title="IConfiguration.ConsumerType property" Url="html/832a6ccd-749d-2ee1-0977-f417faac12e8.htm" />
-  <HelpKINode Title="IConfiguration.Container property" Url="html/2590b7b5-9d48-92ba-7748-27c72ad2a1a6.htm" />
   <HelpKINode Title="IConfiguration.ExceptionHandler property" Url="html/45169885-b081-1b13-a5c2-8622be60c5c2.htm" />
   <HelpKINode Title="IConfiguration.GetAggregatorPersistor method" Url="html/4b7dafd0-1c4b-64ea-724c-dcdc9e09cb61.htm" />
-  <HelpKINode Title="IConfiguration.GetAggregatorTimer method" Url="html/6668d970-4061-fc37-370e-105f6f59fc01.htm" />
+  <HelpKINode Title="IConfiguration.GetAggregatorProcessor method" Url="html/79f2caa0-bf21-968c-5263-b5326b69e050.htm" />
   <HelpKINode Title="IConfiguration.GetAuditQueueName method" Url="html/4889a3cf-c4fb-bdde-47bc-e1d3ff02b676.htm" />
   <HelpKINode Title="IConfiguration.GetConsumer method" Url="html/f02e6083-96f6-587f-631d-767e0b826ea4.htm" />
+  <HelpKINode Title="IConfiguration.GetConsumerPool method" Url="html/aa77b2a3-1ef5-7a74-2ed6-1aafff2c1d69.htm" />
   <HelpKINode Title="IConfiguration.GetContainer method" Url="html/cb597708-9821-3d5c-f240-bc0d4eb7e493.htm" />
   <HelpKINode Title="IConfiguration.GetErrorQueueName method" Url="html/c43b8dbe-0af7-94a1-5ea5-138529402219.htm" />
   <HelpKINode Title="IConfiguration.GetMessageBusReadStream method" Url="html/636a67a1-77bc-1682-e050-edd515e00ab9.htm" />
-  <HelpKINode Title="IConfiguration.GetMessageBusWriteStream method" Url="html/80c11a94-881c-a575-5f31-11b40b072dec.htm" />
+  <HelpKINode Title="IConfiguration.GetMessageBusWriteStream method" Url="html/60bd7cde-b60a-1289-8bb7-5467851901e6.htm" />
   <HelpKINode Title="IConfiguration.GetProcessManagerFinder method" Url="html/d86547c2-c3be-d4db-8f43-5342a272fede.htm" />
   <HelpKINode Title="IConfiguration.GetProducer method" Url="html/0257b016-13c0-7bc6-9312-11976c007586.htm" />
   <HelpKINode Title="IConfiguration.GetQueueName method" Url="html/8705d261-f53c-1a4c-f158-d45d51e65232.htm" />
   <HelpKINode Title="IConfiguration.GetRequestConfiguration method" Url="html/a071b97a-1c17-b772-6b02-97b2ea0a5d14.htm" />
-  <HelpKINode Title="IConfiguration.LoadSettings method" Url="html/8d212410-0d4c-099a-3b9b-6d41a01e46d9.htm" />
   <HelpKINode Title="IConfiguration.MessageBusReadStream property" Url="html/1ef1a969-b6c2-4866-d97a-c700d2bb804e.htm" />
   <HelpKINode Title="IConfiguration.MessageBusWriteStream property" Url="html/ca2ef84d-b287-2b80-880b-40920b87ded7.htm" />
+  <HelpKINode Title="IConfiguration.OutgoingFilters property" Url="html/985aec96-6250-a12d-bed9-e27ac94eb8d4.htm" />
   <HelpKINode Title="IConfiguration.PersistenceStoreConnectionString property" Url="html/5001713b-e4f6-c492-b25a-af95b523e2d7.htm" />
   <HelpKINode Title="IConfiguration.PersistenceStoreDatabaseName property" Url="html/7c17b66c-9e6e-0e97-a981-e1d8905cb81a.htm" />
   <HelpKINode Title="IConfiguration.ProcessManagerFinder property" Url="html/4afa116d-479c-47b8-5197-7f1403cc871f.htm" />
@@ -525,8 +695,8 @@
   <HelpKINode Title="IConfiguration.SetAuditQueueName method" Url="html/7ef1cb2f-6d24-2ff7-fcf1-79d0040ad417.htm" />
   <HelpKINode Title="IConfiguration.SetConsumer(Of T) method" Url="html/fa9cb607-19ec-673e-422a-cab1d87ad6e1.htm" />
   <HelpKINode Title="IConfiguration.SetConsumer&lt;T&gt; method" Url="html/fa9cb607-19ec-673e-422a-cab1d87ad6e1.htm" />
-  <HelpKINode Title="IConfiguration.SetContainer(Of T) method" Url="html/fc908b65-15b3-b552-eb0c-810348b77bd7.htm" />
-  <HelpKINode Title="IConfiguration.SetContainer&lt;T&gt; method" Url="html/fc908b65-15b3-b552-eb0c-810348b77bd7.htm" />
+  <HelpKINode Title="IConfiguration.SetContainerType(Of T) method" Url="html/69ff68c5-d8bf-83cb-4895-6470b5ee9d86.htm" />
+  <HelpKINode Title="IConfiguration.SetContainerType&lt;T&gt; method" Url="html/69ff68c5-d8bf-83cb-4895-6470b5ee9d86.htm" />
   <HelpKINode Title="IConfiguration.SetDisableErrors method" Url="html/b23ada7a-6830-4e47-2c02-be87dd2bb6a7.htm" />
   <HelpKINode Title="IConfiguration.SetErrorQueueName method" Url="html/a1bca6bd-7aca-1e9c-32f8-527d618caf83.htm" />
   <HelpKINode Title="IConfiguration.SetExceptionHandler method" Url="html/f98a8540-6549-12fe-5a36-ff80cdca5e4f.htm" />
@@ -537,6 +707,8 @@
   <HelpKINode Title="IConfiguration.SetProducer(Of T) method" Url="html/277c129b-b2d5-fe34-91c8-487dccad6de6.htm" />
   <HelpKINode Title="IConfiguration.SetProducer&lt;T&gt; method" Url="html/277c129b-b2d5-fe34-91c8-487dccad6de6.htm" />
   <HelpKINode Title="IConfiguration.SetQueueName method" Url="html/458ab11d-5502-98fa-416b-eb74ea09e6fe.htm" />
+  <HelpKINode Title="IConfiguration.SetThreads method" Url="html/ff3268d5-ca7a-29e0-312a-60611f80c207.htm" />
+  <HelpKINode Title="IConfiguration.Threads property" Url="html/bb6d6b0e-0042-b6a5-56af-ef6a86d19213.htm" />
   <HelpKINode Title="IConfiguration.TransportSettings property" Url="html/b794860b-2d21-c1ee-e75e-03d450f154ba.htm" />
   <HelpKINode Title="IConfigurationManager interface">
     <HelpKINode Title="IConfigurationManager Interface" Url="html/6ec841d9-1730-0b24-4337-e14a334736c2.htm" />
@@ -568,11 +740,29 @@
   <HelpKINode Title="IConsumer.StartConsuming method" Url="html/92ba45d5-745e-23ea-f584-edf8fe1f4a88.htm" />
   <HelpKINode Title="IConsumer.StopConsuming method" Url="html/b5e7fdfd-0b76-fcf9-5bd0-5191d12f50f6.htm" />
   <HelpKINode Title="IConsumer.Type property" Url="html/86c6b8cf-f14a-14fe-09c6-39189dc0e568.htm" />
+  <HelpKINode Title="IConsumerPool interface">
+    <HelpKINode Title="IConsumerPool Interface" Url="html/067e1374-0a7b-1951-12b1-d931051ac1c0.htm" />
+    <HelpKINode Title="about IConsumerPool interface" Url="html/067e1374-0a7b-1951-12b1-d931051ac1c0.htm" />
+    <HelpKINode Title="methods" Url="html/c89d7cff-d48a-f08a-7aeb-f5a8330e2b12.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IConsumerPool.AddConsumer method" Url="html/72fce2a6-5da9-465e-e2ed-3b350b8e6153.htm" />
+  <HelpKINode Title="IContainer interface">
+    <HelpKINode Title="IContainer Interface" Url="html/5818c48c-a0ba-4eb0-2106-5820117d3199.htm" />
+    <HelpKINode Title="about IContainer interface" Url="html/5818c48c-a0ba-4eb0-2106-5820117d3199.htm" />
+    <HelpKINode Title="methods" Url="html/3ec64f8a-4ef9-7e38-8e7e-126444e34981.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IContainer.Resolve method" Url="html/30f57609-fb63-4fe4-ef1d-10ca91de240a.htm" />
   <HelpKINode Title="Id property">
     <HelpKINode Title="MemoryData(T).Id Property " Url="html/04bb2cf1-2e68-0170-e007-7319252469e3.htm" />
     <HelpKINode Title="MongoDbData(T).Id Property " Url="html/3fdbfa92-9582-352a-f2c6-b49fdb481181.htm" />
     <HelpKINode Title="SqlServerData(T).Id Property " Url="html/2e873718-00e8-5dc8-7a05-7ca2b34ff851.htm" />
   </HelpKINode>
+  <HelpKINode Title="IFilter interface">
+    <HelpKINode Title="IFilter Interface" Url="html/7a613698-ea64-08f8-2400-a75be7a3ae80.htm" />
+    <HelpKINode Title="about IFilter interface" Url="html/7a613698-ea64-08f8-2400-a75be7a3ae80.htm" />
+    <HelpKINode Title="methods" Url="html/cf5f001e-29a3-d48d-0c11-93441284c3f9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFilter.Process method" Url="html/2a5129f1-5240-f6cb-2dd6-df200ee5ffaf.htm" />
   <HelpKINode Title="IMessageBusReadStream interface">
     <HelpKINode Title="IMessageBusReadStream Interface" Url="html/fd478d8b-e3ba-1fd4-aafd-7f982f90e3d9.htm" />
     <HelpKINode Title="about IMessageBusReadStream interface" Url="html/fd478d8b-e3ba-1fd4-aafd-7f982f90e3d9.htm" />
@@ -592,7 +782,7 @@
     <HelpKINode Title="methods" Url="html/42836b4b-1a54-5210-85cb-47738fe62c76.htm" />
   </HelpKINode>
   <HelpKINode Title="IMessageBusWriteStream.Close method" Url="html/8d694b08-5c3f-3495-0b50-6fbf3579a2d7.htm" />
-  <HelpKINode Title="IMessageBusWriteStream.Write method" Url="html/dd0c5c9f-d773-5f6d-1620-0b8d916360a9.htm" />
+  <HelpKINode Title="IMessageBusWriteStream.Write method" Url="html/619be1ae-717f-2a7d-a231-2851c3e9e136.htm" />
   <HelpKINode Title="IMessageHandler(Of TMessage) interface">
     <HelpKINode Title="IMessageHandler(TMessage) Interface" Url="html/b8f8f948-70cc-71f9-6642-e391bee832bf.htm" />
     <HelpKINode Title="about IMessageHandler(Of TMessage) interface" Url="html/b8f8f948-70cc-71f9-6642-e391bee832bf.htm" />
@@ -618,8 +808,15 @@
   <HelpKINode Title="IMessageHandlerProcessor.ProcessMessage&lt;T&gt; method" Url="html/27f28aa9-47c6-0f83-5aed-982ada6cf2d0.htm" />
   <HelpKINode Title="Initialize method">
     <HelpKINode Title="Bus.Initialize Method " Url="html/9a2b1bcf-9da1-44ad-dcbc-485e5b1accd7.htm" />
-    <HelpKINode Title="IBusContainer.Initialize Method " Url="html/c5be84ec-99a3-24d3-1818-99cbd04ef9c1.htm" />
-    <HelpKINode Title="StructuremapContainer.Initialize Method " Url="html/880ec821-6869-533e-6fa3-b38fb1d57763.htm" />
+    <HelpKINode Title="DefaultBusContainer.Initialize Method " Url="html/99392d54-7efb-ae74-5577-e869201fe7af.htm" />
+    <HelpKINode Title="IBusContainer.Initialize Method " Url="html/c5945cee-2554-9213-c48b-4a1b894355da.htm" />
+    <HelpKINode Title="NinjectContainer.Initialize Method " Url="html/71a24fbb-76fe-e140-daa6-f4c8ed5d61b8.htm" />
+    <HelpKINode Title="StructureMapContainer.Initialize Method " Url="html/6334a388-e7b7-2e70-258e-aac5227ae793.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InitializeContainer method">
+    <HelpKINode Title="DefaultBusContainerExtensions.InitializeContainer Method " Url="html/2ff4d65f-515c-baa7-f7db-76472f1adf70.htm" />
+    <HelpKINode Title="NinjectExtensions.InitializeContainer Method " Url="html/199659af-6065-7cb6-6c5f-de05c4853315.htm" />
+    <HelpKINode Title="StructureMapExtensions.InitializeContainer Method " Url="html/454a9296-08e1-a8ca-c7f9-8e01785031b3.htm" />
   </HelpKINode>
   <HelpKINode Title="InMemoryAggregatorPersistor class">
     <HelpKINode Title="InMemoryAggregatorPersistor Class" Url="html/d2bbf8e6-b8eb-6f82-b7eb-47f2c76e7996.htm" />
@@ -632,6 +829,7 @@
   <HelpKINode Title="InMemoryAggregatorPersistor.InMemoryAggregatorPersistor constructor" Url="html/371df9dd-9db5-087e-c283-4acf681721e3.htm" />
   <HelpKINode Title="InMemoryAggregatorPersistor.InsertData method" Url="html/770fee82-dfe8-38b9-d3c1-9d39c6c97702.htm" />
   <HelpKINode Title="InMemoryAggregatorPersistor.RemoveAll method" Url="html/ba805fc5-087e-4c01-5b4a-53bbd4bb0002.htm" />
+  <HelpKINode Title="InMemoryAggregatorPersistor.RemoveData method" Url="html/45d23cf9-c751-04ef-8a51-74f55e28acca.htm" />
   <HelpKINode Title="InMemoryProcessManagerFinder class">
     <HelpKINode Title="InMemoryProcessManagerFinder Class" Url="html/af580c99-dce2-8763-8370-03aff444f0e1.htm" />
     <HelpKINode Title="about InMemoryProcessManagerFinder class" Url="html/af580c99-dce2-8763-8370-03aff444f0e1.htm" />
@@ -651,9 +849,11 @@
     <HelpKINode Title="InMemoryAggregatorPersistor.InsertData Method " Url="html/770fee82-dfe8-38b9-d3c1-9d39c6c97702.htm" />
     <HelpKINode Title="InMemoryProcessManagerFinder.InsertData Method " Url="html/c2a3c93a-21be-893b-dde5-c27b3f74be0b.htm" />
     <HelpKINode Title="IProcessManagerFinder.InsertData Method " Url="html/92dfe030-2d76-f6c2-68d8-85d902721846.htm" />
+    <HelpKINode Title="MongoDBAggregatorPersistor.InsertData Method " Url="html/6bcdb680-d9a6-a25e-314e-2e49788edfbf.htm" />
     <HelpKINode Title="MongoDbProcessManagerFinder.InsertData Method " Url="html/33bebae1-9ec8-b1f6-0756-819ab1d8ed34.htm" />
     <HelpKINode Title="SqlServerProcessManagerFinder.InsertData Method " Url="html/033e0341-4330-cd39-3e54-bbc7bf450ef5.htm" />
   </HelpKINode>
+  <HelpKINode Title="Instance property" Url="html/ea1f946b-40e3-eced-fe51-939c75658be1.htm" />
   <HelpKINode Title="IPersistanceData(Of T) interface">
     <HelpKINode Title="IPersistanceData(T) Interface" Url="html/3511a637-f113-986e-b40e-a029eacf0e9f.htm" />
     <HelpKINode Title="about IPersistanceData(Of T) interface" Url="html/3511a637-f113-986e-b40e-a029eacf0e9f.htm" />
@@ -708,10 +908,10 @@
   </HelpKINode>
   <HelpKINode Title="IProducer.Disconnect method" Url="html/dff485f8-8215-723c-8044-009ffb4df06a.htm" />
   <HelpKINode Title="IProducer.MaximumMessageSize property" Url="html/f5051495-acf4-4f33-2f72-248c4c04808e.htm" />
-  <HelpKINode Title="IProducer.Publish(Of T) method" Url="html/6b10dc18-91dd-a2ca-9931-25e55a7f48d8.htm" />
-  <HelpKINode Title="IProducer.Publish&lt;T&gt; method" Url="html/6b10dc18-91dd-a2ca-9931-25e55a7f48d8.htm" />
+  <HelpKINode Title="IProducer.Publish(Of T) method" Url="html/930b0db7-47a4-f8e6-1945-29ea356d76a6.htm" />
+  <HelpKINode Title="IProducer.Publish&lt;T&gt; method" Url="html/930b0db7-47a4-f8e6-1945-29ea356d76a6.htm" />
   <HelpKINode Title="IProducer.Send method" Url="html/2b9335ea-7b62-14ac-e921-db2f9bbf5176.htm" />
-  <HelpKINode Title="IProducer.SendBytes method" Url="html/fcd44bf2-e0c9-3af6-752d-94bd197e672b.htm" />
+  <HelpKINode Title="IProducer.SendBytes method" Url="html/7271f498-60fa-d725-3278-4b3b1b623c69.htm" />
   <HelpKINode Title="IProducer.Type property" Url="html/5e988e2e-ff0a-e2e1-6212-6fc475d5a722.htm" />
   <HelpKINode Title="IRequestConfiguration interface">
     <HelpKINode Title="IRequestConfiguration Interface" Url="html/c61c9fe6-88da-5c29-ca27-a95e6740d09d.htm" />
@@ -728,7 +928,11 @@
     <HelpKINode Title="IMessageBusReadStream.IsComplete Method " Url="html/f111fcf8-ab56-bac2-2ffc-11199a79320a.htm" />
     <HelpKINode Title="MessageBusReadStream.IsComplete Method " Url="html/df08a142-a3d4-e632-c8fe-77c0c1f45594.htm" />
   </HelpKINode>
-  <HelpKINode Title="IsReadOnly property" Url="html/e9f9e47b-fbf7-43eb-3177-fe97a6e82aca.htm" />
+  <HelpKINode Title="IServicesRegistrar interface">
+    <HelpKINode Title="IServicesRegistrar Interface" Url="html/dd9cf675-37cb-7c28-a87a-3eaa2a35ac9c.htm" />
+    <HelpKINode Title="about IServicesRegistrar interface" Url="html/dd9cf675-37cb-7c28-a87a-3eaa2a35ac9c.htm" />
+    <HelpKINode Title="methods" Url="html/4c127897-6bd0-bf68-2caf-3cc76658e251.htm" />
+  </HelpKINode>
   <HelpKINode Title="IStartProcessManager(Of TMessage) interface">
     <HelpKINode Title="IStartProcessManager(TMessage) Interface" Url="html/7b2c35a5-531d-97f1-b853-a22f5c8e0afe.htm" />
     <HelpKINode Title="about IStartProcessManager(Of TMessage) interface" Url="html/7b2c35a5-531d-97f1-b853-a22f5c8e0afe.htm" />
@@ -773,8 +977,14 @@
     <HelpKINode Title="about ITransportSettings interface" Url="html/cdf56f4b-d83c-4631-6096-76189d413193.htm" />
     <HelpKINode Title="properties" Url="html/f08e1c50-7c2a-b27f-4235-6cd2869105f5.htm" />
   </HelpKINode>
+  <HelpKINode Title="ITransportSettings.AcceptablePolicyErrors property" Url="html/ea109229-9fa6-4595-1d95-058019ffce22.htm" />
   <HelpKINode Title="ITransportSettings.AuditingEnabled property" Url="html/34e4d641-3ee5-04ea-701b-9275bb5ceadb.htm" />
   <HelpKINode Title="ITransportSettings.AuditQueueName property" Url="html/74a01251-358c-0b87-544c-4fe83c97abd8.htm" />
+  <HelpKINode Title="ITransportSettings.CertificateSelectionCallback property" Url="html/dc6996d6-d13b-5d1d-d623-b73e69bb49ac.htm" />
+  <HelpKINode Title="ITransportSettings.CertificateValidationCallback property" Url="html/49f44e28-60f2-c2dc-a942-1c6cab99a3a2.htm" />
+  <HelpKINode Title="ITransportSettings.CertPassphrase property" Url="html/9d4dea13-bbfa-39f9-3bc9-d5dca8dbbabf.htm" />
+  <HelpKINode Title="ITransportSettings.CertPath property" Url="html/5f76bc34-b465-6ef2-eb16-efb90f6fde0c.htm" />
+  <HelpKINode Title="ITransportSettings.Certs property" Url="html/8ea671f9-4259-4ee5-73c8-4a782fdae2aa.htm" />
   <HelpKINode Title="ITransportSettings.ClientSettings property" Url="html/5e742aee-2b79-259d-bdb4-fd5e416ed0d8.htm" />
   <HelpKINode Title="ITransportSettings.DisableErrors property" Url="html/2719a4ba-99bf-50c7-e54c-106510909a12.htm" />
   <HelpKINode Title="ITransportSettings.ErrorQueueName property" Url="html/16ea4c12-6a79-a4fb-587f-6b5dfccf950f.htm" />
@@ -783,9 +993,21 @@
   <HelpKINode Title="ITransportSettings.MachineName property" Url="html/1dfef47d-592c-a81f-8efc-c4111dcd2dcc.htm" />
   <HelpKINode Title="ITransportSettings.MaxRetries property" Url="html/d2c3e284-88a1-d717-ad4e-fe79bb35c060.htm" />
   <HelpKINode Title="ITransportSettings.Password property" Url="html/2b08ddd9-4779-2217-340f-ff804fe3cdbb.htm" />
-  <HelpKINode Title="ITransportSettings.Queue property" Url="html/a450aca4-dafa-c9c5-edf0-ec51982b3335.htm" />
+  <HelpKINode Title="ITransportSettings.PurgeQueueOnStartup property" Url="html/fceb71aa-29ce-a30c-8a98-66c88296c58d.htm" />
+  <HelpKINode Title="ITransportSettings.QueueName property" Url="html/f6ba566d-4b61-d0e6-8065-c643c9d6068d.htm" />
   <HelpKINode Title="ITransportSettings.RetryDelay property" Url="html/4dc9d51a-cec9-0e3d-ce08-5f38468bd3a5.htm" />
+  <HelpKINode Title="ITransportSettings.ServerName property" Url="html/dd073532-f190-0421-3a78-dc2031acc376.htm" />
+  <HelpKINode Title="ITransportSettings.SslEnabled property" Url="html/edf929e5-9514-db2d-a280-f09071154bf4.htm" />
   <HelpKINode Title="ITransportSettings.Username property" Url="html/4a5c4195-f8f6-99ad-0f24-247d5ac9e6cb.htm" />
+  <HelpKINode Title="ITransportSettings.Version property" Url="html/77e442ef-724a-3259-fa5f-4275e862569c.htm" />
+  <HelpKINode Title="ITransportSettings.VirtualHost property" Url="html/4a29629a-2a98-86ad-09f0-7de9d3d6eb9d.htm" />
+  <HelpKINode Title="ITypeRegistrar interface">
+    <HelpKINode Title="ITypeRegistrar Interface" Url="html/7a2eaeeb-8e94-123d-5c32-512db56401fa.htm" />
+    <HelpKINode Title="about ITypeRegistrar interface" Url="html/7a2eaeeb-8e94-123d-5c32-512db56401fa.htm" />
+    <HelpKINode Title="methods" Url="html/f59b9868-c26e-8acd-d325-5db32b8ff296.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ITypeRegistrar.RegisterFor method" Url="html/c064f692-5338-486e-88bb-24e7ce3bb8f2.htm" />
+  <HelpKINode Title="ITypeRegistrar.RegisterForAll method" Url="html/bcfa327c-b12c-25ee-596c-1e8d86f5c8f1.htm" />
   <HelpKINode Title="Language property" Url="html/e469c761-a6ce-ff51-fc00-9a5d97781480.htm" />
   <HelpKINode Title="LastPacketNumber property">
     <HelpKINode Title="IMessageBusReadStream.LastPacketNumber Property " Url="html/018ac4a8-e2db-c6bb-60d9-dad44e279d6c.htm" />
@@ -793,19 +1015,24 @@
   </HelpKINode>
   <HelpKINode Title="LatestCpu property" Url="html/13ecd61d-c259-8c47-6b2e-6523f1e09dfa.htm" />
   <HelpKINode Title="LatestMemory property" Url="html/a4987830-99b4-7291-7372-054e66ff768b.htm" />
-  <HelpKINode Title="LoadSettings method">
-    <HelpKINode Title="Configuration.LoadSettings Method " Url="html/2d3e625d-a8fd-8b4f-08bb-62c9d3afda79.htm" />
-    <HelpKINode Title="IConfiguration.LoadSettings Method " Url="html/8d212410-0d4c-099a-3b9b-6d41a01e46d9.htm" />
-  </HelpKINode>
   <HelpKINode Title="Location property" Url="html/1fab9c41-5620-0cef-7616-d128367ce762.htm" />
-  <HelpKINode Title="MachineName property" Url="html/1dfef47d-592c-a81f-8efc-c4111dcd2dcc.htm" />
+  <HelpKINode Title="MachineName property">
+    <HelpKINode Title="ITransportSettings.MachineName Property " Url="html/1dfef47d-592c-a81f-8efc-c4111dcd2dcc.htm" />
+    <HelpKINode Title="TransportSettings.MachineName Property " Url="html/c58e302f-2023-e18d-8f92-30916666bae1.htm" />
+  </HelpKINode>
   <HelpKINode Title="Mappings property">
     <HelpKINode Title="IProcessManagerPropertyMapper.Mappings Property " Url="html/b98c92b4-82fe-9b12-c691-e011071d3caa.htm" />
     <HelpKINode Title="ProcessManagerPropertyMapper.Mappings Property " Url="html/bfe382df-b7d7-4b03-7a2b-64baae269b8e.htm" />
   </HelpKINode>
   <HelpKINode Title="MarkAsComplete method" Url="html/63bf5941-8808-e426-4c05-eb08b888c149.htm" />
-  <HelpKINode Title="MaximumMessageSize property" Url="html/f5051495-acf4-4f33-2f72-248c4c04808e.htm" />
-  <HelpKINode Title="MaxRetries property" Url="html/d2c3e284-88a1-d717-ad4e-fe79bb35c060.htm" />
+  <HelpKINode Title="MaximumMessageSize property">
+    <HelpKINode Title="IProducer.MaximumMessageSize Property " Url="html/f5051495-acf4-4f33-2f72-248c4c04808e.htm" />
+    <HelpKINode Title="Producer.MaximumMessageSize Property " Url="html/48315782-a38e-7517-7596-0019ce91ea16.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MaxRetries property">
+    <HelpKINode Title="ITransportSettings.MaxRetries Property " Url="html/d2c3e284-88a1-d717-ad4e-fe79bb35c060.htm" />
+    <HelpKINode Title="TransportSettings.MaxRetries Property " Url="html/cc19d93f-286b-9e8e-1ede-c2455ea1d43a.htm" />
+  </HelpKINode>
   <HelpKINode Title="MemoryData(Of T) class">
     <HelpKINode Title="MemoryData(T) Class" Url="html/c1e37f7a-5526-9eb6-19d0-49fabcfa393d.htm" />
     <HelpKINode Title="about MemoryData(Of T) class" Url="html/c1e37f7a-5526-9eb6-19d0-49fabcfa393d.htm" />
@@ -860,7 +1087,7 @@
   <HelpKINode Title="MessageBusWriteStream class">
     <HelpKINode Title="MessageBusWriteStream Class" Url="html/dfbf551c-193a-56ba-186e-384361afc52f.htm" />
     <HelpKINode Title="about MessageBusWriteStream class" Url="html/dfbf551c-193a-56ba-186e-384361afc52f.htm" />
-    <HelpKINode Title="constructor" Url="html/b9973981-1c9a-956a-1cd6-480730d53ced.htm" />
+    <HelpKINode Title="constructor" Url="html/56bbba2e-3204-2683-0ec4-f590eb5c6632.htm" />
     <HelpKINode Title="methods" Url="html/4dde1619-260f-3aa7-ad2f-6131e612b856.htm" />
   </HelpKINode>
   <HelpKINode Title="MessageBusWriteStream property">
@@ -869,8 +1096,8 @@
   </HelpKINode>
   <HelpKINode Title="MessageBusWriteStream.Close method" Url="html/affeb9f9-b671-0e69-4d4b-348c897dc011.htm" />
   <HelpKINode Title="MessageBusWriteStream.Dispose method" Url="html/6a799795-8999-6bee-b521-9b277b513b1f.htm" />
-  <HelpKINode Title="MessageBusWriteStream.MessageBusWriteStream constructor" Url="html/b9973981-1c9a-956a-1cd6-480730d53ced.htm" />
-  <HelpKINode Title="MessageBusWriteStream.Write method" Url="html/d9e6ca52-111b-209c-753e-dbc9d5a9753d.htm" />
+  <HelpKINode Title="MessageBusWriteStream.MessageBusWriteStream constructor" Url="html/56bbba2e-3204-2683-0ec4-f590eb5c6632.htm" />
+  <HelpKINode Title="MessageBusWriteStream.Write method" Url="html/f90902e1-2dd1-e151-9a78-f8e488c5445a.htm" />
   <HelpKINode Title="MessageHandlerProcessor class">
     <HelpKINode Title="MessageHandlerProcessor Class" Url="html/abc7ddfe-67f3-b356-997a-b46793a0b3d4.htm" />
     <HelpKINode Title="about MessageHandlerProcessor class" Url="html/abc7ddfe-67f3-b356-997a-b46793a0b3d4.htm" />
@@ -883,6 +1110,17 @@
   <HelpKINode Title="MessageProp field" Url="html/6aa70198-2a30-0e58-ffbf-033259fa72ac.htm" />
   <HelpKINode Title="MessageType field" Url="html/3401cdcf-db61-b3d7-5693-c5c7f21c1757.htm" />
   <HelpKINode Title="MessageType property" Url="html/6b8b8b5c-dfae-e87a-e844-887b24ae22e0.htm" />
+  <HelpKINode Title="MongoDBAggregatorPersistor class">
+    <HelpKINode Title="MongoDBAggregatorPersistor Class" Url="html/c2799572-63a0-2057-84f1-b2b0746324b3.htm" />
+    <HelpKINode Title="about MongoDBAggregatorPersistor class" Url="html/c2799572-63a0-2057-84f1-b2b0746324b3.htm" />
+    <HelpKINode Title="constructor" Url="html/f810ba6e-412c-824e-42a2-dbc7f71510ee.htm" />
+    <HelpKINode Title="methods" Url="html/73c5e82b-3987-de36-cf24-32cedb6fa075.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MongoDBAggregatorPersistor.Count method" Url="html/d14e0301-9c9a-6e22-2fde-02b442522c09.htm" />
+  <HelpKINode Title="MongoDBAggregatorPersistor.GetData method" Url="html/8ec3290b-041d-d9a8-0621-45b6804b7a20.htm" />
+  <HelpKINode Title="MongoDBAggregatorPersistor.InsertData method" Url="html/6bcdb680-d9a6-a25e-314e-2e49788edfbf.htm" />
+  <HelpKINode Title="MongoDBAggregatorPersistor.MongoDBAggregatorPersistor constructor" Url="html/f810ba6e-412c-824e-42a2-dbc7f71510ee.htm" />
+  <HelpKINode Title="MongoDBAggregatorPersistor.RemoveData method" Url="html/9892ab81-6a35-e4f5-d6ba-18296e6e6041.htm" />
   <HelpKINode Title="MongoDbData(Of T) class">
     <HelpKINode Title="MongoDbData(T) Class" Url="html/d3d80995-0260-1b86-a78a-e3eaab9c18cc.htm" />
     <HelpKINode Title="about MongoDbData(Of T) class" Url="html/d3d80995-0260-1b86-a78a-e3eaab9c18cc.htm" />
@@ -893,6 +1131,7 @@
   <HelpKINode Title="MongoDbData(Of T).Data property" Url="html/f6fcac62-c990-6cc1-f4c1-d9835e8069ce.htm" />
   <HelpKINode Title="MongoDbData(Of T).Id property" Url="html/3fdbfa92-9582-352a-f2c6-b49fdb481181.htm" />
   <HelpKINode Title="MongoDbData(Of T).MongoDbData constructor" Url="html/30b80bbf-c17d-b70f-65d0-7548410e9852.htm" />
+  <HelpKINode Title="MongoDbData(Of T).Name property" Url="html/1b700cb3-8016-23af-84db-8a1a1784c93d.htm" />
   <HelpKINode Title="MongoDbData(Of T).Version property" Url="html/072f4820-52a9-1d35-2a5c-506570dfb928.htm" />
   <HelpKINode Title="MongoDbData&lt;T&gt; class">
     <HelpKINode Title="MongoDbData(T) Class" Url="html/d3d80995-0260-1b86-a78a-e3eaab9c18cc.htm" />
@@ -904,6 +1143,7 @@
   <HelpKINode Title="MongoDbData&lt;T&gt;.Data property" Url="html/f6fcac62-c990-6cc1-f4c1-d9835e8069ce.htm" />
   <HelpKINode Title="MongoDbData&lt;T&gt;.Id property" Url="html/3fdbfa92-9582-352a-f2c6-b49fdb481181.htm" />
   <HelpKINode Title="MongoDbData&lt;T&gt;.MongoDbData constructor" Url="html/30b80bbf-c17d-b70f-65d0-7548410e9852.htm" />
+  <HelpKINode Title="MongoDbData&lt;T&gt;.Name property" Url="html/1b700cb3-8016-23af-84db-8a1a1784c93d.htm" />
   <HelpKINode Title="MongoDbData&lt;T&gt;.Version property" Url="html/072f4820-52a9-1d35-2a5c-506570dfb928.htm" />
   <HelpKINode Title="MongoDbProcessManagerFinder class">
     <HelpKINode Title="MongoDbProcessManagerFinder Class" Url="html/4afa7e48-7b55-7daa-c522-a809d1760e63.htm" />
@@ -921,9 +1161,38 @@
   <HelpKINode Title="MongoDbProcessManagerFinder.UpdateData&lt;T&gt; method" Url="html/d90f6bba-f12d-2ee9-57d2-54ccafebe088.htm" />
   <HelpKINode Title="Name property">
     <HelpKINode Title="HeartbeatMessage.Name Property " Url="html/fa608257-a7eb-03f1-0a87-a655e9f43c8e.htm" />
-    <HelpKINode Title="Queue.Name Property " Url="html/ca838a49-b8fe-9de1-94f8-a964b7bca8a0.htm" />
+    <HelpKINode Title="MongoDbData(T).Name Property " Url="html/1b700cb3-8016-23af-84db-8a1a1784c93d.htm" />
   </HelpKINode>
-  <HelpKINode Title="Password property" Url="html/2b08ddd9-4779-2217-340f-ff804fe3cdbb.htm" />
+  <HelpKINode Title="NinjectContainer class">
+    <HelpKINode Title="NinjectContainer Class" Url="html/52648d6b-9421-e12b-9647-23cdcd07650f.htm" />
+    <HelpKINode Title="about NinjectContainer class" Url="html/52648d6b-9421-e12b-9647-23cdcd07650f.htm" />
+    <HelpKINode Title="constructor" Url="html/df88e7ad-9138-a96b-5717-e63949012393.htm" />
+    <HelpKINode Title="methods" Url="html/ab7edcd2-567d-6b1d-5196-91710141e5da.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NinjectContainer.AddBus method" Url="html/cfdcdbc5-b7e7-06d2-b404-334af92ddfec.htm" />
+  <HelpKINode Title="NinjectContainer.AddHandler(Of T) method" Url="html/cafb58d1-0ebe-8c00-608e-24b965223a23.htm" />
+  <HelpKINode Title="NinjectContainer.AddHandler&lt;T&gt; method" Url="html/cafb58d1-0ebe-8c00-608e-24b965223a23.htm" />
+  <HelpKINode Title="NinjectContainer.GetContainer method" Url="html/55b9779f-fd8c-f7e6-52ba-9243bc04c699.htm" />
+  <HelpKINode Title="NinjectContainer.GetHandlerTypes method" Url="html/567ca8da-acc3-f0de-8263-4f00eab87070.htm" />
+  <HelpKINode Title="NinjectContainer.GetInstance method" Url="html/950a49cd-0788-b1d9-0b85-119c195cb2f1.htm" />
+  <HelpKINode Title="NinjectContainer.Initialize method" Url="html/71a24fbb-76fe-e140-daa6-f4c8ed5d61b8.htm" />
+  <HelpKINode Title="NinjectContainer.NinjectContainer constructor" Url="html/df88e7ad-9138-a96b-5717-e63949012393.htm" />
+  <HelpKINode Title="NinjectContainer.ScanForHandlers method" Url="html/d8a9a810-6a68-90c6-1e26-19580e0fa40e.htm" />
+  <HelpKINode Title="NinjectExtensions class">
+    <HelpKINode Title="NinjectExtensions Class" Url="html/8d5a309c-0e6c-e8c5-571c-937e8ba5005d.htm" />
+    <HelpKINode Title="about NinjectExtensions class" Url="html/8d5a309c-0e6c-e8c5-571c-937e8ba5005d.htm" />
+    <HelpKINode Title="methods" Url="html/1d746771-f44d-564e-e751-93e10a1e9289.htm" />
+  </HelpKINode>
+  <HelpKINode Title="NinjectExtensions.ConfigureContainer method" Url="html/0547b982-8977-327a-65a4-a3dcbe2f016a.htm" />
+  <HelpKINode Title="NinjectExtensions.InitializeContainer method" Url="html/199659af-6065-7cb6-6c5f-de05c4853315.htm" />
+  <HelpKINode Title="OutgoingFilters property">
+    <HelpKINode Title="Configuration.OutgoingFilters Property " Url="html/721ba360-89c8-f532-634e-9fca3c5ca1b2.htm" />
+    <HelpKINode Title="IConfiguration.OutgoingFilters Property " Url="html/985aec96-6250-a12d-bed9-e27ac94eb8d4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Password property">
+    <HelpKINode Title="ITransportSettings.Password Property " Url="html/2b08ddd9-4779-2217-340f-ff804fe3cdbb.htm" />
+    <HelpKINode Title="TransportSettings.Password Property " Url="html/6d126fdd-6e96-9e2b-81f4-41125c0f50f0.htm" />
+  </HelpKINode>
   <HelpKINode Title="PersistenceStoreConnectionString property">
     <HelpKINode Title="Configuration.PersistenceStoreConnectionString Property " Url="html/e09d37c1-81bb-ce29-8cac-aa17abc960c4.htm" />
     <HelpKINode Title="IConfiguration.PersistenceStoreConnectionString Property " Url="html/5001713b-e4f6-c492-b25a-af95b523e2d7.htm" />
@@ -932,6 +1201,7 @@
     <HelpKINode Title="Configuration.PersistenceStoreDatabaseName Property " Url="html/6e9279c8-6fec-36d9-37eb-ec7382011f82.htm" />
     <HelpKINode Title="IConfiguration.PersistenceStoreDatabaseName Property " Url="html/7c17b66c-9e6e-0e97-a981-e1d8905cb81a.htm" />
   </HelpKINode>
+  <HelpKINode Title="Process method" Url="html/2a5129f1-5240-f6cb-2dd6-df200ee5ffaf.htm" />
   <HelpKINode Title="ProcessedCount property">
     <HelpKINode Title="IRequestConfiguration.ProcessedCount Property " Url="html/39e18631-e308-ebfa-3ebb-0fbe14025e07.htm" />
     <HelpKINode Title="RequestConfiguration.ProcessedCount Property " Url="html/67d0e08a-d070-aa4b-e38b-16f71fe8d752.htm" />
@@ -1026,6 +1296,22 @@
     <HelpKINode Title="ProcessManagerProcessor.ProcessMessage(T) Method " Url="html/4d78787a-c7bb-4b9c-d75b-deea076624df.htm" />
     <HelpKINode Title="StreamProcessor.ProcessMessage(T) Method " Url="html/93b7e607-541a-da7d-12a8-7dd8941ce2e3.htm" />
   </HelpKINode>
+  <HelpKINode Title="Producer class">
+    <HelpKINode Title="Producer Class" Url="html/f82fe9b3-be4f-5260-f53f-7c0de1883701.htm" />
+    <HelpKINode Title="about Producer class" Url="html/f82fe9b3-be4f-5260-f53f-7c0de1883701.htm" />
+    <HelpKINode Title="constructor" Url="html/35575b2a-3ee5-cb34-49be-5a9a238ac547.htm" />
+    <HelpKINode Title="methods" Url="html/212f822e-56e5-a0c4-1d0b-b0016c899a71.htm" />
+    <HelpKINode Title="properties" Url="html/6a8b9303-af26-933c-3c42-ae765fe343f8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Producer.Disconnect method" Url="html/037d1f67-7cfc-3448-7ead-af3b8b3922dd.htm" />
+  <HelpKINode Title="Producer.Dispose method" Url="html/faf91d46-3fdf-848b-aa6a-b989b03f87a5.htm" />
+  <HelpKINode Title="Producer.MaximumMessageSize property" Url="html/48315782-a38e-7517-7596-0019ce91ea16.htm" />
+  <HelpKINode Title="Producer.Producer constructor" Url="html/35575b2a-3ee5-cb34-49be-5a9a238ac547.htm" />
+  <HelpKINode Title="Producer.Publish(Of T) method" Url="html/2e85c615-f1fa-6aa4-1b7c-b3c2be30967d.htm" />
+  <HelpKINode Title="Producer.Publish&lt;T&gt; method" Url="html/2e85c615-f1fa-6aa4-1b7c-b3c2be30967d.htm" />
+  <HelpKINode Title="Producer.Send method" Url="html/f666be32-e089-406b-394c-1dd1f92be675.htm" />
+  <HelpKINode Title="Producer.SendBytes method" Url="html/d84c702c-8ac9-9106-d0ae-ffc5c70825f4.htm" />
+  <HelpKINode Title="Producer.Type property" Url="html/13354424-459e-c82f-91bd-04d5c541826c.htm" />
   <HelpKINode Title="ProducerType property">
     <HelpKINode Title="Configuration.ProducerType Property " Url="html/ed15aec8-d2b8-d9d2-d2e8-9dbd15d30838.htm" />
     <HelpKINode Title="IConfiguration.ProducerType Property " Url="html/a8f7c570-62f5-eee9-e276-13ff18b1cb62.htm" />
@@ -1034,12 +1320,14 @@
   <HelpKINode Title="Publish(Of T) method">
     <HelpKINode Title="Bus.Publish(T) Method " Url="html/ecab08b2-d37a-dda7-56a0-c8f9ddc5df53.htm" />
     <HelpKINode Title="IBus.Publish(T) Method " Url="html/5e0401c5-d46a-7d10-a04d-1e7b730e0a78.htm" />
-    <HelpKINode Title="IProducer.Publish(T) Method " Url="html/6b10dc18-91dd-a2ca-9931-25e55a7f48d8.htm" />
+    <HelpKINode Title="IProducer.Publish(T) Method " Url="html/930b0db7-47a4-f8e6-1945-29ea356d76a6.htm" />
+    <HelpKINode Title="Producer.Publish(T) Method " Url="html/2e85c615-f1fa-6aa4-1b7c-b3c2be30967d.htm" />
   </HelpKINode>
   <HelpKINode Title="Publish&lt;T&gt; method">
     <HelpKINode Title="Bus.Publish(T) Method " Url="html/ecab08b2-d37a-dda7-56a0-c8f9ddc5df53.htm" />
     <HelpKINode Title="IBus.Publish(T) Method " Url="html/5e0401c5-d46a-7d10-a04d-1e7b730e0a78.htm" />
-    <HelpKINode Title="IProducer.Publish(T) Method " Url="html/6b10dc18-91dd-a2ca-9931-25e55a7f48d8.htm" />
+    <HelpKINode Title="IProducer.Publish(T) Method " Url="html/930b0db7-47a4-f8e6-1945-29ea356d76a6.htm" />
+    <HelpKINode Title="Producer.Publish(T) Method " Url="html/2e85c615-f1fa-6aa4-1b7c-b3c2be30967d.htm" />
   </HelpKINode>
   <HelpKINode Title="PublishRequest(Of TRequest, TReply) method">
     <HelpKINode Title="Bus.PublishRequest(TRequest, TReply) Method " Url="html/d0945ecf-d1bc-4647-b40d-6dc9600653c3.htm" />
@@ -1049,44 +1337,46 @@
     <HelpKINode Title="Bus.PublishRequest(TRequest, TReply) Method " Url="html/d0945ecf-d1bc-4647-b40d-6dc9600653c3.htm" />
     <HelpKINode Title="IBus.PublishRequest(TRequest, TReply) Method " Url="html/3ab98fbe-3239-14db-6831-a5d8cad6ea12.htm" />
   </HelpKINode>
-  <HelpKINode Title="PurgeOnStartup property" Url="html/be1cf8b2-2202-abd1-7aa1-5471443d6803.htm" />
+  <HelpKINode Title="PurgeQueueOnStartup property">
+    <HelpKINode Title="ITransportSettings.PurgeQueueOnStartup Property " Url="html/fceb71aa-29ce-a30c-8a98-66c88296c58d.htm" />
+    <HelpKINode Title="TransportSettings.PurgeQueueOnStartup Property " Url="html/86139f97-da31-b93c-d1ff-b3e2c7d5d3b0.htm" />
+  </HelpKINode>
   <HelpKINode Title="PurgeQueuesOnStart method">
     <HelpKINode Title="Configuration.PurgeQueuesOnStart Method " Url="html/02f16b76-6007-7eb5-2e76-3ca14ddf345f.htm" />
     <HelpKINode Title="IConfiguration.PurgeQueuesOnStart Method " Url="html/b6fffbc1-3fac-fd56-5498-09b0c65c04ca.htm" />
   </HelpKINode>
-  <HelpKINode Title="Queue class">
-    <HelpKINode Title="Queue Class" Url="html/a74f377f-9759-26d1-0067-455280987947.htm" />
-    <HelpKINode Title="about Queue class" Url="html/a74f377f-9759-26d1-0067-455280987947.htm" />
-    <HelpKINode Title="constructor" Url="html/a6cb7178-3690-5cf1-6085-70b0420d066f.htm" />
-    <HelpKINode Title="methods" Url="html/baf3d424-d9f0-6b5d-378e-5a16175000bf.htm" />
-    <HelpKINode Title="properties" Url="html/5a6e6d82-454e-1d42-c5bc-e9b357274204.htm" />
-  </HelpKINode>
-  <HelpKINode Title="Queue property" Url="html/a450aca4-dafa-c9c5-edf0-ec51982b3335.htm" />
-  <HelpKINode Title="Queue.Arguments property" Url="html/a239f0e0-389f-2887-3227-401d2ce52ac9.htm" />
-  <HelpKINode Title="Queue.AutoDelete property" Url="html/41ccc284-7fea-d788-6bb5-8b2eab57af98.htm" />
-  <HelpKINode Title="Queue.Durable property" Url="html/e2484097-b8c9-dc24-bc39-c8cb87111fc6.htm" />
-  <HelpKINode Title="Queue.Exclusive property" Url="html/44ba11e9-433a-d305-c4a2-e95bdfd63fc5.htm" />
-  <HelpKINode Title="Queue.IsReadOnly property" Url="html/e9f9e47b-fbf7-43eb-3177-fe97a6e82aca.htm" />
-  <HelpKINode Title="Queue.Name property" Url="html/ca838a49-b8fe-9de1-94f8-a964b7bca8a0.htm" />
-  <HelpKINode Title="Queue.PurgeOnStartup property" Url="html/be1cf8b2-2202-abd1-7aa1-5471443d6803.htm" />
-  <HelpKINode Title="Queue.Queue constructor" Url="html/a6cb7178-3690-5cf1-6085-70b0420d066f.htm" />
-  <HelpKINode Title="Queue.RoutingKey property" Url="html/a3af081b-4086-1eca-70ed-283303e72237.htm" />
   <HelpKINode Title="QueueMappings property">
     <HelpKINode Title="Configuration.QueueMappings Property " Url="html/788bd110-7538-f91b-1559-b6343d0506ea.htm" />
     <HelpKINode Title="IConfiguration.QueueMappings Property " Url="html/b1af243b-aaa0-e497-6491-41e948156789.htm" />
   </HelpKINode>
+  <HelpKINode Title="QueueName property">
+    <HelpKINode Title="ITransportSettings.QueueName Property " Url="html/f6ba566d-4b61-d0e6-8065-c643c9d6068d.htm" />
+    <HelpKINode Title="TransportSettings.QueueName Property " Url="html/ba96c708-caf4-dc13-6e9c-01cf68e57d63.htm" />
+  </HelpKINode>
   <HelpKINode Title="R.MessageBus namespace" Url="html/5f38b93b-71d7-1725-83bc-6106fdaf889c.htm" />
   <HelpKINode Title="R.MessageBus.Bus class" Url="html/d7962baf-801c-1489-94e3-5220e1e0dd6c.htm" />
+  <HelpKINode Title="R.MessageBus.Client.RabbitMQ namespace" Url="html/c1526c1c-8084-b168-8232-cb00d8ec30a6.htm" />
+  <HelpKINode Title="R.MessageBus.Client.RabbitMQ.Consumer class" Url="html/12225965-03bc-88e5-c090-5ece00588c6b.htm" />
+  <HelpKINode Title="R.MessageBus.Client.RabbitMQ.Producer class" Url="html/f82fe9b3-be4f-5260-f53f-7c0de1883701.htm" />
+  <HelpKINode Title="R.MessageBus.Client.RabbitMQ.Retry class" Url="html/a6fa6d70-b3f7-962b-1453-232b0a0b797d.htm" />
   <HelpKINode Title="R.MessageBus.Configuration class" Url="html/6608f186-b75d-c3e5-6cb1-a6cb6ef7a519.htm" />
-  <HelpKINode Title="R.MessageBus.Container namespace" Url="html/b08d7259-37fd-1abc-781d-5ef6bb821810.htm" />
-  <HelpKINode Title="R.MessageBus.Container.StructuremapContainer class" Url="html/5413e222-c77f-e750-abda-e8fc90d069af.htm" />
+  <HelpKINode Title="R.MessageBus.Container.Default namespace" Url="html/dbef1d57-3b54-d306-f253-55463aee27fd.htm" />
+  <HelpKINode Title="R.MessageBus.Container.Default.Container class" Url="html/590cc3d7-a14d-a457-e2da-ef85f37613cf.htm" />
+  <HelpKINode Title="R.MessageBus.Container.Default.DefaultBusContainer class" Url="html/51747063-1b3d-9dda-3aab-db9998fb45b7.htm" />
+  <HelpKINode Title="R.MessageBus.Container.Default.DefaultBusContainerExtensions class" Url="html/c2ae9d1a-535f-f88a-931c-462d1e6c4bda.htm" />
+  <HelpKINode Title="R.MessageBus.Container.Default.ServiceDescriptor class" Url="html/fdfba6aa-5687-c6b1-93a0-cbf96adae164.htm" />
+  <HelpKINode Title="R.MessageBus.Container.Ninject namespace" Url="html/0f207467-138b-4f32-9fa8-f1a98f220313.htm" />
+  <HelpKINode Title="R.MessageBus.Container.Ninject.CustomBindingResolver class" Url="html/10fdea10-b912-e779-b9ce-9901ded2b9d6.htm" />
+  <HelpKINode Title="R.MessageBus.Container.Ninject.NinjectContainer class" Url="html/52648d6b-9421-e12b-9647-23cdcd07650f.htm" />
+  <HelpKINode Title="R.MessageBus.Container.Ninject.NinjectExtensions class" Url="html/8d5a309c-0e6c-e8c5-571c-937e8ba5005d.htm" />
+  <HelpKINode Title="R.MessageBus.Container.StructureMap namespace" Url="html/6e777d91-b473-d7b5-122f-366420607cb4.htm" />
+  <HelpKINode Title="R.MessageBus.Container.StructureMap.StructureMapContainer class" Url="html/f669f9b7-92ee-70b7-4707-2953f137d464.htm" />
+  <HelpKINode Title="R.MessageBus.Container.StructureMap.StructureMapExtensions class" Url="html/d31603d3-6091-eb14-2bc8-49831412cc33.htm" />
   <HelpKINode Title="R.MessageBus.Core namespace" Url="html/ccafa7d2-846d-2b42-377e-42d4211e9203.htm" />
-  <HelpKINode Title="R.MessageBus.Core.Aggregator(Of T) class" Url="html/1cfd0895-cdaa-c2cd-3990-814a4e02721b.htm" />
-  <HelpKINode Title="R.MessageBus.Core.Aggregator&lt;T&gt; class" Url="html/1cfd0895-cdaa-c2cd-3990-814a4e02721b.htm" />
   <HelpKINode Title="R.MessageBus.Core.AggregatorProcessor class" Url="html/afe28a7f-a282-c70c-7628-b868b63a9f6c.htm" />
-  <HelpKINode Title="R.MessageBus.Core.AggregatorTimer class" Url="html/4fea4bd5-3ab2-7f0b-92b0-3a67b7205cf4.htm" />
   <HelpKINode Title="R.MessageBus.Core.ConfigurationManagerWrapper class" Url="html/564c2cc9-a122-7842-e9cf-5a8195171080.htm" />
   <HelpKINode Title="R.MessageBus.Core.ConsumeContext class" Url="html/fc9308eb-4abc-3742-b2e4-bc93ff6a8df2.htm" />
+  <HelpKINode Title="R.MessageBus.Core.ConsumerPool class" Url="html/c82f4c4f-8c91-518a-0d1a-56b8d539cdd7.htm" />
   <HelpKINode Title="R.MessageBus.Core.HeartbeatMessage class" Url="html/df6ff06b-1734-3fe6-127a-8d61b7ea90bf.htm" />
   <HelpKINode Title="R.MessageBus.Core.HeartbeatTimerState class" Url="html/568e26c8-e0a5-c24c-8949-7196f5f973f1.htm" />
   <HelpKINode Title="R.MessageBus.Core.MessageBusReadStream class" Url="html/baf07d0e-c80f-0325-37dc-bcfb5879da6e.htm" />
@@ -1099,19 +1389,28 @@
   <HelpKINode Title="R.MessageBus.Core.RequestConfiguration class" Url="html/4ff78976-3c40-02d9-d02f-cd13baa427d8.htm" />
   <HelpKINode Title="R.MessageBus.Core.StreamProcessor class" Url="html/78d4fa8e-4e49-6861-768a-79b02963bb17.htm" />
   <HelpKINode Title="R.MessageBus.Core.StreamResponseMessage class" Url="html/cd625698-015f-e29b-93ed-7298f99e1cdb.htm" />
+  <HelpKINode Title="R.MessageBus.Core.TransportSettings class" Url="html/6267d003-e251-e3c9-47fb-25e216345d69.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces namespace" Url="html/d9487237-b7a1-f138-c923-e256a7d3d0c5.htm" />
+  <HelpKINode Title="R.MessageBus.Interfaces.Aggregator(Of T) class" Url="html/2127f704-45f1-cb72-ab52-92efca07f45c.htm" />
+  <HelpKINode Title="R.MessageBus.Interfaces.Aggregator&lt;T&gt; class" Url="html/2127f704-45f1-cb72-ab52-92efca07f45c.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.ConsumeEventResult class" Url="html/c7e62c56-e640-53f3-a5a0-97836155e69c.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.ConsumerEventHandler delegate" Url="html/737d4c91-33ff-2025-8fb8-e37a8b134328.htm" />
+  <HelpKINode Title="R.MessageBus.Interfaces.Container namespace" Url="html/f88f2d34-5b95-d1b2-1e57-1f7cbc830f05.htm" />
+  <HelpKINode Title="R.MessageBus.Interfaces.Container.IContainer interface" Url="html/5818c48c-a0ba-4eb0-2106-5820117d3199.htm" />
+  <HelpKINode Title="R.MessageBus.Interfaces.Container.IServicesRegistrar interface" Url="html/dd9cf675-37cb-7c28-a87a-3eaa2a35ac9c.htm" />
+  <HelpKINode Title="R.MessageBus.Interfaces.Container.ITypeRegistrar interface" Url="html/7a2eaeeb-8e94-123d-5c32-512db56401fa.htm" />
+  <HelpKINode Title="R.MessageBus.Interfaces.Envelope class" Url="html/39ae1315-1e40-daa8-1c33-816fb2b0535f.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.HandlerReference class" Url="html/b7a02b74-b163-eb92-f164-f059f4f4b113.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IAggregatorPersistor interface" Url="html/8cabbff4-2381-b50f-8ac2-a11c04f5f1b2.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IAggregatorProcessor interface" Url="html/499c1be8-7fe0-4528-469e-93642a8feb24.htm" />
-  <HelpKINode Title="R.MessageBus.Interfaces.IAggregatorTimer interface" Url="html/39e86d46-a2a6-f7e8-cf41-ab65b8887316.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IBus interface" Url="html/18606cd5-e930-644c-22a6-8aff488d5907.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IBusContainer interface" Url="html/8abfbc41-b2bf-f17c-b64a-b579a1636c11.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IConfiguration interface" Url="html/f135edaa-5eed-dc29-efb5-b15775af6ad5.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IConfigurationManager interface" Url="html/6ec841d9-1730-0b24-4337-e14a334736c2.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IConsumeContext interface" Url="html/29a7be2c-42ed-dcc0-5c73-f977cdeaae66.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IConsumer interface" Url="html/5d770183-9793-c703-44be-729f20f1370b.htm" />
+  <HelpKINode Title="R.MessageBus.Interfaces.IConsumerPool interface" Url="html/067e1374-0a7b-1951-12b1-d931051ac1c0.htm" />
+  <HelpKINode Title="R.MessageBus.Interfaces.IFilter interface" Url="html/7a613698-ea64-08f8-2400-a75be7a3ae80.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IMessageBusReadStream interface" Url="html/fd478d8b-e3ba-1fd4-aafd-7f982f90e3d9.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IMessageBusWriteStream interface" Url="html/6138ac88-9587-f518-d4a9-420bd7968f74.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.IMessageHandler(Of TMessage) interface" Url="html/b8f8f948-70cc-71f9-6642-e391bee832bf.htm" />
@@ -1134,13 +1433,13 @@
   <HelpKINode Title="R.MessageBus.Interfaces.Message class" Url="html/81b74eb5-10b9-86ed-1d2d-60af3fdb4c97.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.MessageBusStreamComplete delegate" Url="html/6e31894d-afd3-1741-5f2c-095e7e8eef13.htm" />
   <HelpKINode Title="R.MessageBus.Interfaces.ProcessManagerToMessageMap class" Url="html/bd57aae5-b7e7-0068-2ece-8a7929771889.htm" />
-  <HelpKINode Title="R.MessageBus.Interfaces.Queue class" Url="html/a74f377f-9759-26d1-0067-455280987947.htm" />
   <HelpKINode Title="R.MessageBus.Persistance.InMemory namespace" Url="html/f5acbff4-8c37-2b4b-d3be-6ba5fe70b9ed.htm" />
   <HelpKINode Title="R.MessageBus.Persistance.InMemory.InMemoryAggregatorPersistor class" Url="html/d2bbf8e6-b8eb-6f82-b7eb-47f2c76e7996.htm" />
   <HelpKINode Title="R.MessageBus.Persistance.InMemory.InMemoryProcessManagerFinder class" Url="html/af580c99-dce2-8763-8370-03aff444f0e1.htm" />
   <HelpKINode Title="R.MessageBus.Persistance.InMemory.MemoryData(Of T) class" Url="html/c1e37f7a-5526-9eb6-19d0-49fabcfa393d.htm" />
   <HelpKINode Title="R.MessageBus.Persistance.InMemory.MemoryData&lt;T&gt; class" Url="html/c1e37f7a-5526-9eb6-19d0-49fabcfa393d.htm" />
   <HelpKINode Title="R.MessageBus.Persistance.MongoDb namespace" Url="html/bd2f3dae-9b00-041f-2db2-0ca6458a35a3.htm" />
+  <HelpKINode Title="R.MessageBus.Persistance.MongoDb.MongoDBAggregatorPersistor class" Url="html/c2799572-63a0-2057-84f1-b2b0746324b3.htm" />
   <HelpKINode Title="R.MessageBus.Persistance.MongoDb.MongoDbData(Of T) class" Url="html/d3d80995-0260-1b86-a78a-e3eaab9c18cc.htm" />
   <HelpKINode Title="R.MessageBus.Persistance.MongoDb.MongoDbData&lt;T&gt; class" Url="html/d3d80995-0260-1b86-a78a-e3eaab9c18cc.htm" />
   <HelpKINode Title="R.MessageBus.Persistance.MongoDb.MongoDbProcessManagerFinder class" Url="html/4afa7e48-7b55-7daa-c522-a809d1760e63.htm" />
@@ -1153,9 +1452,19 @@
     <HelpKINode Title="IMessageBusReadStream.Read Method " Url="html/d1076de3-873f-cc6b-de3a-55182ed546d9.htm" />
     <HelpKINode Title="MessageBusReadStream.Read Method " Url="html/c0cc3e2f-5282-cc62-507e-caceaf1b41dc.htm" />
   </HelpKINode>
-  <HelpKINode Title="RemoveAll method">
-    <HelpKINode Title="IAggregatorPersistor.RemoveAll Method " Url="html/fc699007-194a-ed61-0c8e-16c48ac01648.htm" />
-    <HelpKINode Title="InMemoryAggregatorPersistor.RemoveAll Method " Url="html/ba805fc5-087e-4c01-5b4a-53bbd4bb0002.htm" />
+  <HelpKINode Title="RegisterFor method">
+    <HelpKINode Title="Container.RegisterFor Method " Url="html/29a8f3be-077f-9916-fa28-fd68e913ea66.htm" />
+    <HelpKINode Title="ITypeRegistrar.RegisterFor Method " Url="html/c064f692-5338-486e-88bb-24e7ce3bb8f2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RegisterForAll method">
+    <HelpKINode Title="Container.RegisterForAll Method " Url="html/3e48fee9-1b82-c88b-bfb2-f8d681464e7f.htm" />
+    <HelpKINode Title="ITypeRegistrar.RegisterForAll Method " Url="html/bcfa327c-b12c-25ee-596c-1e8d86f5c8f1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RemoveAll method" Url="html/ba805fc5-087e-4c01-5b4a-53bbd4bb0002.htm" />
+  <HelpKINode Title="RemoveData method">
+    <HelpKINode Title="IAggregatorPersistor.RemoveData Method " Url="html/77ecfca8-e800-c9fd-a6f1-359b9e168028.htm" />
+    <HelpKINode Title="InMemoryAggregatorPersistor.RemoveData Method " Url="html/45d23cf9-c751-04ef-8a51-74f55e28acca.htm" />
+    <HelpKINode Title="MongoDBAggregatorPersistor.RemoveData Method " Url="html/9892ab81-6a35-e4f5-d6ba-18296e6e6041.htm" />
   </HelpKINode>
   <HelpKINode Title="Reply(Of TReply) method">
     <HelpKINode Title="ConsumeContext.Reply(TReply) Method " Url="html/5657ccbc-04a4-4cdb-84d8-305db2c9be08.htm" />
@@ -1182,7 +1491,25 @@
     <HelpKINode Title="IRequestConfiguration.RequestMessageId Property " Url="html/b5b80f73-08e8-5642-2f31-98ed4f68446f.htm" />
     <HelpKINode Title="RequestConfiguration.RequestMessageId Property " Url="html/98879cd7-36d7-f58f-872c-b93725342c47.htm" />
   </HelpKINode>
-  <HelpKINode Title="RetryDelay property" Url="html/4dc9d51a-cec9-0e3d-ce08-5f38468bd3a5.htm" />
+  <HelpKINode Title="ResetTimer method">
+    <HelpKINode Title="AggregatorProcessor.ResetTimer Method " Url="html/9942b6d5-9e9e-f61e-d25a-a0532130ae89.htm" />
+    <HelpKINode Title="IAggregatorProcessor.ResetTimer Method " Url="html/fdf8f917-f10c-0f65-f06b-d6b63935bf27.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Resolve method">
+    <HelpKINode Title="Container.Resolve Method " Url="html/e61832ff-4e89-3f02-e815-171914afef7c.htm" />
+    <HelpKINode Title="CustomBindingResolver.Resolve Method " Url="html/91a17bd7-a61c-988a-7c9b-b528b2779ad8.htm" />
+    <HelpKINode Title="IContainer.Resolve Method " Url="html/30f57609-fb63-4fe4-ef1d-10ca91de240a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Retry class">
+    <HelpKINode Title="Retry Class" Url="html/a6fa6d70-b3f7-962b-1453-232b0a0b797d.htm" />
+    <HelpKINode Title="about Retry class" Url="html/a6fa6d70-b3f7-962b-1453-232b0a0b797d.htm" />
+    <HelpKINode Title="methods" Url="html/6e4e0571-3de0-1c8c-703c-d7250b533c7c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Retry.Do method" Url="html/af6f783d-be6f-79cd-6c71-c576b3d5b892.htm" />
+  <HelpKINode Title="RetryDelay property">
+    <HelpKINode Title="ITransportSettings.RetryDelay Property " Url="html/4dc9d51a-cec9-0e3d-ce08-5f38468bd3a5.htm" />
+    <HelpKINode Title="TransportSettings.RetryDelay Property " Url="html/32603e88-34ef-e313-cbd0-a9c7b855feda.htm" />
+  </HelpKINode>
   <HelpKINode Title="Route(Of T) method">
     <HelpKINode Title="Bus.Route(T) Method " Url="html/5b5c8808-a3ef-9901-520b-fd1377de864a.htm" />
     <HelpKINode Title="IBus.Route(T) Method " Url="html/f3167b3b-a8e6-4b05-dcd8-21d374574b19.htm" />
@@ -1191,10 +1518,11 @@
     <HelpKINode Title="Bus.Route(T) Method " Url="html/5b5c8808-a3ef-9901-520b-fd1377de864a.htm" />
     <HelpKINode Title="IBus.Route(T) Method " Url="html/f3167b3b-a8e6-4b05-dcd8-21d374574b19.htm" />
   </HelpKINode>
-  <HelpKINode Title="RoutingKey property" Url="html/a3af081b-4086-1eca-70ed-283303e72237.htm" />
   <HelpKINode Title="ScanForHandlers method">
+    <HelpKINode Title="DefaultBusContainer.ScanForHandlers Method " Url="html/739d3f65-57a7-f849-7433-6e384d7582c3.htm" />
     <HelpKINode Title="IBusContainer.ScanForHandlers Method " Url="html/292cbf45-53cb-ff37-350e-d8c6b5d28552.htm" />
-    <HelpKINode Title="StructuremapContainer.ScanForHandlers Method " Url="html/0ad0f6f8-74c9-9c79-3709-377ffbd05ac7.htm" />
+    <HelpKINode Title="NinjectContainer.ScanForHandlers Method " Url="html/d8a9a810-6a68-90c6-1e26-19580e0fa40e.htm" />
+    <HelpKINode Title="StructureMapContainer.ScanForHandlers Method " Url="html/23b30129-b896-cefc-8e50-09fbc394feb9.htm" />
   </HelpKINode>
   <HelpKINode Title="ScanForMesssageHandlers property">
     <HelpKINode Title="Configuration.ScanForMesssageHandlers Property " Url="html/a4cbd3e2-dcd0-3331-0fc1-79aa36a1880d.htm" />
@@ -1204,8 +1532,12 @@
     <HelpKINode Title="Bus.Send Method " Url="html/fd5ce05c-e9df-515e-7fa6-f7230ce78c33.htm" />
     <HelpKINode Title="IBus.Send Method " Url="html/eacbe8d8-e78c-5651-a736-0af5a15d62dc.htm" />
     <HelpKINode Title="IProducer.Send Method " Url="html/2b9335ea-7b62-14ac-e921-db2f9bbf5176.htm" />
+    <HelpKINode Title="Producer.Send Method " Url="html/f666be32-e089-406b-394c-1dd1f92be675.htm" />
   </HelpKINode>
-  <HelpKINode Title="SendBytes method" Url="html/fcd44bf2-e0c9-3af6-752d-94bd197e672b.htm" />
+  <HelpKINode Title="SendBytes method">
+    <HelpKINode Title="IProducer.SendBytes Method " Url="html/7271f498-60fa-d725-3278-4b3b1b623c69.htm" />
+    <HelpKINode Title="Producer.SendBytes Method " Url="html/d84c702c-8ac9-9106-d0ae-ffc5c70825f4.htm" />
+  </HelpKINode>
   <HelpKINode Title="SendRequest method">
     <HelpKINode Title="Bus.SendRequest Method " Url="html/0f7403de-3ec3-18e4-f6c6-01566756cc6f.htm" />
     <HelpKINode Title="IBus.SendRequest Method " Url="html/5a4da07b-68d7-d30f-c82f-1d718d49bc53.htm" />
@@ -1214,6 +1546,21 @@
     <HelpKINode Title="IMessageBusReadStream.SequenceId Property " Url="html/ea667cad-8896-a391-ace5-456d44c48081.htm" />
     <HelpKINode Title="MessageBusReadStream.SequenceId Property " Url="html/15c9bd8f-2686-da92-f950-c27e65251cc5.htm" />
   </HelpKINode>
+  <HelpKINode Title="ServerName property">
+    <HelpKINode Title="ITransportSettings.ServerName Property " Url="html/dd073532-f190-0421-3a78-dc2031acc376.htm" />
+    <HelpKINode Title="TransportSettings.ServerName Property " Url="html/93ef874b-5ab3-b6ca-3989-1139ec14705e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ServiceDescriptor class">
+    <HelpKINode Title="ServiceDescriptor Class" Url="html/fdfba6aa-5687-c6b1-93a0-cbf96adae164.htm" />
+    <HelpKINode Title="about ServiceDescriptor class" Url="html/fdfba6aa-5687-c6b1-93a0-cbf96adae164.htm" />
+    <HelpKINode Title="constructor" Url="html/fb46ba4c-10f2-d4d1-1cfe-ef28acc286ab.htm" />
+    <HelpKINode Title="methods" Url="html/33b4bf9b-aee3-b0c2-30cf-50c2c20b7ef1.htm" />
+    <HelpKINode Title="properties" Url="html/4c8cd3af-d354-191d-1036-c56904505023.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ServiceDescriptor.Instance property" Url="html/ea1f946b-40e3-eced-fe51-939c75658be1.htm" />
+  <HelpKINode Title="ServiceDescriptor.ServiceDescriptor constructor" Url="html/fb46ba4c-10f2-d4d1-1cfe-ef28acc286ab.htm" />
+  <HelpKINode Title="ServiceDescriptor.ServiceType property" Url="html/fb2854a5-b60c-5b3e-1b42-dbfe7e80c0e6.htm" />
+  <HelpKINode Title="ServiceType property" Url="html/fb2854a5-b60c-5b3e-1b42-dbfe7e80c0e6.htm" />
   <HelpKINode Title="SetAggregatorPersistor(Of T) method">
     <HelpKINode Title="Configuration.SetAggregatorPersistor(T) Method " Url="html/f5e5ce9a-cc8e-a6d8-5151-dd982a812241.htm" />
     <HelpKINode Title="IConfiguration.SetAggregatorPersistor(T) Method " Url="html/4840dcd3-3232-997c-5303-06ad7372aeee.htm" />
@@ -1238,13 +1585,14 @@
     <HelpKINode Title="Configuration.SetConsumer(T) Method " Url="html/936e4700-66a7-e517-edbf-07091f5346cf.htm" />
     <HelpKINode Title="IConfiguration.SetConsumer(T) Method " Url="html/fa9cb607-19ec-673e-422a-cab1d87ad6e1.htm" />
   </HelpKINode>
-  <HelpKINode Title="SetContainer(Of T) method">
-    <HelpKINode Title="Configuration.SetContainer(T) Method " Url="html/ac14dfae-0e0a-122a-2934-c1f75f90d58b.htm" />
-    <HelpKINode Title="IConfiguration.SetContainer(T) Method " Url="html/fc908b65-15b3-b552-eb0c-810348b77bd7.htm" />
+  <HelpKINode Title="SetContainer method" Url="html/5a44a34c-c57c-502e-8f9a-c6227dbef559.htm" />
+  <HelpKINode Title="SetContainerType(Of T) method">
+    <HelpKINode Title="Configuration.SetContainerType(T) Method " Url="html/5d9e68ca-c97b-6409-6590-f222b5758483.htm" />
+    <HelpKINode Title="IConfiguration.SetContainerType(T) Method " Url="html/69ff68c5-d8bf-83cb-4895-6470b5ee9d86.htm" />
   </HelpKINode>
-  <HelpKINode Title="SetContainer&lt;T&gt; method">
-    <HelpKINode Title="Configuration.SetContainer(T) Method " Url="html/ac14dfae-0e0a-122a-2934-c1f75f90d58b.htm" />
-    <HelpKINode Title="IConfiguration.SetContainer(T) Method " Url="html/fc908b65-15b3-b552-eb0c-810348b77bd7.htm" />
+  <HelpKINode Title="SetContainerType&lt;T&gt; method">
+    <HelpKINode Title="Configuration.SetContainerType(T) Method " Url="html/5d9e68ca-c97b-6409-6590-f222b5758483.htm" />
+    <HelpKINode Title="IConfiguration.SetContainerType(T) Method " Url="html/69ff68c5-d8bf-83cb-4895-6470b5ee9d86.htm" />
   </HelpKINode>
   <HelpKINode Title="SetDisableErrors method">
     <HelpKINode Title="Configuration.SetDisableErrors Method " Url="html/283397ec-c53b-a456-6991-b943d79282e8.htm" />
@@ -1290,6 +1638,10 @@
     <HelpKINode Title="Configuration.SetQueueName Method " Url="html/be7f4d71-0a58-f2f3-2efa-81b5a06a42e7.htm" />
     <HelpKINode Title="IConfiguration.SetQueueName Method " Url="html/458ab11d-5502-98fa-416b-eb74ea09e6fe.htm" />
   </HelpKINode>
+  <HelpKINode Title="SetThreads method">
+    <HelpKINode Title="Configuration.SetThreads Method " Url="html/e1667b50-f46e-19e2-6ba3-d6d069af5408.htm" />
+    <HelpKINode Title="IConfiguration.SetThreads Method " Url="html/ff3268d5-ca7a-29e0-312a-60611f80c207.htm" />
+  </HelpKINode>
   <HelpKINode Title="SqlServerData(Of T) class">
     <HelpKINode Title="SqlServerData(T) Class" Url="html/bf2bc337-c090-aaf0-8839-65115a4a59da.htm" />
     <HelpKINode Title="about SqlServerData(Of T) class" Url="html/bf2bc337-c090-aaf0-8839-65115a4a59da.htm" />
@@ -1326,21 +1678,27 @@
   <HelpKINode Title="SqlServerProcessManagerFinder.SqlServerProcessManagerFinder constructor" Url="html/f82bb84e-feca-c504-9639-9f34fb75cc3a.htm" />
   <HelpKINode Title="SqlServerProcessManagerFinder.UpdateData(Of T) method" Url="html/98e36c22-ae06-d524-8ad2-ca7610ac5a34.htm" />
   <HelpKINode Title="SqlServerProcessManagerFinder.UpdateData&lt;T&gt; method" Url="html/98e36c22-ae06-d524-8ad2-ca7610ac5a34.htm" />
+  <HelpKINode Title="SslEnabled property">
+    <HelpKINode Title="ITransportSettings.SslEnabled Property " Url="html/edf929e5-9514-db2d-a280-f09071154bf4.htm" />
+    <HelpKINode Title="TransportSettings.SslEnabled Property " Url="html/d707456e-9f56-b43d-f735-b8e42af9409c.htm" />
+  </HelpKINode>
   <HelpKINode Title="StartConsuming method">
     <HelpKINode Title="Bus.StartConsuming Method " Url="html/8b04a53b-2af3-98f9-2881-1939b2912471.htm" />
+    <HelpKINode Title="Consumer.StartConsuming Method " Url="html/bbb84445-997e-5129-08c8-a6968cfed1cc.htm" />
     <HelpKINode Title="IBus.StartConsuming Method " Url="html/24722a5a-4545-a47e-ba1b-f32c7bc14756.htm" />
     <HelpKINode Title="IConsumer.StartConsuming Method " Url="html/92ba45d5-745e-23ea-f584-edf8fe1f4a88.htm" />
   </HelpKINode>
   <HelpKINode Title="StartTimer(Of T) method">
-    <HelpKINode Title="AggregatorTimer.StartTimer(T) Method " Url="html/e0e69e33-18ca-097b-f073-7f745b36f58c.htm" />
-    <HelpKINode Title="IAggregatorTimer.StartTimer(T) Method " Url="html/19862fed-6c8a-1857-cf30-b702f66d9abe.htm" />
+    <HelpKINode Title="AggregatorProcessor.StartTimer(T) Method " Url="html/02b9563f-af69-2a4b-317c-21212e106802.htm" />
+    <HelpKINode Title="IAggregatorProcessor.StartTimer(T) Method " Url="html/1dced534-390b-82fb-bb9d-36e7015843b3.htm" />
   </HelpKINode>
   <HelpKINode Title="StartTimer&lt;T&gt; method">
-    <HelpKINode Title="AggregatorTimer.StartTimer(T) Method " Url="html/e0e69e33-18ca-097b-f073-7f745b36f58c.htm" />
-    <HelpKINode Title="IAggregatorTimer.StartTimer(T) Method " Url="html/19862fed-6c8a-1857-cf30-b702f66d9abe.htm" />
+    <HelpKINode Title="AggregatorProcessor.StartTimer(T) Method " Url="html/02b9563f-af69-2a4b-317c-21212e106802.htm" />
+    <HelpKINode Title="IAggregatorProcessor.StartTimer(T) Method " Url="html/1dced534-390b-82fb-bb9d-36e7015843b3.htm" />
   </HelpKINode>
   <HelpKINode Title="StopConsuming method">
     <HelpKINode Title="Bus.StopConsuming Method " Url="html/74c61802-cc43-fb3a-9dc2-6210a69219e7.htm" />
+    <HelpKINode Title="Consumer.StopConsuming Method " Url="html/1613ecfc-5bd0-66af-f7e4-bcd9146571d3.htm" />
     <HelpKINode Title="IBus.StopConsuming Method " Url="html/676127c8-86d6-e6d4-9206-a9e442702eea.htm" />
     <HelpKINode Title="IConsumer.StopConsuming Method " Url="html/b5e7fdfd-0b76-fcf9-5bd0-5191d12f50f6.htm" />
   </HelpKINode>
@@ -1362,30 +1720,76 @@
     <HelpKINode Title="properties" Url="html/75214c4a-8d89-8e61-2993-ded06b0a44ed.htm" />
   </HelpKINode>
   <HelpKINode Title="StreamResponseMessage.StreamResponseMessage constructor" Url="html/bc027ad9-5e66-ae28-677e-3488c74f6ff3.htm" />
-  <HelpKINode Title="StructuremapContainer class">
-    <HelpKINode Title="StructuremapContainer Class" Url="html/5413e222-c77f-e750-abda-e8fc90d069af.htm" />
-    <HelpKINode Title="about StructuremapContainer class" Url="html/5413e222-c77f-e750-abda-e8fc90d069af.htm" />
-    <HelpKINode Title="constructor" Url="html/98d15e5a-ce4a-234a-de1f-295c09df2d38.htm" />
-    <HelpKINode Title="methods" Url="html/46594c79-a5a3-bbb8-f382-64e6b2e0fe1b.htm" />
+  <HelpKINode Title="StructureMapContainer class">
+    <HelpKINode Title="StructureMapContainer Class" Url="html/f669f9b7-92ee-70b7-4707-2953f137d464.htm" />
+    <HelpKINode Title="about StructureMapContainer class" Url="html/f669f9b7-92ee-70b7-4707-2953f137d464.htm" />
+    <HelpKINode Title="constructor" Url="html/a5dce9dd-8091-7235-ed53-91d778bd05b0.htm" />
+    <HelpKINode Title="methods" Url="html/05331ba8-8bd1-6b34-0db2-c05301504e2d.htm" />
   </HelpKINode>
-  <HelpKINode Title="StructuremapContainer.AddBus method" Url="html/8e67d99a-9f68-2a71-3dd8-97a35de1fd86.htm" />
-  <HelpKINode Title="StructuremapContainer.AddHandler(Of T) method" Url="html/7b81a1ca-7bf4-2094-11a3-6897f91cd02e.htm" />
-  <HelpKINode Title="StructuremapContainer.AddHandler&lt;T&gt; method" Url="html/7b81a1ca-7bf4-2094-11a3-6897f91cd02e.htm" />
-  <HelpKINode Title="StructuremapContainer.GetHandlerTypes method" Url="html/fc93e58f-235f-5f22-ebbc-ce9310777783.htm" />
-  <HelpKINode Title="StructuremapContainer.GetInstance method" Url="html/b0b6da96-6059-3ec2-4384-773bc85a03d8.htm" />
-  <HelpKINode Title="StructuremapContainer.Initialize method" Url="html/880ec821-6869-533e-6fa3-b38fb1d57763.htm" />
-  <HelpKINode Title="StructuremapContainer.ScanForHandlers method" Url="html/0ad0f6f8-74c9-9c79-3709-377ffbd05ac7.htm" />
-  <HelpKINode Title="StructuremapContainer.StructuremapContainer constructor" Url="html/98d15e5a-ce4a-234a-de1f-295c09df2d38.htm" />
+  <HelpKINode Title="StructureMapContainer.AddBus method" Url="html/f4504f00-4d4d-240a-2c97-c542850bdfc0.htm" />
+  <HelpKINode Title="StructureMapContainer.AddHandler(Of T) method" Url="html/d4d52e85-78cf-376b-c04c-a41fd1f4a319.htm" />
+  <HelpKINode Title="StructureMapContainer.AddHandler&lt;T&gt; method" Url="html/d4d52e85-78cf-376b-c04c-a41fd1f4a319.htm" />
+  <HelpKINode Title="StructureMapContainer.GetContainer method" Url="html/4c69f1c5-5676-6ea9-85b6-a73f813c9ff7.htm" />
+  <HelpKINode Title="StructureMapContainer.GetHandlerTypes method" Url="html/47ad9c94-86bd-8a33-b8ca-cf1ec39c6c2f.htm" />
+  <HelpKINode Title="StructureMapContainer.GetInstance method" Url="html/d148a492-67eb-5488-46d0-6dfa6aa517e5.htm" />
+  <HelpKINode Title="StructureMapContainer.Initialize method" Url="html/6334a388-e7b7-2e70-258e-aac5227ae793.htm" />
+  <HelpKINode Title="StructureMapContainer.ScanForHandlers method" Url="html/23b30129-b896-cefc-8e50-09fbc394feb9.htm" />
+  <HelpKINode Title="StructureMapContainer.StructureMapContainer constructor" Url="html/a5dce9dd-8091-7235-ed53-91d778bd05b0.htm" />
+  <HelpKINode Title="StructureMapExtensions class">
+    <HelpKINode Title="StructureMapExtensions Class" Url="html/d31603d3-6091-eb14-2bc8-49831412cc33.htm" />
+    <HelpKINode Title="about StructureMapExtensions class" Url="html/d31603d3-6091-eb14-2bc8-49831412cc33.htm" />
+    <HelpKINode Title="methods" Url="html/a5f5af2f-2368-849a-f224-d0a2754714f5.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StructureMapExtensions.ConfigureContainer method" Url="html/41b1f53b-2a5d-2bc7-dd70-e7063689793e.htm" />
+  <HelpKINode Title="StructureMapExtensions.InitializeContainer method" Url="html/454a9296-08e1-a8ca-c7f9-8e01785031b3.htm" />
   <HelpKINode Title="Success property" Url="html/d71dd919-92ae-450f-155e-a8326e731d6d.htm" />
-  <HelpKINode Title="Timeout method" Url="html/3cf2f2a1-0ebd-444f-7ae2-4bf2a8b7252c.htm" />
+  <HelpKINode Title="Threads property">
+    <HelpKINode Title="Configuration.Threads Property " Url="html/c4d60c02-1b29-4e5f-7d14-a10920e516eb.htm" />
+    <HelpKINode Title="IConfiguration.Threads Property " Url="html/bb6d6b0e-0042-b6a5-56af-ef6a86d19213.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Timeout method" Url="html/d5f6adb3-ac40-699a-ac60-16d65f2c1252.htm" />
   <HelpKINode Title="Timestamp property" Url="html/53a1d0bd-585f-5305-adbd-5c6316dba5d6.htm" />
+  <HelpKINode Title="TransportSettings class">
+    <HelpKINode Title="TransportSettings Class" Url="html/6267d003-e251-e3c9-47fb-25e216345d69.htm" />
+    <HelpKINode Title="about TransportSettings class" Url="html/6267d003-e251-e3c9-47fb-25e216345d69.htm" />
+    <HelpKINode Title="constructor" Url="html/fcd5dc6a-1581-5e9a-0940-5af98ff4f49f.htm" />
+    <HelpKINode Title="methods" Url="html/4b46a926-9b03-ce0a-a114-b3d2b1c06cfc.htm" />
+    <HelpKINode Title="properties" Url="html/de7f4d40-3216-efb1-8d04-0d4767602502.htm" />
+  </HelpKINode>
   <HelpKINode Title="TransportSettings property">
     <HelpKINode Title="Configuration.TransportSettings Property " Url="html/f35e2b8e-20bb-ecea-5f18-afb97153ec92.htm" />
     <HelpKINode Title="IConfiguration.TransportSettings Property " Url="html/b794860b-2d21-c1ee-e75e-03d450f154ba.htm" />
   </HelpKINode>
+  <HelpKINode Title="TransportSettings.AcceptablePolicyErrors property" Url="html/2f58d0e2-41e8-1962-17c9-ce61c6c0722b.htm" />
+  <HelpKINode Title="TransportSettings.AuditingEnabled property" Url="html/5c8be956-db58-efc6-ee2f-a34942c8119d.htm" />
+  <HelpKINode Title="TransportSettings.AuditQueueName property" Url="html/3f42e7df-d4de-e024-2b23-b8c7380049d9.htm" />
+  <HelpKINode Title="TransportSettings.CertificateSelectionCallback property" Url="html/c31d755d-294f-dff4-63e8-1c367597b3e8.htm" />
+  <HelpKINode Title="TransportSettings.CertificateValidationCallback property" Url="html/2b88266e-42ef-d0d9-ee77-cf0297313b98.htm" />
+  <HelpKINode Title="TransportSettings.CertPassphrase property" Url="html/e37ae370-0d30-fea3-0ac7-3ed1ca69e281.htm" />
+  <HelpKINode Title="TransportSettings.CertPath property" Url="html/a8210af5-8db1-00e9-dbbc-d8db4bb226a7.htm" />
+  <HelpKINode Title="TransportSettings.Certs property" Url="html/ee8f797b-2803-c85c-249f-cd06f8ff8543.htm" />
+  <HelpKINode Title="TransportSettings.ClientSettings property" Url="html/baee54f8-8283-85b9-38d3-953a8a73272d.htm" />
+  <HelpKINode Title="TransportSettings.DisableErrors property" Url="html/62df18e7-b5b2-5bd2-02fb-a51aa6b67233.htm" />
+  <HelpKINode Title="TransportSettings.ErrorQueueName property" Url="html/c34abc6c-fb1f-f202-7e11-ac5c4853e839.htm" />
+  <HelpKINode Title="TransportSettings.HeartbeatQueueName property" Url="html/9e5e8ccc-b01f-ee84-2797-4692300454ab.htm" />
+  <HelpKINode Title="TransportSettings.Host property" Url="html/01c7ebe0-b42f-d415-4ed7-b75335935e32.htm" />
+  <HelpKINode Title="TransportSettings.MachineName property" Url="html/c58e302f-2023-e18d-8f92-30916666bae1.htm" />
+  <HelpKINode Title="TransportSettings.MaxRetries property" Url="html/cc19d93f-286b-9e8e-1ede-c2455ea1d43a.htm" />
+  <HelpKINode Title="TransportSettings.Password property" Url="html/6d126fdd-6e96-9e2b-81f4-41125c0f50f0.htm" />
+  <HelpKINode Title="TransportSettings.PurgeQueueOnStartup property" Url="html/86139f97-da31-b93c-d1ff-b3e2c7d5d3b0.htm" />
+  <HelpKINode Title="TransportSettings.QueueName property" Url="html/ba96c708-caf4-dc13-6e9c-01cf68e57d63.htm" />
+  <HelpKINode Title="TransportSettings.RetryDelay property" Url="html/32603e88-34ef-e313-cbd0-a9c7b855feda.htm" />
+  <HelpKINode Title="TransportSettings.ServerName property" Url="html/93ef874b-5ab3-b6ca-3989-1139ec14705e.htm" />
+  <HelpKINode Title="TransportSettings.SslEnabled property" Url="html/d707456e-9f56-b43d-f735-b8e42af9409c.htm" />
+  <HelpKINode Title="TransportSettings.TransportSettings constructor" Url="html/fcd5dc6a-1581-5e9a-0940-5af98ff4f49f.htm" />
+  <HelpKINode Title="TransportSettings.Username property" Url="html/5bd29b48-03ee-d3af-854a-8eb9e9368d67.htm" />
+  <HelpKINode Title="TransportSettings.Version property" Url="html/71d34a5f-c3c9-c100-df5f-4e201041758a.htm" />
+  <HelpKINode Title="TransportSettings.VirtualHost property" Url="html/253344a6-8c56-04a0-395b-a9845ae64c32.htm" />
   <HelpKINode Title="Type property">
+    <HelpKINode Title="Consumer.Type Property " Url="html/018e9e26-6463-1411-c426-fbdd360b5d91.htm" />
     <HelpKINode Title="IConsumer.Type Property " Url="html/86c6b8cf-f14a-14fe-09c6-39189dc0e568.htm" />
     <HelpKINode Title="IProducer.Type Property " Url="html/5e988e2e-ff0a-e2e1-6212-6fc475d5a722.htm" />
+    <HelpKINode Title="Producer.Type Property " Url="html/13354424-459e-c82f-91bd-04d5c541826c.htm" />
   </HelpKINode>
   <HelpKINode Title="UpdateData(Of T) method">
     <HelpKINode Title="InMemoryProcessManagerFinder.UpdateData(T) Method " Url="html/82e7ffcc-dec0-3820-79da-8a97e29ccb8c.htm" />
@@ -1399,16 +1803,25 @@
     <HelpKINode Title="MongoDbProcessManagerFinder.UpdateData(T) Method " Url="html/d90f6bba-f12d-2ee9-57d2-54ccafebe088.htm" />
     <HelpKINode Title="SqlServerProcessManagerFinder.UpdateData(T) Method " Url="html/98e36c22-ae06-d524-8ad2-ca7610ac5a34.htm" />
   </HelpKINode>
-  <HelpKINode Title="Username property" Url="html/4a5c4195-f8f6-99ad-0f24-247d5ac9e6cb.htm" />
+  <HelpKINode Title="Username property">
+    <HelpKINode Title="ITransportSettings.Username Property " Url="html/4a5c4195-f8f6-99ad-0f24-247d5ac9e6cb.htm" />
+    <HelpKINode Title="TransportSettings.Username Property " Url="html/5bd29b48-03ee-d3af-854a-8eb9e9368d67.htm" />
+  </HelpKINode>
   <HelpKINode Title="Version property">
+    <HelpKINode Title="ITransportSettings.Version Property " Url="html/77e442ef-724a-3259-fa5f-4275e862569c.htm" />
     <HelpKINode Title="MemoryData(T).Version Property " Url="html/e49ac752-af2c-3eea-fd27-f1b397ec6002.htm" />
     <HelpKINode Title="MongoDbData(T).Version Property " Url="html/072f4820-52a9-1d35-2a5c-506570dfb928.htm" />
     <HelpKINode Title="SqlServerData(T).Version Property " Url="html/992ae26b-6016-68ad-0509-ec7d9dcf3ea7.htm" />
+    <HelpKINode Title="TransportSettings.Version Property " Url="html/71d34a5f-c3c9-c100-df5f-4e201041758a.htm" />
+  </HelpKINode>
+  <HelpKINode Title="VirtualHost property">
+    <HelpKINode Title="ITransportSettings.VirtualHost Property " Url="html/4a29629a-2a98-86ad-09f0-7de9d3d6eb9d.htm" />
+    <HelpKINode Title="TransportSettings.VirtualHost Property " Url="html/253344a6-8c56-04a0-395b-a9845ae64c32.htm" />
   </HelpKINode>
   <HelpKINode Title="Write method">
     <HelpKINode Title="IMessageBusReadStream.Write Method " Url="html/9b30a9c1-83ac-cada-be94-14c42db42dac.htm" />
-    <HelpKINode Title="IMessageBusWriteStream.Write Method " Url="html/dd0c5c9f-d773-5f6d-1620-0b8d916360a9.htm" />
+    <HelpKINode Title="IMessageBusWriteStream.Write Method " Url="html/619be1ae-717f-2a7d-a231-2851c3e9e136.htm" />
     <HelpKINode Title="MessageBusReadStream.Write Method " Url="html/73cb6ddc-6ee9-42ac-3e7c-f297301d4a53.htm" />
-    <HelpKINode Title="MessageBusWriteStream.Write Method " Url="html/d9e6ca52-111b-209c-753e-dbc9d5a9753d.htm" />
+    <HelpKINode Title="MessageBusWriteStream.Write Method " Url="html/f90902e1-2dd1-e151-9a78-f8e488c5445a.htm" />
   </HelpKINode>
 </HelpKI>

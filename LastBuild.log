@@ -1,753 +1,302 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder" version="2014.4.22.0" projectFile="C:\GitHub\R.MessageBus.ApiDoc.shfbproj" started="25/02/2015 10:07:45">
+<shfbBuild product="Sandcastle Help File Builder" version="2015.1.12.0" projectFile="C:\GIT\R.MessageBus.ApiDoc.shfbproj" started="24/06/2015 11:21:24">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
-Searching for HTML Help 1 compiler...
-Found HTML Help 1 compiler in &#39;C:\Program Files (x86)\HTML Help Workshop\&#39;
 Locating components in the following folder(s):
-   C:\GitHub
+   C:\GIT
 Using presentation style &#39;VS2013&#39; located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013&#39;
+Loading and initializing plug-ins...
+Lightweight Website Style Version 2015.1.12.0
+Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
+Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
+</buildStep>
+<buildStep step="ClearWorkFolder">
+Clearing working folder...
 </buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
-Source: C:\GitHub\R.MessageBus\src\R.MessageBus.sln
-    Found project &#39;C:\GitHub\R.MessageBus\src\R.MessageBus\R.MessageBus.csproj&#39;
-    Found project &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Interfaces\R.MessageBus.Interfaces.csproj&#39;
-    Found project &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Settings\R.MessageBus.Settings.csproj&#39;
-    Found project &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Container\R.MessageBus.Container.csproj&#39;
-    Found project &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.IntegrationTests\R.MessageBus.IntegrationTests.csproj&#39;
-    Found project &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.UnitTests\R.MessageBus.UnitTests.csproj&#39;
-    Found project &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Core\R.MessageBus.Core.csproj&#39;
-    Found project &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Persistance.MongoDb\R.MessageBus.Persistance.MongoDb.csproj&#39;
-    Found project &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Persistance.SqlServer\R.MessageBus.Persistance.SqlServer.csproj&#39;
-    Found project &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Persistance.InMemory\R.MessageBus.Persistance.InMemory.csproj&#39;
+Source: C:\GIT\R.MessageBus\src\R.MessageBus.Client.RabbitMQ\R.MessageBus.Client.RabbitMQ.csproj
+    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Client.RabbitMQ\R.MessageBus.Client.RabbitMQ.csproj&#39;
+Source: C:\GIT\R.MessageBus\src\R.MessageBus.Container.Default\R.MessageBus.Container.Default.csproj
+    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.Default\R.MessageBus.Container.Default.csproj&#39;
+Source: C:\GIT\R.MessageBus\src\R.MessageBus.Container.Ninject\R.MessageBus.Container.Ninject.csproj
+    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.Ninject\R.MessageBus.Container.Ninject.csproj&#39;
+Source: C:\GIT\R.MessageBus\src\R.MessageBus.Container.StructureMap\R.MessageBus.Container.StructureMap.csproj
+    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.StructureMap\R.MessageBus.Container.StructureMap.csproj&#39;
+Source: C:\GIT\R.MessageBus\src\R.MessageBus.Core\R.MessageBus.Core.csproj
+    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Core\R.MessageBus.Core.csproj&#39;
+Source: C:\GIT\R.MessageBus\src\R.MessageBus\R.MessageBus.csproj
+    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus\R.MessageBus.csproj&#39;
+Source: C:\GIT\R.MessageBus\src\R.MessageBus.Interfaces\R.MessageBus.Interfaces.csproj
+    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Interfaces\R.MessageBus.Interfaces.csproj&#39;
+Source: C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.InMemory\R.MessageBus.Persistance.InMemory.csproj
+    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.InMemory\R.MessageBus.Persistance.InMemory.csproj&#39;
+Source: C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.MongoDb\R.MessageBus.Persistance.MongoDb.csproj
+    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.MongoDb\R.MessageBus.Persistance.MongoDb.csproj&#39;
+Source: C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.SqlServer\R.MessageBus.Persistance.SqlServer.csproj
+    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.SqlServer\R.MessageBus.Persistance.SqlServer.csproj&#39;
 
 Parsing project files
-    Found assembly &#39;C:\GitHub\R.MessageBus\src\R.MessageBus\bin\Debug\R.MessageBus.dll&#39;
-    Found assembly &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Interfaces\bin\Debug\R.MessageBus.Interfaces.dll&#39;
-    Found assembly &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Settings\bin\Debug\R.MessageBus.Settings.dll&#39;
-    Found assembly &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Container\bin\Debug\R.MessageBus.Container.dll&#39;
-    Found assembly &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.IntegrationTests\bin\Debug\R.MessageBus.IntegrationTests.dll&#39;
-    Found assembly &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.UnitTests\bin\Debug\R.MessageBus.UnitTests.dll&#39;
-    Found assembly &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Core\bin\Debug\R.MessageBus.Core.dll&#39;
-    Found assembly &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Persistance.MongoDb\bin\Debug\R.MessageBus.Persistance.MongoDb.dll&#39;
-    Found assembly &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Persistance.SqlServer\bin\Debug\R.MessageBus.Persistance.SqlServer.dll&#39;
-    Found assembly &#39;C:\GitHub\R.MessageBus\src\R.MessageBus.Persistance.InMemory\bin\Debug\R.MessageBus.Persistance.InMemory.dll&#39;
-SHFB: Warning BE0007: A project with a different or higher framework version was found.  Changing project FrameworkVersion property from &#39;.NET Framework 4.0&#39; to &#39;.NET Framework 4.5&#39; for the build.
+    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Client.RabbitMQ\bin\Release\R.MessageBus.Client.RabbitMQ.dll&#39;
+    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.Default\bin\Release\R.MessageBus.Container.Default.dll&#39;
+    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.Ninject\bin\Release\R.MessageBus.Container.Ninject.dll&#39;
+    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.StructureMap\bin\Release\R.MessageBus.Container.StructureMap.dll&#39;
+    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Core\bin\Release\R.MessageBus.Core.dll&#39;
+    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus\bin\Release\R.MessageBus.dll&#39;
+    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Interfaces\bin\Release\R.MessageBus.Interfaces.dll&#39;
+    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.InMemory\bin\Release\R.MessageBus.Persistance.InMemory.dll&#39;
+    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.MongoDb\bin\Release\R.MessageBus.Persistance.MongoDb.dll&#39;
+    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.SqlServer\bin\Release\R.MessageBus.Persistance.SqlServer.dll&#39;
 
 References to include (excluding framework assemblies):
     Common.Logging
     Common.Logging.Core
     MongoDB.Bson
-    MongoDB.Driver
     MongoDB.Driver, Version=1.8.3.9, Culture=neutral, PublicKeyToken=f686731cfb9cc103, processorArchitecture=MSIL
-    Moq
     Newtonsoft.Json
     Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL
-    StructureMap
-    xunit
+    Ninject
+    Ninject.Extensions.Conventions
+    RabbitMQ.Client, Version=3.5.3.0, Culture=neutral, PublicKeyToken=89e7d7c5feba84ce, processorArchitecture=MSIL
+    StructureMap, Version=3.1.5.0, Culture=neutral, processorArchitecture=MSIL
+    StructureMap.Net4
 SHFB: Warning BE0062: No XML comments files found.  The help file will not contain any member comments.
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
-    Last step completed in 00:00:00.0050
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+</plugIn>    Last step completed in 00:00:00.0060
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0010
+    Last step completed in 00:00:00.0025
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
-[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
-Build started 25/02/2015 10:08:03.
-Project &quot;C:\GitHub\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
+[C:\windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe]
+Build started 24/06/2015 11:21:32.
+Project &quot;C:\GIT\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
 GenerateRefInfo:
-  MRefBuilder (v2014.1.26.0)
-  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
-  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
-  Loaded 10 assemblies for reflection and 9 dependency assemblies.
-  Wrote information on 7 namespaces, 57 types, and 331 members
+  MRefBuilder (v2015.1.12.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
+  Loaded 10 assemblies for reflection and 11 dependency assemblies.
+  Wrote information on 11 namespaces, 74 types, and 462 members
   Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
-  XslTransform (v2014.1.26.0)
-  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
-  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  XslTransform (v2015.1.12.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\MergeDuplicates.xsl&#39;.
-Done Building Project &quot;C:\GitHub\Help\Working\GenerateRefInfo.proj&quot; (default targets).
+Done Building Project &quot;C:\GIT\Help\Working\GenerateRefInfo.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:01.07
-    Last step completed in 00:00:01.2280
+Time Elapsed 00:00:00.52
+    Last step completed in 00:00:00.6871
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
-[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
-Build started 25/02/2015 10:08:04.
-Project &quot;C:\GitHub\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
+[C:\windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe]
+Build started 24/06/2015 11:21:33.
+Project &quot;C:\GIT\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
-  XslTransform (v2014.1.26.0)
-  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
-  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  XslTransform (v2015.1.12.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\ApplyVSDocModel.xsl&#39;.
   Copying file from &quot;reflection.xml&quot; to &quot;reflection.nofilenames&quot;.
-  XslTransform (v2014.1.26.0)
-  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
-  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  XslTransform (v2015.1.12.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\AddFilenames.xsl&#39;.
-  XslTransform (v2014.1.26.0)
-  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
-  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  XslTransform (v2015.1.12.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\ProductionTransforms\ReflectionToManifest.xsl&#39;.
-Done Building Project &quot;C:\GitHub\Help\Working\TransformManifest.proj&quot; (default targets).
+Done Building Project &quot;C:\GIT\Help\Working\TransformManifest.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.77
-    Last step completed in 00:00:00.9200
+Time Elapsed 00:00:00.47
+    Last step completed in 00:00:00.6001
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0270
+    Last step completed in 00:00:00.0405
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00.0030
+    Last step completed in 00:00:00.0055
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00.0020
+    Last step completed in 00:00:00.0025
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
-[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
-Build started 25/02/2015 10:08:05.
-Project &quot;C:\GitHub\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
+[C:\windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe]
+Build started 24/06/2015 11:21:33.
+Project &quot;C:\GIT\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
-  XslTransform (v2014.1.26.0)
-  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
-  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  XslTransform (v2015.1.12.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
   Applying XSL transformation &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\ProductionTransforms\CreateVSToc.xsl&#39;.
-Done Building Project &quot;C:\GitHub\Help\Working\GenerateIntermediateTOC.proj&quot; (default targets).
+Done Building Project &quot;C:\GIT\Help\Working\GenerateIntermediateTOC.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.19
+Time Elapsed 00:00:00.12
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.3310
+    Last step completed in 00:00:00.2646
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.1030
+    Last step completed in 00:00:00.1305
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
-C:\GitHub\Help\Working\sandcastle.config
-    Last step completed in 00:00:00.0330
+C:\GIT\Help\Working\sandcastle.config
+    Last step completed in 00:00:00.0390
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
-[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
-Build started 25/02/2015 10:08:05.
-Project &quot;C:\GitHub\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
+[C:\windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe]
+Build started 24/06/2015 11:21:34.
+Project &quot;C:\GIT\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
-  BuildAssembler (v2014.1.26.0)
-  Copyright c 2006-2014, Microsoft Corporation, All Rights Reserved.
-  Portions Copyright c 2006-2014, Eric Woodruff, All Rights Reserved.
+  BuildAssembler (v2015.1.12.0)
+  Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
+  Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Bus] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Bus.Configuration] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.CreateStream``1(System.String,``0)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.Initialize] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.Initialize(System.Action{R.MessageBus.Interfaces.IConfiguration})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.Publish``1(``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.PublishRequest``2(``0,System.Nullable{System.Int32},System.Collections.Generic.Dictionary{System.String,System.String},System.Int32)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.Route``1(``0,System.Collections.Generic.IList{System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.Send``1(System.Collections.Generic.IList{System.String},``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.Send``1(System.String,``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.Send``1(``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.SendRequest``2(System.Collections.Generic.IList{System.String},``0,System.Action{System.Collections.Generic.IList{``1}},System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.SendRequest``2(System.Collections.Generic.IList{System.String},``0,System.Collections.Generic.Dictionary{System.String,System.String},System.Int32)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.SendRequest``2(System.String,``0,System.Action{``1},System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.SendRequest``2(System.String,``0,System.Collections.Generic.Dictionary{System.String,System.String},System.Int32)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.SendRequest``2(``0,System.Action{``1},System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.SendRequest``2(``0,System.Collections.Generic.Dictionary{System.String,System.String},System.Int32)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.StartConsuming] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Bus.StopConsuming] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Configuration] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.AddBusToContainer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.AddQueueMapping(System.Type,System.Collections.Generic.IList{System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.AddQueueMapping(System.Type,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.AggregatorPersistor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.AggregatorTimer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.AutoStartConsuming] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.ConsumerType] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.Container] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.ExceptionHandler] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetAggregatorPersistor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetAggregatorTimer(R.MessageBus.Interfaces.IAggregatorPersistor,R.MessageBus.Interfaces.IBusContainer,System.Type)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetAuditQueueName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetConsumer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetContainer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetErrorQueueName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetMessageBusReadStream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetMessageBusWriteStream(R.MessageBus.Interfaces.IProducer,System.String,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetProcessManagerFinder] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetProducer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetQueueName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.GetRequestConfiguration(R.MessageBus.Interfaces.ConsumerEventHandler,System.Guid,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.LoadSettings(System.String,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.MessageBusReadStream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.MessageBusWriteStream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.PersistenceStoreConnectionString] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.PersistenceStoreDatabaseName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.ProcessManagerFinder] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.ProducerType] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.PurgeQueuesOnStart] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.QueueMappings] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.ScanForMesssageHandlers] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetAggregatorPersistor``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetAuditingEnabled(System.Boolean)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetAuditQueueName(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetConsumer``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetContainer``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetDisableErrors(System.Boolean)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetErrorQueueName(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetExceptionHandler(System.Action{System.Exception})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetHeartbeatQueueName(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetHost(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetProcessManagerFinder``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetProducer``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Configuration.SetQueueName(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Configuration.TransportSettings] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Container.StructuremapContainer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Container.StructuremapContainer.AddBus(R.MessageBus.Interfaces.IBus)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Container.StructuremapContainer.AddHandler``1(System.Type,``0)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Container.StructuremapContainer.GetHandlerTypes] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Container.StructuremapContainer.GetHandlerTypes(System.Type)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Container.StructuremapContainer.GetInstance``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Container.StructuremapContainer.GetInstance``1(System.Collections.Generic.IDictionary{System.String,System.Object})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Container.StructuremapContainer.GetInstance(System.Type)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Container.StructuremapContainer.Initialize] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Container.StructuremapContainer.ScanForHandlers] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.Aggregator`1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.Aggregator`1.BatchSize] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.Aggregator`1.Execute(System.Collections.Generic.IList{`0})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.Aggregator`1.Timeout] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.AggregatorProcessor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.AggregatorProcessor.ProcessMessage``1(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.AggregatorTimer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.AggregatorTimer.StartTimer``1(System.TimeSpan)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.ConfigurationManagerWrapper] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.ConfigurationManagerWrapper.AppSettings] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.ConfigurationManagerWrapper.ConnectionStrings(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.ConfigurationManagerWrapper.GetSection``1(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.ConsumeContext] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.ConsumeContext.Bus] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.ConsumeContext.Headers] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.ConsumeContext.Reply``1(``0)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.HeartbeatMessage] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.HeartbeatMessage.ConsumerType] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.HeartbeatMessage.Language] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.HeartbeatMessage.LatestCpu] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.HeartbeatMessage.LatestMemory] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.HeartbeatMessage.Location] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.HeartbeatMessage.Name] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.HeartbeatMessage.Timestamp] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.HeartbeatTimerState] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.HeartbeatTimerState.CpuCounter] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.HeartbeatTimerState.RamCounter] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.MessageBusReadStream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.MessageBusReadStream.CompleteEventHandler] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.MessageBusReadStream.HandlerCount] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.MessageBusReadStream.IsComplete] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.MessageBusReadStream.LastPacketNumber] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.MessageBusReadStream.Read] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.MessageBusReadStream.SequenceId] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.MessageBusReadStream.Write(System.Byte[],System.Int64)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.MessageBusWriteStream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.MessageBusWriteStream.Close] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.MessageBusWriteStream.Write(System.Byte[])] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.MessageHandlerProcessor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.MessageHandlerProcessor.ProcessMessage``1(System.String,R.MessageBus.Interfaces.IConsumeContext)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.ProcessManager`1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.ProcessManager`1.Complete] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.ProcessManager`1.ConfigureHowToFindProcessManager(R.MessageBus.Interfaces.IProcessManagerPropertyMapper)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.ProcessManager`1.Context] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.ProcessManager`1.Data] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.ProcessManager`1.FindProcessManagerData(R.MessageBus.Interfaces.Message)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.ProcessManager`1.MarkAsComplete] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.ProcessManager`1.ProcessManagerFinder] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.ProcessManagerProcessor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.ProcessManagerProcessor.ProcessMessage``1(System.String,R.MessageBus.Interfaces.IConsumeContext)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.ProcessManagerPropertyMapper] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.ProcessManagerPropertyMapper.ConfigureMapping``2(System.Linq.Expressions.Expression{System.Func{``0,System.Object}},System.Linq.Expressions.Expression{System.Func{``1,System.Object}})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.ProcessManagerPropertyMapper.Mappings] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.RequestConfiguration] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.RequestConfiguration.EndpointsCount] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.RequestConfiguration.ProcessedCount] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.RequestConfiguration.ProcessMessage(System.String,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Core.RequestConfiguration.RequestMessageId] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.RequestConfiguration.SetHandler(System.Action{System.Object})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.StreamProcessor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Core.StreamProcessor.ProcessMessage``1(``0,R.MessageBus.Interfaces.IMessageBusReadStream)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Core.StreamResponseMessage] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.ConsumeEventResult] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ConsumeEventResult.Exception] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ConsumeEventResult.Success] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.ConsumerEventHandler] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.HandlerReference] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.HandlerReference.HandlerType] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.HandlerReference.MessageType] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IAggregatorPersistor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IAggregatorPersistor.Count(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IAggregatorPersistor.GetData(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IAggregatorPersistor.InsertData(System.Object,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IAggregatorPersistor.RemoveAll(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IAggregatorProcessor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IAggregatorProcessor.ProcessMessage``1(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IAggregatorTimer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IAggregatorTimer.StartTimer``1(System.TimeSpan)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IBus] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IBus.Configuration] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.CreateStream``1(System.String,``0)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.Publish``1(``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.PublishRequest``2(``0,System.Nullable{System.Int32},System.Collections.Generic.Dictionary{System.String,System.String},System.Int32)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.Route``1(``0,System.Collections.Generic.IList{System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.Send``1(System.Collections.Generic.IList{System.String},``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.Send``1(System.String,``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.Send``1(``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.SendRequest``2(System.Collections.Generic.IList{System.String},``0,System.Action{System.Collections.Generic.IList{``1}},System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.SendRequest``2(System.Collections.Generic.IList{System.String},``0,System.Collections.Generic.Dictionary{System.String,System.String},System.Int32)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.SendRequest``2(System.String,``0,System.Action{``1},System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.SendRequest``2(System.String,``0,System.Collections.Generic.Dictionary{System.String,System.String},System.Int32)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.SendRequest``2(``0,System.Action{``1},System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.SendRequest``2(``0,System.Collections.Generic.Dictionary{System.String,System.String},System.Int32)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.StartConsuming] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBus.StopConsuming] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IBusContainer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBusContainer.AddBus(R.MessageBus.Interfaces.IBus)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBusContainer.AddHandler``1(System.Type,``0)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBusContainer.GetHandlerTypes] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBusContainer.GetHandlerTypes(System.Type)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBusContainer.GetInstance``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBusContainer.GetInstance``1(System.Collections.Generic.IDictionary{System.String,System.Object})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBusContainer.GetInstance(System.Type)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBusContainer.Initialize] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IBusContainer.ScanForHandlers] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IConfiguration] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.AddBusToContainer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.AddQueueMapping(System.Type,System.Collections.Generic.IList{System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.AddQueueMapping(System.Type,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.AggregatorPersistor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.AggregatorTimer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.AutoStartConsuming] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.ConsumerType] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.Container] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.ExceptionHandler] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetAggregatorPersistor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetAggregatorTimer(R.MessageBus.Interfaces.IAggregatorPersistor,R.MessageBus.Interfaces.IBusContainer,System.Type)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetAuditQueueName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetConsumer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetContainer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetErrorQueueName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetMessageBusReadStream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetMessageBusWriteStream(R.MessageBus.Interfaces.IProducer,System.String,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetProcessManagerFinder] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetProducer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetQueueName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.GetRequestConfiguration(R.MessageBus.Interfaces.ConsumerEventHandler,System.Guid,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.LoadSettings(System.String,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.MessageBusReadStream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.MessageBusWriteStream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.PersistenceStoreConnectionString] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.PersistenceStoreDatabaseName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.ProcessManagerFinder] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.ProducerType] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.PurgeQueuesOnStart] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.QueueMappings] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.ScanForMesssageHandlers] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetAggregatorPersistor``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetAuditingEnabled(System.Boolean)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetAuditQueueName(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetConsumer``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetContainer``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetDisableErrors(System.Boolean)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetErrorQueueName(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetExceptionHandler(System.Action{System.Exception})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetHeartbeatQueueName(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetHost(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetProcessManagerFinder``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetProducer``1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfiguration.SetQueueName(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfiguration.TransportSettings] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IConfigurationManager] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConfigurationManager.AppSettings] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfigurationManager.ConnectionStrings(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConfigurationManager.GetSection``1(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IConsumeContext] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConsumeContext.Bus] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConsumeContext.Headers] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConsumeContext.Reply``1(``0)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IConsumer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConsumer.ConsumeMessageType(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConsumer.StartConsuming(R.MessageBus.Interfaces.ConsumerEventHandler,System.String,System.Nullable{System.Boolean},System.Nullable{System.Boolean})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IConsumer.StopConsuming] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IConsumer.Type] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IMessageBusReadStream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IMessageBusReadStream.CompleteEventHandler] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IMessageBusReadStream.HandlerCount] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IMessageBusReadStream.IsComplete] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IMessageBusReadStream.LastPacketNumber] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IMessageBusReadStream.Read] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IMessageBusReadStream.SequenceId] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IMessageBusReadStream.Write(System.Byte[],System.Int64)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IMessageBusWriteStream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IMessageBusWriteStream.Close] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IMessageBusWriteStream.Write(System.Byte[])] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IMessageHandler`1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IMessageHandler`1.Context] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IMessageHandler`1.Execute(`0)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IMessageHandlerProcessor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IMessageHandlerProcessor.ProcessMessage``1(System.String,R.MessageBus.Interfaces.IConsumeContext)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IPersistanceData`1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IPersistanceData`1.Data] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IProcessManagerData] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IProcessManagerData.CorrelationId] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IProcessManagerFinder] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProcessManagerFinder.DeleteData``1(R.MessageBus.Interfaces.IPersistanceData{``0})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProcessManagerFinder.FindData``1(R.MessageBus.Interfaces.IProcessManagerPropertyMapper,R.MessageBus.Interfaces.Message)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProcessManagerFinder.InsertData(R.MessageBus.Interfaces.IProcessManagerData)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProcessManagerFinder.UpdateData``1(R.MessageBus.Interfaces.IPersistanceData{``0})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IProcessManagerProcessor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProcessManagerProcessor.ProcessMessage``1(System.String,R.MessageBus.Interfaces.IConsumeContext)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IProcessManagerPropertyMapper] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProcessManagerPropertyMapper.ConfigureMapping``2(System.Linq.Expressions.Expression{System.Func{``0,System.Object}},System.Linq.Expressions.Expression{System.Func{``1,System.Object}})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IProcessManagerPropertyMapper.Mappings] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IProducer] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProducer.Disconnect] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IProducer.MaximumMessageSize] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProducer.Publish``1(``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProducer.Send``1(System.String,``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProducer.Send``1(``0,System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IProducer.SendBytes(System.String,System.Byte[],System.Collections.Generic.Dictionary{System.String,System.String})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IProducer.Type] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IRequestConfiguration] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IRequestConfiguration.EndpointsCount] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IRequestConfiguration.ProcessedCount] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IRequestConfiguration.ProcessMessage(System.String,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IRequestConfiguration.RequestMessageId] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IRequestConfiguration.SetHandler(System.Action{System.Object})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IStartProcessManager`1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IStartProcessManager`1.Context] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IStartProcessManager`1.Execute(`0)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IStreamHandler`1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IStreamHandler`1.Execute(`0)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.IStreamHandler`1.Stream] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.IStreamProcessor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Interfaces.IStreamProcessor.ProcessMessage``1(``0,R.MessageBus.Interfaces.IMessageBusReadStream)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.ITransportSettings] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.AuditingEnabled] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.AuditQueueName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.ClientSettings] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.DisableErrors] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.ErrorQueueName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.HeartbeatQueueName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.Host] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.MachineName] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.MaxRetries] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.Password] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.Queue] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.RetryDelay] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.ITransportSettings.Username] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.Message] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.Message.CorrelationId] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.MessageBusStreamComplete] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.ProcessManagerToMessageMap] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [F:R.MessageBus.Interfaces.ProcessManagerToMessageMap.MessageProp] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [F:R.MessageBus.Interfaces.ProcessManagerToMessageMap.MessageType] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [F:R.MessageBus.Interfaces.ProcessManagerToMessageMap.PropertiesHierarchy] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Interfaces.Queue] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.Queue.Arguments] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.Queue.AutoDelete] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.Queue.Durable] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.Queue.Exclusive] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.Queue.IsReadOnly] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.Queue.Name] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.Queue.PurgeOnStartup] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Interfaces.Queue.RoutingKey] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Persistance.InMemory.InMemoryAggregatorPersistor] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.InMemory.InMemoryAggregatorPersistor.Count(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.InMemory.InMemoryAggregatorPersistor.GetData(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.InMemory.InMemoryAggregatorPersistor.InsertData(System.Object,System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.InMemory.InMemoryAggregatorPersistor.RemoveAll(System.String)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Persistance.InMemory.InMemoryProcessManagerFinder] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.InMemory.InMemoryProcessManagerFinder.DeleteData``1(R.MessageBus.Interfaces.IPersistanceData{``0})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.InMemory.InMemoryProcessManagerFinder.FindData``1(R.MessageBus.Interfaces.IProcessManagerPropertyMapper,R.MessageBus.Interfaces.Message)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.InMemory.InMemoryProcessManagerFinder.InsertData(R.MessageBus.Interfaces.IProcessManagerData)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.InMemory.InMemoryProcessManagerFinder.UpdateData``1(R.MessageBus.Interfaces.IPersistanceData{``0})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Persistance.InMemory.MemoryData`1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Persistance.InMemory.MemoryData`1.Data] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Persistance.InMemory.MemoryData`1.Id] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Persistance.InMemory.MemoryData`1.Version] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Persistance.MongoDb.MongoDbData`1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Persistance.MongoDb.MongoDbData`1.Data] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Persistance.MongoDb.MongoDbData`1.Id] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Persistance.MongoDb.MongoDbData`1.Version] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Persistance.MongoDb.MongoDbProcessManagerFinder] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.MongoDb.MongoDbProcessManagerFinder.DeleteData``1(R.MessageBus.Interfaces.IPersistanceData{``0})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.MongoDb.MongoDbProcessManagerFinder.FindData``1(R.MessageBus.Interfaces.IProcessManagerPropertyMapper,R.MessageBus.Interfaces.Message)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.MongoDb.MongoDbProcessManagerFinder.InsertData(R.MessageBus.Interfaces.IProcessManagerData)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.MongoDb.MongoDbProcessManagerFinder.UpdateData``1(R.MessageBus.Interfaces.IPersistanceData{``0})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Persistance.SqlServer.SqlServerData`1] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Persistance.SqlServer.SqlServerData`1.Data] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Persistance.SqlServer.SqlServerData`1.Id] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [P:R.MessageBus.Persistance.SqlServer.SqlServerData`1.Version] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [T:R.MessageBus.Persistance.SqlServer.SqlServerProcessManagerFinder] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.SqlServer.SqlServerProcessManagerFinder.DeleteData``1(R.MessageBus.Interfaces.IPersistanceData{``0})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.SqlServer.SqlServerProcessManagerFinder.FindData``1(R.MessageBus.Interfaces.IProcessManagerPropertyMapper,R.MessageBus.Interfaces.Message)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.SqlServer.SqlServerProcessManagerFinder.InsertData(R.MessageBus.Interfaces.IProcessManagerData)] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-BuildAssembler : warning : ShowMissingComponent: [M:R.MessageBus.Persistance.SqlServer.SqlServerProcessManagerFinder.UpdateData``1(R.MessageBus.Interfaces.IPersistanceData{``0})] Missing &lt;summary&gt; documentation [C:\GitHub\Help\Working\BuildReferenceTopics.proj]
-  Processed 494 topic(s)
-  353 warning(s)
-  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 7 of 15.
-  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 2 of 30.
-Done Building Project &quot;C:\GitHub\Help\Working\BuildReferenceTopics.proj&quot; (default targets).
+  Processed 685 topic(s)
+  CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 10 of 15.
+  CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 3 of 30.
+Done Building Project &quot;C:\GIT\Help\Working\BuildReferenceTopics.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:38.18
-    Last step completed in 00:00:38.3780
+Time Elapsed 00:00:19.00
+    Last step completed in 00:00:19.1418
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
 
 Clearing any prior web output
-    Last step completed in 00:00:00.0140
+    Last step completed in 00:00:00.0065
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
-[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
-Sandcastle Help File Builder, version 2014.4.22.0
-Copyright c 2006-2014, Eric Woodruff, All Rights Reserved
+[C:\windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe]
+Sandcastle Help File Builder, version 2015.1.12.0
+Copyright &#184; 2006-2015, Eric Woodruff, All Rights Reserved
 E-Mail: Eric@EWoodruff.us
 
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
-Processing Help 1 files in C:\GitHub\Help\Working\Output\HtmlHelp1
-Processed 494 HTML files
+Processing website files in C:\GIT\Help\Working\Output\Website
+Processed 685 HTML files
 Sorting keywords and generating See Also indices
-Saving HTML Help 1 keyword index to C:\GitHub\Help\Working\R.MessageBus.Api.hhk
-Saving HTML Help 1 table of contents to C:\GitHub\Help\Working\R.MessageBus.Api.hhc
-
-Processing website files in C:\GitHub\Help\Working\Output\Website
-Processed 494 HTML files
-Sorting keywords and generating See Also indices
-Saving website keyword index to C:\GitHub\Help\Working\WebKI.xml
-Saving website table of contents to C:\GitHub\Help\Working\WebTOC.xml
-    Last step completed in 00:00:00.7870
+Saving website keyword index to C:\GIT\Help\Working\WebKI.xml
+Saving website table of contents to C:\GIT\Help\Working\WebTOC.xml
+    Last step completed in 00:00:00.6061
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\alert_caution.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\alert_caution.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\alert_note.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\alert_note.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\alert_security.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\alert_security.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\CFW.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\Collapsed.png -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\Collapsed.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\Expanded.png -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\Expanded.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\favicon.ico -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\favicon.ico
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\privclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\privdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\privenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\privevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\privextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\privfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\privinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\privmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\privproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\privstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protoperator.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\protstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\pubclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\pubdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\pubenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\pubevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\pubextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\pubfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\pubinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\pubmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\puboperator.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\pubproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\pubstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\slMobile.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\static.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\icons\xna.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\scripts\branding.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-cs-CZ.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-de-DE.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-en-US.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-es-ES.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-fr-FR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-it-IT.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-ja-JP.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-ko-KR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-pl-PL.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-pt-BR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-ru-RU.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-tr-TR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-zh-CN.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding-zh-TW.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; C:\GitHub\Help\Working\Output\HtmlHelp1\styles\branding.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\alert_caution.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\alert_caution.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\alert_note.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\alert_note.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\alert_security.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\alert_security.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\CFW.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\Collapsed.png -&gt; C:\GitHub\Help\Working\Output\Website\icons\Collapsed.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\Expanded.png -&gt; C:\GitHub\Help\Working\Output\Website\icons\Expanded.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\favicon.ico -&gt; C:\GitHub\Help\Working\Output\Website\icons\favicon.ico
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\privclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\privdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\privenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\privevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\privextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\privfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\privinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\privmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\privproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\privstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protoperator.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\protstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\pubclass.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\pubdelegate.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\pubenumeration.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\pubevent.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\pubextension.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\pubfield.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\pubinterface.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\pubmethod.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\puboperator.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\pubproperty.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\pubstructure.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\slMobile.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\static.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; C:\GitHub\Help\Working\Output\Website\icons\xna.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; C:\GitHub\Help\Working\Output\Website\scripts\branding.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-cs-CZ.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-de-DE.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-en-US.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-es-ES.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-fr-FR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-it-IT.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-ja-JP.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-ko-KR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-pl-PL.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-pt-BR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-ru-RU.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-tr-TR.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-zh-CN.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding-zh-TW.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; C:\GitHub\Help\Working\Output\Website\styles\branding.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\CloseSearch.png -&gt; C:\GitHub\Help\Working\Output\Website\.\CloseSearch.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\CollapseAll.png -&gt; C:\GitHub\Help\Working\Output\Website\.\CollapseAll.png
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\Collapsed.gif -&gt; C:\GitHub\Help\Working\Output\Website\.\Collapsed.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\Expanded.gif -&gt; C:\GitHub\Help\Working\Output\Website\.\Expanded.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\favicon.ico -&gt; C:\GitHub\Help\Working\Output\Website\.\favicon.ico
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\FillNode.aspx -&gt; C:\GitHub\Help\Working\Output\Website\.\FillNode.aspx
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\FillNode.php -&gt; C:\GitHub\Help\Working\Output\Website\.\FillNode.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\Index.aspx -&gt; C:\GitHub\Help\Working\Output\Website\.\Index.aspx
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\Index.gif -&gt; C:\GitHub\Help\Working\Output\Website\.\Index.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\index.html -&gt; C:\GitHub\Help\Working\Output\Website\.\index.html
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\index.php -&gt; C:\GitHub\Help\Working\Output\Website\.\index.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\Item.gif -&gt; C:\GitHub\Help\Working\Output\Website\.\Item.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\LoadIndexKeywords.aspx -&gt; C:\GitHub\Help\Working\Output\Website\.\LoadIndexKeywords.aspx
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\LoadIndexKeywords.php -&gt; C:\GitHub\Help\Working\Output\Website\.\LoadIndexKeywords.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\Search.gif -&gt; C:\GitHub\Help\Working\Output\Website\.\Search.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\SearchHelp.aspx -&gt; C:\GitHub\Help\Working\Output\Website\.\SearchHelp.aspx
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\SearchHelp.inc.php -&gt; C:\GitHub\Help\Working\Output\Website\.\SearchHelp.inc.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\SearchHelp.php -&gt; C:\GitHub\Help\Working\Output\Website\.\SearchHelp.php
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\Splitter.gif -&gt; C:\GitHub\Help\Working\Output\Website\.\Splitter.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\SyncTOC.gif -&gt; C:\GitHub\Help\Working\Output\Website\.\SyncTOC.gif
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\TOC.css -&gt; C:\GitHub\Help\Working\Output\Website\.\TOC.css
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\TOC.js -&gt; C:\GitHub\Help\Working\Output\Website\.\TOC.js
-C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\\Web\Web.Config -&gt; C:\GitHub\Help\Working\Output\Website\.\Web.Config
-    Last step completed in 00:00:00.5680
-</buildStep>
-<buildStep step="GenerateHelpFormatTableOfContents">
-Generating HTML Help 1 table of contents file...
-    Last step completed in 00:00:00.0020
-</buildStep>
-<buildStep step="GenerateHelpFileIndex">
-Generating HTML Help 1 index file...
-    Last step completed in 00:00:00.0020
-</buildStep>
-<buildStep step="GenerateHelpProject">
-Generating HTML Help 1 project file...
-    Last step completed in 00:00:00.0090
-</buildStep>
-<buildStep step="CompilingHelpFile">
-Compiling HTML Help 1 file...
-[C:\Windows\Microsoft.NET\Framework64\v4.0.30319\MSBuild.exe]
-  Microsoft HTML Help Compiler 4.74.8702
-  
-  
-  
-  Compiling c:\GitHub\Help\Working\Output\HtmlHelp1\R.MessageBus.Api.chm
-  
-  
-  
-  
-  
-  Compile time: 0 minutes, 2 seconds
-  
-  496	Topics
-  
-  5,517	Local links
-  
-  1,454	Internet links
-  
-  0	Graphics
-  
-  
-  
-  
-  
-  Created c:\GitHub\Help\Working\Output\HtmlHelp1\R.MessageBus.Api.chm, 580,241 bytes
-  
-  Compression decreased file by 3,745,176 bytes.
-  
-    Last step completed in 00:00:03.2310
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertCaution.png -&gt; C:\GIT\Help\Working\Output\Website\icons\AlertCaution.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertNote.png -&gt; C:\GIT\Help\Working\Output\Website\icons\AlertNote.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\AlertSecurity.png -&gt; C:\GIT\Help\Working\Output\Website\icons\AlertSecurity.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CFW.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\CFW.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\CodeExample.png -&gt; C:\GIT\Help\Working\Output\Website\icons\CodeExample.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\favicon.ico -&gt; C:\GIT\Help\Working\Output\Website\icons\favicon.ico
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privclass.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\privclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privdelegate.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\privdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privenumeration.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\privenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privevent.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\privevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privextension.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\privextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privfield.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\privfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privinterface.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\privinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privmethod.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\privmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privproperty.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\privproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\privstructure.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\privstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protclass.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protdelegate.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protenumeration.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protevent.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protextension.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protfield.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protinterface.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protmethod.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protoperator.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protoperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protproperty.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\protstructure.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\protstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubclass.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\pubclass.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubdelegate.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\pubdelegate.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubenumeration.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\pubenumeration.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubevent.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\pubevent.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubextension.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\pubextension.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubfield.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\pubfield.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubinterface.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\pubinterface.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubmethod.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\pubmethod.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\puboperator.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\puboperator.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubproperty.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\pubproperty.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\pubstructure.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\pubstructure.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionCollapsed.png -&gt; C:\GIT\Help\Working\Output\Website\icons\SectionCollapsed.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\SectionExpanded.png -&gt; C:\GIT\Help\Working\Output\Website\icons\SectionExpanded.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\slMobile.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\slMobile.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\static.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\static.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\icons\xna.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\xna.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\scripts\branding.js -&gt; C:\GIT\Help\Working\Output\Website\scripts\branding.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-cs-CZ.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-cs-CZ.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-de-DE.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-de-DE.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-en-US.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-en-US.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-es-ES.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-es-ES.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-fr-FR.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-fr-FR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help1.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-Help1.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Help2.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-Help2.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-HelpViewer.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-HelpViewer.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-it-IT.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-it-IT.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ja-JP.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-ja-JP.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ko-KR.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-ko-KR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pl-PL.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-pl-PL.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-pt-BR.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-pt-BR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-ru-RU.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-ru-RU.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-tr-TR.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-tr-TR.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-Website.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-Website.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-CN.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-zh-CN.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding-zh-TW.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding-zh-TW.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\styles\branding.css -&gt; C:\GIT\Help\Working\Output\Website\styles\branding.css
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\index.html -&gt; C:\GIT\Help\Working\Output\Website\index.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\search.html -&gt; C:\GIT\Help\Working\Output\Website\search.html
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.aspx -&gt; C:\GIT\Help\Working\Output\Website\SearchHelp.aspx
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.inc.php -&gt; C:\GIT\Help\Working\Output\Website\SearchHelp.inc.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\SearchHelp.php -&gt; C:\GIT\Help\Working\Output\Website\SearchHelp.php
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\Web.Config -&gt; C:\GIT\Help\Working\Output\Website\Web.Config
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\Search.png -&gt; C:\GIT\Help\Working\Output\Website\icons\Search.png
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocClose.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\TocClose.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocCollapsed.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\TocCollapsed.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocExpanded.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\TocExpanded.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\TocOpen.gif
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\GIT\Help\Working\Output\Website\scripts\branding-Website.js
+C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\GIT\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
+    Last step completed in 00:00:00.2290
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00.0020
+    Last step completed in 00:00:00.0030
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
-    Last step completed in 00:00:01.0570
+<plugIn name="Lightweight Website Style" behavior="After" priority="1000">
+Adding lightweight search and TOC elements to each topic...
+</plugIn>    Last step completed in 00:00:01.8549
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
@@ -757,16 +306,20 @@ Copied 200 files
 Copied 300 files
 Copied 400 files
 Copied 500 files
-Copied 598 files for the website content
-    Last step completed in 00:00:01.1490
+Copied 600 files
+Copied 700 files
+Copied 800 files
+Copied 900 files
+Copied 991 files for the website content
+    Last step completed in 00:00:02.0019
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.7320
+    Last step completed in 00:00:00.3646
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 02/25/2015 10:08 AM.  Total time: 00:01:06.2730
+Build completed successfully at 24/06/2015 11:21:58.  Total time: 00:00:34.1123
 
 </buildStep>
 </shfbBuild>
