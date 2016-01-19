@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shfbBuild product="Sandcastle Help File Builder" version="2015.1.12.0" projectFile="C:\GIT\R.MessageBus.ApiDoc.shfbproj" started="24/06/2015 11:21:24">
+<shfbBuild product="Sandcastle Help File Builder" version="2015.1.12.0" projectFile="C:\GIT\ServiceConnect.ApiDoc.shfbproj" started="19/01/2016 10:23:10">
 <buildStep step="Initializing">
 Finding tools...
 The Sandcastle tools are located in &#39;C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\&#39;
@@ -11,43 +11,40 @@ Lightweight Website Style Version 2015.1.12.0
 Copyright &#169; 2006-2015, Eric Woodruff, All Rights Reserved
 Portions Copyright &#169; 2014, Sam Harwell, All Rights Reserved
 </buildStep>
-<buildStep step="ClearWorkFolder">
-Clearing working folder...
-</buildStep>
 <buildStep step="ValidatingDocumentationSources">
 Validating and copying documentation source information
-Source: C:\GIT\R.MessageBus\src\R.MessageBus.Client.RabbitMQ\R.MessageBus.Client.RabbitMQ.csproj
-    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Client.RabbitMQ\R.MessageBus.Client.RabbitMQ.csproj&#39;
-Source: C:\GIT\R.MessageBus\src\R.MessageBus.Container.Default\R.MessageBus.Container.Default.csproj
-    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.Default\R.MessageBus.Container.Default.csproj&#39;
-Source: C:\GIT\R.MessageBus\src\R.MessageBus.Container.Ninject\R.MessageBus.Container.Ninject.csproj
-    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.Ninject\R.MessageBus.Container.Ninject.csproj&#39;
-Source: C:\GIT\R.MessageBus\src\R.MessageBus.Container.StructureMap\R.MessageBus.Container.StructureMap.csproj
-    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.StructureMap\R.MessageBus.Container.StructureMap.csproj&#39;
-Source: C:\GIT\R.MessageBus\src\R.MessageBus.Core\R.MessageBus.Core.csproj
-    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Core\R.MessageBus.Core.csproj&#39;
-Source: C:\GIT\R.MessageBus\src\R.MessageBus\R.MessageBus.csproj
-    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus\R.MessageBus.csproj&#39;
-Source: C:\GIT\R.MessageBus\src\R.MessageBus.Interfaces\R.MessageBus.Interfaces.csproj
-    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Interfaces\R.MessageBus.Interfaces.csproj&#39;
-Source: C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.InMemory\R.MessageBus.Persistance.InMemory.csproj
-    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.InMemory\R.MessageBus.Persistance.InMemory.csproj&#39;
-Source: C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.MongoDb\R.MessageBus.Persistance.MongoDb.csproj
-    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.MongoDb\R.MessageBus.Persistance.MongoDb.csproj&#39;
-Source: C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.SqlServer\R.MessageBus.Persistance.SqlServer.csproj
-    Found project &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.SqlServer\R.MessageBus.Persistance.SqlServer.csproj&#39;
+Source: C:\GIT\ServiceConnect\src\ServiceConnect.Client.RabbitMQ\ServiceConnect.Client.RabbitMQ.csproj
+    Found project &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Client.RabbitMQ\ServiceConnect.Client.RabbitMQ.csproj&#39;
+Source: C:\GIT\ServiceConnect\src\ServiceConnect.Container.Default\ServiceConnect.Container.Default.csproj
+    Found project &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Container.Default\ServiceConnect.Container.Default.csproj&#39;
+Source: C:\GIT\ServiceConnect\src\ServiceConnect.Container.Ninject\ServiceConnect.Container.Ninject.csproj
+    Found project &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Container.Ninject\ServiceConnect.Container.Ninject.csproj&#39;
+Source: C:\GIT\ServiceConnect\src\ServiceConnect.Container.StructureMap\ServiceConnect.Container.StructureMap.csproj
+    Found project &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Container.StructureMap\ServiceConnect.Container.StructureMap.csproj&#39;
+Source: C:\GIT\ServiceConnect\src\ServiceConnect.Core\ServiceConnect.Core.csproj
+    Found project &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Core\ServiceConnect.Core.csproj&#39;
+Source: C:\GIT\ServiceConnect\src\ServiceConnect\ServiceConnect.csproj
+    Found project &#39;C:\GIT\ServiceConnect\src\ServiceConnect\ServiceConnect.csproj&#39;
+Source: C:\GIT\ServiceConnect\src\ServiceConnect.Interfaces\ServiceConnect.Interfaces.csproj
+    Found project &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Interfaces\ServiceConnect.Interfaces.csproj&#39;
+Source: C:\GIT\ServiceConnect\src\ServiceConnect.Persistance.InMemory\ServiceConnect.Persistance.InMemory.csproj
+    Found project &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Persistance.InMemory\ServiceConnect.Persistance.InMemory.csproj&#39;
+Source: C:\GIT\ServiceConnect\src\ServiceConnect.Persistance.MongoDb\ServiceConnect.Persistance.MongoDb.csproj
+    Found project &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Persistance.MongoDb\ServiceConnect.Persistance.MongoDb.csproj&#39;
+Source: C:\GIT\ServiceConnect\src\ServiceConnect.Persistance.SqlServer\ServiceConnect.Persistance.SqlServer.csproj
+    Found project &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Persistance.SqlServer\ServiceConnect.Persistance.SqlServer.csproj&#39;
 
 Parsing project files
-    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Client.RabbitMQ\bin\Release\R.MessageBus.Client.RabbitMQ.dll&#39;
-    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.Default\bin\Release\R.MessageBus.Container.Default.dll&#39;
-    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.Ninject\bin\Release\R.MessageBus.Container.Ninject.dll&#39;
-    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Container.StructureMap\bin\Release\R.MessageBus.Container.StructureMap.dll&#39;
-    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Core\bin\Release\R.MessageBus.Core.dll&#39;
-    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus\bin\Release\R.MessageBus.dll&#39;
-    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Interfaces\bin\Release\R.MessageBus.Interfaces.dll&#39;
-    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.InMemory\bin\Release\R.MessageBus.Persistance.InMemory.dll&#39;
-    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.MongoDb\bin\Release\R.MessageBus.Persistance.MongoDb.dll&#39;
-    Found assembly &#39;C:\GIT\R.MessageBus\src\R.MessageBus.Persistance.SqlServer\bin\Release\R.MessageBus.Persistance.SqlServer.dll&#39;
+    Found assembly &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Client.RabbitMQ\bin\Release\ServiceConnect.Client.RabbitMQ.dll&#39;
+    Found assembly &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Container.Default\bin\Release\ServiceConnect.Container.Default.dll&#39;
+    Found assembly &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Container.Ninject\bin\Release\ServiceConnect.Container.Ninject.dll&#39;
+    Found assembly &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Container.StructureMap\bin\Release\ServiceConnect.Container.StructureMap.dll&#39;
+    Found assembly &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Core\bin\Release\ServiceConnect.Core.dll&#39;
+    Found assembly &#39;C:\GIT\ServiceConnect\src\ServiceConnect\bin\Release\ServiceConnect.dll&#39;
+    Found assembly &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Interfaces\bin\Release\ServiceConnect.Interfaces.dll&#39;
+    Found assembly &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Persistance.InMemory\bin\Release\ServiceConnect.Persistance.InMemory.dll&#39;
+    Found assembly &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Persistance.MongoDb\bin\Release\ServiceConnect.Persistance.MongoDb.dll&#39;
+    Found assembly &#39;C:\GIT\ServiceConnect\src\ServiceConnect.Persistance.SqlServer\bin\Release\ServiceConnect.Persistance.SqlServer.dll&#39;
 
 References to include (excluding framework assemblies):
     Common.Logging
@@ -58,24 +55,24 @@ References to include (excluding framework assemblies):
     Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL
     Ninject
     Ninject.Extensions.Conventions
-    RabbitMQ.Client, Version=3.5.3.0, Culture=neutral, PublicKeyToken=89e7d7c5feba84ce, processorArchitecture=MSIL
-    StructureMap, Version=3.1.5.0, Culture=neutral, processorArchitecture=MSIL
-    StructureMap.Net4
+    RabbitMQ.Client, Version=3.5.4.0, Culture=neutral, PublicKeyToken=89e7d7c5feba84ce, processorArchitecture=MSIL
+    StructureMap, Version=3.1.6.186, Culture=neutral, processorArchitecture=MSIL
+    StructureMap.Net4, Version=3.1.6.186, Culture=neutral, processorArchitecture=MSIL
 SHFB: Warning BE0062: No XML comments files found.  The help file will not contain any member comments.
 </buildStep>
 <buildStep step="GenerateSharedContent">
 Generating shared content files (en-US, English (United States))...
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
-</plugIn>    Last step completed in 00:00:00.0060
+</plugIn>    Last step completed in 00:00:00.0070
 </buildStep>
 <buildStep step="GenerateApiFilter">
 Generating API filter for MRefBuilder...
-    Last step completed in 00:00:00.0025
+    Last step completed in 00:00:00.0020
 </buildStep>
 <buildStep step="GenerateReflectionInfo">
 Generating reflection information...
 [C:\windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe]
-Build started 24/06/2015 11:21:32.
+Build started 19/01/2016 10:23:15.
 Project &quot;C:\GIT\Help\Working\GenerateRefInfo.proj&quot; on node 1 (default targets).
 PrepareForBuild:
   Creating directory &quot;obj\Debug\&quot;.
@@ -84,7 +81,7 @@ GenerateRefInfo:
   Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
   Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
   Loaded 10 assemblies for reflection and 11 dependency assemblies.
-  Wrote information on 11 namespaces, 74 types, and 462 members
+  Wrote information on 11 namespaces, 74 types, and 461 members
   Copying file from &quot;reflection.org&quot; to &quot;reflection.all&quot;.
   XslTransform (v2015.1.12.0)
   Copyright &#184; 2006-2015, Microsoft Corporation, All Rights Reserved.
@@ -94,13 +91,13 @@ Done Building Project &quot;C:\GIT\Help\Working\GenerateRefInfo.proj&quot; (defa
 
 Build succeeded.
 
-Time Elapsed 00:00:00.52
-    Last step completed in 00:00:00.6871
+Time Elapsed 00:00:00.50
+    Last step completed in 00:00:00.6711
 </buildStep>
 <buildStep step="TransformReflectionInfo">
 Transforming reflection output...
 [C:\windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe]
-Build started 24/06/2015 11:21:33.
+Build started 19/01/2016 10:23:16.
 Project &quot;C:\GIT\Help\Working\TransformManifest.proj&quot; on node 1 (default targets).
 TransformManifest:
   XslTransform (v2015.1.12.0)
@@ -120,26 +117,26 @@ Done Building Project &quot;C:\GIT\Help\Working\TransformManifest.proj&quot; (de
 
 Build succeeded.
 
-Time Elapsed 00:00:00.47
-    Last step completed in 00:00:00.6001
+Time Elapsed 00:00:00.57
+    Last step completed in 00:00:00.7431
 </buildStep>
 <buildStep step="GenerateNamespaceSummaries">
 Generating namespace summary information...
-    Last step completed in 00:00:00.0405
+    Last step completed in 00:00:00.0250
 </buildStep>
 <buildStep step="CopyAdditionalContent">
 Copying additional content files...
 No additional content to copy
-    Last step completed in 00:00:00.0055
+    Last step completed in 00:00:00.0050
 </buildStep>
 <buildStep step="MergeTablesOfContents">
 Merging conceptual and additional tables of contents...
-    Last step completed in 00:00:00.0025
+    Last step completed in 00:00:00.0030
 </buildStep>
 <buildStep step="GenerateIntermediateTableOfContents">
 Generating intermediate table of contents file...
 [C:\windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe]
-Build started 24/06/2015 11:21:33.
+Build started 19/01/2016 10:23:17.
 Project &quot;C:\GIT\Help\Working\GenerateIntermediateTOC.proj&quot; on node 1 (default targets).
 GenerateIntermediateTOC:
   XslTransform (v2015.1.12.0)
@@ -150,24 +147,24 @@ Done Building Project &quot;C:\GIT\Help\Working\GenerateIntermediateTOC.proj&quo
 
 Build succeeded.
 
-Time Elapsed 00:00:00.12
+Time Elapsed 00:00:00.10
 Generating conceptual content intermediate TOC file...
-    Last step completed in 00:00:00.2646
+    Last step completed in 00:00:00.2660
 </buildStep>
 <buildStep step="CreateBuildAssemblerConfigs">
 Creating Sandcastle configuration files...
     sandcastle.config
-    Last step completed in 00:00:00.1305
+    Last step completed in 00:00:00.1140
 </buildStep>
 <buildStep step="MergeCustomConfigs">
 Merging custom build component configurations
 C:\GIT\Help\Working\sandcastle.config
-    Last step completed in 00:00:00.0390
+    Last step completed in 00:00:00.0340
 </buildStep>
 <buildStep step="BuildReferenceTopics">
 Building reference help topics...
 [C:\windows\Microsoft.NET\Framework\v4.0.30319\MSBuild.exe]
-Build started 24/06/2015 11:21:34.
+Build started 19/01/2016 10:23:17.
 Project &quot;C:\GIT\Help\Working\BuildReferenceTopics.proj&quot; on node 1 (default targets).
 BuildReferenceTopics:
   BuildAssembler (v2015.1.12.0)
@@ -175,21 +172,21 @@ BuildReferenceTopics:
   Portions Copyright &#184; 2006-2014, Eric Woodruff, All Rights Reserved.
   Loading configuration...
   Processing topics...
-  Processed 685 topic(s)
+  Processed 684 topic(s)
   CopyFromIndexComponent: &quot;reflection&quot; in-memory cache entries used: 10 of 15.
   CopyFromIndexComponent: &quot;comments&quot; in-memory cache entries used: 3 of 30.
 Done Building Project &quot;C:\GIT\Help\Working\BuildReferenceTopics.proj&quot; (default targets).
 
 Build succeeded.
 
-Time Elapsed 00:00:19.00
-    Last step completed in 00:00:19.1418
+Time Elapsed 00:00:15.17
+    Last step completed in 00:00:15.3815
 </buildStep>
 <buildStep step="CombiningIntermediateTocFiles">
 Combining conceptual and API intermediate TOC files...
 
 Clearing any prior web output
-    Last step completed in 00:00:00.0065
+    Last step completed in 00:00:00.3780
 </buildStep>
 <buildStep step="ExtractingHtmlInfo">
 Extracting HTML info for HTML Help 1 and/or website...
@@ -201,11 +198,11 @@ E-Mail: Eric@EWoodruff.us
 Using LCID &#39;1033&#39;, code page &#39;65001&#39;, encoding charset &#39;UTF-8&#39;.
 
 Processing website files in C:\GIT\Help\Working\Output\Website
-Processed 685 HTML files
+Processed 684 HTML files
 Sorting keywords and generating See Also indices
 Saving website keyword index to C:\GIT\Help\Working\WebKI.xml
 Saving website table of contents to C:\GIT\Help\Working\WebTOC.xml
-    Last step completed in 00:00:00.6061
+    Last step completed in 00:00:00.5731
 </buildStep>
 <buildStep step="CopyStandardHelpContent">
 Copying standard help content...
@@ -285,18 +282,18 @@ C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyle
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\icons\TocOpen.gif -&gt; C:\GIT\Help\Working\Output\Website\icons\TocOpen.gif
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\branding-Website.js -&gt; C:\GIT\Help\Working\Output\Website\scripts\branding-Website.js
 C:\Program Files (x86)\EWSoftware\Sandcastle Help File Builder\PresentationStyles\VS2013\Web\scripts\jquery-1.11.0.min.js -&gt; C:\GIT\Help\Working\Output\Website\scripts\jquery-1.11.0.min.js
-    Last step completed in 00:00:00.2290
+    Last step completed in 00:00:00.2500
 </buildStep>
 <buildStep step="GenerateHelpFormatTableOfContents">
 Generating website table of contents file...
-    Last step completed in 00:00:00.0030
+    Last step completed in 00:00:00.0020
 </buildStep>
 <buildStep step="GenerateFullTextIndex">
 Generating full-text index for the website...
 
 <plugIn name="Lightweight Website Style" behavior="After" priority="1000">
 Adding lightweight search and TOC elements to each topic...
-</plugIn>    Last step completed in 00:00:01.8549
+</plugIn>    Last step completed in 00:00:01.7522
 </buildStep>
 <buildStep step="CopyingWebsiteFiles">
 Copying website files to output folder...
@@ -310,16 +307,16 @@ Copied 600 files
 Copied 700 files
 Copied 800 files
 Copied 900 files
-Copied 991 files for the website content
-    Last step completed in 00:00:02.0019
+Copied 990 files for the website content
+    Last step completed in 00:00:01.2961
 </buildStep>
 <buildStep step="CleanIntermediates">
 Removing intermediate files...
-    Last step completed in 00:00:00.3646
+    Last step completed in 00:00:00.4200
 </buildStep>
 <buildStep step="Completed">
 
-Build completed successfully at 24/06/2015 11:21:58.  Total time: 00:00:34.1123
+Build completed successfully at 19/01/2016 10:23:37.  Total time: 00:00:27.4217
 
 </buildStep>
 </shfbBuild>
